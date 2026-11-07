@@ -1,0 +1,3514 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-11-07T11:36:58Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/349556187",
+      "properties": {
+        "@id": "way/349556187",
+        "addr:full": "NH-31A, Sochaygang, Gangtok, Sikkim, 737101, India",
+        "ambulance": "yes",
+        "amenity": "hospital",
+        "beds": "1002",
+        "description": "Major government hospital in northeast India, NABH accredited, advanced ICUs, operation theaters, round-the-clock emergency, spacious wards, diagnostics, and modern pharmacy. Tele-consultation available.",
+        "emergency": "yes",
+        "fax": "09845562399",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general;surgery;cardiology;pediatrics;urology;nephrology;radiology;pediatry;maternity;intensive_care;blood_donation",
+        "image": "https://stnmhospital.com/static/images/hospital-exterior.jpg",
+        "internet_access": "yes",
+        "laboratory": "yes",
+        "language:en": "yes",
+        "language:hi": "yes",
+        "language:ne": "yes",
+        "name": "STNM Hospital",
+        "official_name": "Sir Thutob Namgyal Memorial Hospital",
+        "opening_hours": "24/7",
+        "operator": "Government of Sikkim",
+        "operator:type": "government",
+        "parking": "yes",
+        "pharmacy": "yes",
+        "phone": "+919845562399;+913592-202944",
+        "staff_count": "398",
+        "website": "http://sikkimhealth.gov.in/",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6026462,
+          27.3466714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/815289057",
+      "properties": {
+        "@id": "way/815289057",
+        "addr:district": "South Sikkim",
+        "addr:full": "Sikkim",
+        "addr:postcode": "737139",
+        "addr:state": "Sikkim",
+        "amenity": "hospital",
+        "building": "yes",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Primary Health Centre",
+        "source": "Local Knowledge",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3215659,
+          27.3237393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/880965330",
+      "properties": {
+        "@id": "way/880965330",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.121596,
+          27.1327591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1229236232",
+      "properties": {
+        "@id": "way/1229236232",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6135632,
+          27.3313882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1261894920",
+      "properties": {
+        "@id": "way/1261894920",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3615089,
+          27.1655318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1265651908",
+      "properties": {
+        "@id": "way/1265651908",
+        "amenity": "hospital",
+        "healthcare": "yes",
+        "name": "Health & Wellness Center",
+        "operator": "gouvernement",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3649865,
+          27.3088197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1266541535",
+      "properties": {
+        "@id": "way/1266541535",
+        "addr:district": "South Sikkim",
+        "addr:full": "Turuk",
+        "addr:postcode": "737128",
+        "addr:state": "Sikkim",
+        "amenity": "clinic",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Turuk",
+        "source": "Local Knowledge",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4077545,
+          27.1074461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4925330128",
+      "properties": {
+        "@id": "node/4925330128",
+        "amenity": "hospital",
+        "healthcare": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6135864,
+          27.3313407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4925330242",
+      "properties": {
+        "@id": "node/4925330242",
+        "amenity": "pharmacy",
+        "name": "Himalayan medical hall",
+        "name:en": "Himalayan medical hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4966053,
+          27.2319089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4925330523",
+      "properties": {
+        "@id": "node/4925330523",
+        "amenity": "pharmacy",
+        "name": "Bengal traders",
+        "name:en": "Bengal traders"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.495537,
+          27.231422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6493516285",
+      "properties": {
+        "@id": "node/6493516285",
+        "addr:district": "West Sikkim",
+        "addr:postcode": "737113",
+        "addr:state": "Sikkim",
+        "addr:subdistrict": "Gyalshing",
+        "amenity": "hospital",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "locality": "Yuksam",
+        "name": "Yuksam, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.2252546,
+          27.3708529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6902545397",
+      "properties": {
+        "@id": "node/6902545397",
+        "addr:city": "Gangtok",
+        "addr:district": "EAST Sikkim",
+        "addr:full": "STNM Hospital Complex , NH 31A , Gangtok, East Sikkim",
+        "addr:postcode": "737101",
+        "addr:state": "Sikkim",
+        "contact:phone": "3592207691",
+        "email": "cbbstnmh90@gmail.com",
+        "healthcare": "blood_donation",
+        "name": "Central Blood Bank STNM Hospital",
+        "opening_hours": "24/7",
+        "operator:type": "government",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6025557,
+          27.3470903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6902545405",
+      "properties": {
+        "@id": "node/6902545405",
+        "addr:city": "Namchi",
+        "addr:district": "South Sikkim",
+        "addr:full": "Namchi District Hospital, Hospital Road, Namchi",
+        "addr:postcode": "737126",
+        "addr:state": "Sikkim",
+        "amenity": "hospital",
+        "contact:mobile": "7797895320",
+        "contact:phone": "3595264544",
+        "email": "anjurai100@gmail.com",
+        "healthcare": "hospital",
+        "name": "Government General Hospital Blood Bank - Namchi",
+        "opening_hours": "24/7",
+        "operator:type": "government",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.360583,
+          27.1655039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6908120518",
+      "properties": {
+        "@id": "node/6908120518",
+        "addr:district": "East Sikkim",
+        "addr:full": "5Th Mile Tadong, Gangtok",
+        "addr:postcode": "737101",
+        "addr:state": "Sikkim",
+        "ambulance": "yes",
+        "amenity": "hospital",
+        "beds": "550",
+        "description": "Multi-specialty, NABH-accredited hospital with 24/7 emergency, advanced ICUs (ICU, SICU, NICU, PICU, CCU, NSICU, ITU), world-class diagnostics, and digital imaging (first in Sikkim with PACS), attached to Sikkim Manipal University",
+        "emergency": "yes",
+        "fax": "231162",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general;surgery;cardiology;neurosurgery;gastroenterology;blood_donation;maternity;pediatric;radiology;intensive_care",
+        "internet_access": "yes",
+        "laboratory": "yes",
+        "language:en": "yes",
+        "language:hi": "yes",
+        "name": "Central Referral Hospital",
+        "official_name": "Central Referral Hospital (A Constituent Unit Of Sikkim Manipal University)",
+        "opening_hours": "24/7",
+        "operator": "Sikkim Manipal University",
+        "operator:type": "private",
+        "parking": "yes",
+        "pharmacy": "yes",
+        "phone": "18001202114",
+        "staff_count:doctors": "76",
+        "website": "https://smu.edu.in/crh/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5975829,
+          27.3163644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6908120519",
+      "properties": {
+        "@id": "node/6908120519",
+        "addr:district": "East Sikkim",
+        "addr:full": "SMIMS, 5th Mile, Tadong,East Sikkim",
+        "addr:postcode": "737102",
+        "addr:state": "Sikkim",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Sikkim Manipal Institute of Medical Sciences",
+        "operator:type": "government",
+        "source": "OpenGovernmentData",
+        "website": "www.smims.smu.edu.in"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5975802,
+          27.3174225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6911257928",
+      "properties": {
+        "@id": "node/6911257928",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6028366,
+          27.328743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7118826334",
+      "properties": {
+        "@id": "node/7118826334",
+        "addr:district": "East Sikkim",
+        "addr:postcode": "737102",
+        "addr:state": "Sikkim",
+        "addr:subdistrict": "Gangtok",
+        "description": "Urban Health Centre",
+        "healthcare": "centre",
+        "locality": "gangtok",
+        "name": "Urban Family Welfare Center",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6146395,
+          27.3249511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7118826335",
+      "properties": {
+        "@id": "node/7118826335",
+        "addr:district": "West Sikkim",
+        "addr:postcode": "737121",
+        "addr:state": "Sikkim",
+        "addr:subdistrict": "Soreng",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Soreng, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.2023787,
+          27.1736956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7118826336",
+      "properties": {
+        "@id": "node/7118826336",
+        "addr:district": "South Sikkim",
+        "addr:full": "Melli-Nayabazar Rd,Nayabazar",
+        "addr:postcode": "737121",
+        "addr:state": "Sikkim",
+        "addr:subdistrict": "Namchi",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "locality": "Jorethang",
+        "name": "Jorethang, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.283958,
+          27.132393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7118826337",
+      "properties": {
+        "@id": "node/7118826337",
+        "addr:district": "South Sikkim",
+        "addr:postcode": "737134",
+        "addr:state": "Sikkim",
+        "addr:street": "Tarku Rabongla Road",
+        "addr:subdistrict": "Namchi",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "locality": "Temi",
+        "name": "Temi, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4244922,
+          27.2400268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7118826338",
+      "properties": {
+        "@id": "node/7118826338",
+        "addr:district": "East Sikkim",
+        "addr:postcode": "737133",
+        "addr:state": "Sikkim",
+        "addr:street": "Rhenock bazar",
+        "addr:subdistrict": "Rhenak",
+        "description": "Community Health Center",
+        "healthcare": "centre",
+        "name": "Rhenock, CHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.64578,
+          27.174289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7118826339",
+      "properties": {
+        "@id": "node/7118826339",
+        "addr:district": "West Sikkim",
+        "addr:postcode": "737111",
+        "addr:state": "Sikkim",
+        "addr:subdistrict": "Geyzing",
+        "amenity": "hospital",
+        "description": "District Hospital",
+        "locality": "Geyzing",
+        "name": "Geyzing District Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.256922,
+          27.291121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7118826340",
+      "properties": {
+        "@id": "node/7118826340",
+        "addr:district": "East Sikkim",
+        "addr:postcode": "737134",
+        "addr:state": "Sikkim",
+        "addr:street": "Singtam District Hospital",
+        "addr:subdistrict": "Gangtok",
+        "amenity": "hospital",
+        "description": "District Hospital",
+        "locality": "Singtam",
+        "name": "Singtam District Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4950137,
+          27.2298217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7118826341",
+      "properties": {
+        "@id": "node/7118826341",
+        "addr:district": "East Sikkim",
+        "addr:postcode": "737134",
+        "addr:state": "Sikkim",
+        "addr:street": "Sang",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "locality": "Sang",
+        "name": "Sang, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.503574,
+          27.254776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7118826342",
+      "properties": {
+        "@id": "node/7118826342",
+        "addr:district": "West Sikkim",
+        "addr:postcode": "737121",
+        "addr:state": "Sikkim",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "locality": "Sombaria",
+        "name": "Sombaria, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.1476377,
+          27.141154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7118826343",
+      "properties": {
+        "@id": "node/7118826343",
+        "addr:district": "West Sikkim",
+        "addr:postcode": "737113",
+        "addr:state": "Sikkim",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "locality": "Rinchenpong",
+        "name": "Rinchenpong, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.2687572,
+          27.2391977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7118826345",
+      "properties": {
+        "@id": "node/7118826345",
+        "addr:district": "West Sikkim",
+        "addr:postcode": "737111",
+        "addr:state": "Sikkim",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "locality": "Laso",
+        "name": "Tashiding, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.28695,
+          27.326524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7118826346",
+      "properties": {
+        "@id": "node/7118826346",
+        "addr:district": "South Sikkim",
+        "addr:postcode": "737126",
+        "addr:state": "Sikkim",
+        "addr:street": "Hospital Rd",
+        "addr:subdistrict": "Namchi",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "locality": "Namthang",
+        "name": "Namthang, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.477845,
+          27.16672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7118826347",
+      "properties": {
+        "@id": "node/7118826347",
+        "addr:district": "East Sikkim",
+        "addr:postcode": "737132",
+        "addr:state": "Sikkim",
+        "addr:street": "Rangpo NH 10,Upper Bazar",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "locality": "Rangpo NH 10",
+        "name": "Rangpo, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5303401,
+          27.1755729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7118826348",
+      "properties": {
+        "@id": "node/7118826348",
+        "addr:district": "East Sikkim",
+        "addr:postcode": "737106",
+        "addr:state": "Sikkim",
+        "addr:street": "Pakyong BAZAR",
+        "addr:subdistrict": "Pakyong",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Pakyong, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5976253,
+          27.2436711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7118826349",
+      "properties": {
+        "@id": "node/7118826349",
+        "addr:district": "West Sikkim",
+        "addr:postcode": "737113",
+        "addr:state": "Sikkim",
+        "addr:subdistrict": "Gyalshing",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "locality": "Dentam",
+        "name": "Dentam, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.1306563,
+          27.2617762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7118826350",
+      "properties": {
+        "@id": "node/7118826350",
+        "addr:district": "South Sikkim",
+        "addr:postcode": "737139",
+        "addr:state": "Sikkim",
+        "addr:subdistrict": "Ravong",
+        "description": "Public Health Center",
+        "healthcare": "centre",
+        "locality": "Yangang",
+        "name": "Yangang, Public Health Center",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4175852,
+          27.292433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7118826351",
+      "properties": {
+        "@id": "node/7118826351",
+        "addr:district": "East Sikkim",
+        "addr:postcode": "737107",
+        "addr:state": "Sikkim",
+        "addr:street": "Samdong",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "locality": "Samdong",
+        "name": "Samdong, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4963587,
+          27.3542311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7118826352",
+      "properties": {
+        "@id": "node/7118826352",
+        "addr:district": "West Sikkim",
+        "addr:postcode": "727121",
+        "addr:state": "Sikkim",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "locality": "Mangalbaria",
+        "name": "Mangalbaria, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.2863502,
+          27.1920551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7151606072",
+      "properties": {
+        "@id": "node/7151606072",
+        "addr:full": "Tharpu",
+        "addr:state": "Sikkim",
+        "description": "Health- Sub Centre",
+        "healthcare": "centre",
+        "name": "Primary Health Sub Centre, Tharpu",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.1908366,
+          27.1421923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7151606077",
+      "properties": {
+        "@id": "node/7151606077",
+        "addr:full": "Sakhu",
+        "addr:state": "Sikkim",
+        "description": "Health- Sub Centre",
+        "healthcare": "centre",
+        "name": "Primary Health Sub Centre, Sakhu",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5165024,
+          27.2055007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7151606082",
+      "properties": {
+        "@id": "node/7151606082",
+        "addr:full": "Khamdong",
+        "addr:state": "Sikkim",
+        "description": "Health- Sub Centre",
+        "healthcare": "centre",
+        "name": "Primary Health Sub Centre, Khamdong",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4584782,
+          27.2698451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7151637487",
+      "properties": {
+        "@id": "node/7151637487",
+        "addr:full": "Kewzing",
+        "addr:state": "Sikkim",
+        "description": "Health- Sub Centre",
+        "healthcare": "centre",
+        "name": "Primary Health Sub Center ,Kewzing",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3181416,
+          27.2795643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7151637497",
+      "properties": {
+        "@id": "node/7151637497",
+        "addr:full": "Sumik, Lingzey",
+        "addr:state": "Sikkim",
+        "description": "Health- Sub Centre",
+        "healthcare": "centre",
+        "name": "Primary Health Sub Centre, Sumik Lingzey",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4676178,
+          27.2992965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7151637506",
+      "properties": {
+        "@id": "node/7151637506",
+        "addr:full": "Tumin",
+        "addr:state": "Sikkim",
+        "description": "Health- Sub Centre",
+        "healthcare": "centre",
+        "name": "Primary Health Sub Centre, Tumin",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5101657,
+          27.3273959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7151637511",
+      "properties": {
+        "@id": "node/7151637511",
+        "addr:full": "Kabi",
+        "addr:state": "Sikkim",
+        "description": "Health- Sub Centre",
+        "healthcare": "centre",
+        "name": "Physical Health Sub Centre ,Kabi",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6181729,
+          27.3979974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7151653898",
+      "properties": {
+        "@id": "node/7151653898",
+        "addr:full": "Damthang",
+        "addr:state": "Sikkim",
+        "description": "Health- Sub Centre",
+        "healthcare": "centre",
+        "name": "Primary Health Sub Center ,South District, Damthang",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3910132,
+          27.2293029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7615097178",
+      "properties": {
+        "@id": "node/7615097178",
+        "addr:district": "East Sikkim",
+        "addr:full": "Metro Point Bus Stop, Lower, Tadong, Gangtok",
+        "addr:postcode": "737102",
+        "addr:state": "Sikkim",
+        "amenity": "clinic",
+        "name": "Neo Dental Clinic",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5950556,
+          27.3105322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7615097179",
+      "properties": {
+        "@id": "node/7615097179",
+        "addr:district": "West Sikkim",
+        "addr:full": "Tashiding",
+        "addr:postcode": "737111",
+        "addr:state": "Sikkim",
+        "amenity": "hospital",
+        "name": "Tashiding Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.286698,
+          27.327142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7615097180",
+      "properties": {
+        "@id": "node/7615097180",
+        "addr:district": "East Sikkim",
+        "addr:full": "Singtam",
+        "addr:postcode": "737134",
+        "addr:state": "Sikkim",
+        "amenity": "clinic",
+        "name": "Drishti Optical Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.497779,
+          27.231534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7615097181",
+      "properties": {
+        "@id": "node/7615097181",
+        "addr:district": "East Sikkim",
+        "addr:full": "Arithang, Gangtok",
+        "addr:postcode": "737101",
+        "addr:state": "Sikkim",
+        "amenity": "clinic",
+        "name": "Netralaya Eye Clinic and Optical Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6149307,
+          27.333257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7615097182",
+      "properties": {
+        "@id": "node/7615097182",
+        "addr:district": "East Sikkim",
+        "addr:full": "NH10, Arithang, Gangtok",
+        "addr:postcode": "737101",
+        "addr:state": "Sikkim",
+        "amenity": "clinic",
+        "name": "Drishyam Eye Care and Surgical Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6144148,
+          27.3323733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7615097183",
+      "properties": {
+        "@id": "node/7615097183",
+        "addr:district": "South Sikkim",
+        "addr:full": "Namchi",
+        "addr:postcode": "737126",
+        "addr:state": "Sikkim",
+        "amenity": "hospital",
+        "name": "District Hospital",
+        "name:ne": "जिल्ला अस्पताल",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3750115,
+          27.1712753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7615097184",
+      "properties": {
+        "@id": "node/7615097184",
+        "addr:district": "East Sikkim",
+        "addr:full": "Singtam",
+        "addr:postcode": "737134",
+        "addr:state": "Sikkim",
+        "amenity": "clinic",
+        "name": "Dr. Manojit Sutradhar's Clinic",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4964885,
+          27.2319871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7615097185",
+      "properties": {
+        "@id": "node/7615097185",
+        "addr:district": "East Sikkim",
+        "addr:full": "Singtam - Chungthang Road, Tadong, Gangtok",
+        "addr:postcode": "737102",
+        "addr:state": "Sikkim",
+        "amenity": "clinic",
+        "name": "Aashirwad Clinic",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5967021,
+          27.3130337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7615097186",
+      "properties": {
+        "@id": "node/7615097186",
+        "addr:district": "East Sikkim",
+        "addr:full": "Lower Bazar, Rangpo",
+        "addr:postcode": "737132",
+        "addr:state": "Sikkim",
+        "amenity": "clinic",
+        "name": "Dhristi Eye Clinic",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.529319,
+          27.175155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7615097187",
+      "properties": {
+        "@id": "node/7615097187",
+        "addr:district": "South Sikkim",
+        "addr:full": "Lingi",
+        "addr:postcode": "737139",
+        "addr:state": "Sikkim",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Primary Health Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.469961,
+          27.367037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7615097188",
+      "properties": {
+        "@id": "node/7615097188",
+        "addr:district": "East Sikkim",
+        "addr:full": "Bodhi Marg, Sungava, Gangtok",
+        "addr:postcode": "737101",
+        "addr:state": "Sikkim",
+        "amenity": "clinic",
+        "name": "Dental Clinic",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6131569,
+          27.3367271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7615097189",
+      "properties": {
+        "@id": "node/7615097189",
+        "addr:district": "North Sikkim",
+        "addr:full": "Gurudongmar Road",
+        "addr:postcode": "737120",
+        "addr:state": "Sikkim",
+        "amenity": "hospital",
+        "name": "Lachen Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5508921,
+          27.7296019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7615097190",
+      "properties": {
+        "@id": "node/7615097190",
+        "addr:district": "North Sikkim",
+        "addr:full": "Dzongu, Passingdang",
+        "addr:postcode": "737116",
+        "addr:state": "Sikkim",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "PHC",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5114245,
+          27.5307344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7615097191",
+      "properties": {
+        "@id": "node/7615097191",
+        "addr:district": "East Sikkim",
+        "addr:full": "Sikkim",
+        "addr:postcode": "737134",
+        "addr:state": "Sikkim",
+        "amenity": "hospital",
+        "name": "Baidhya Ayurvedic Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.495588,
+          27.2276025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7615097192",
+      "properties": {
+        "@id": "node/7615097192",
+        "addr:district": "South Sikkim",
+        "addr:full": "NH710, Kitam",
+        "addr:postcode": "737126",
+        "addr:state": "Sikkim",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "PHC, Kitam",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3466737,
+          27.1220407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7615097193",
+      "properties": {
+        "@id": "node/7615097193",
+        "addr:district": "East Sikkim",
+        "addr:full": "Arithang, Gangtok",
+        "addr:postcode": "737101",
+        "addr:state": "Sikkim",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Dr. Sumit Periwal Child Care Clinic",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.61363,
+          27.3304332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7615097194",
+      "properties": {
+        "@id": "node/7615097194",
+        "addr:district": "West Sikkim",
+        "addr:full": "Pelling",
+        "addr:postcode": "737113",
+        "addr:state": "Sikkim",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Primary Health Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.228128,
+          27.302544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7615097195",
+      "properties": {
+        "@id": "node/7615097195",
+        "addr:district": "East Sikkim",
+        "addr:full": "Raley-Khese",
+        "addr:postcode": "737107",
+        "addr:state": "Sikkim",
+        "description": "Sub Centre",
+        "healthcare": "centre",
+        "name": "Primary Health Sub Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4927194,
+          27.3454286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7615097196",
+      "properties": {
+        "@id": "node/7615097196",
+        "addr:district": "East Sikkim",
+        "addr:full": "Radharani Enterprises, Sichey School Road, Sungava, Gangtok",
+        "addr:postcode": "737101",
+        "addr:state": "Sikkim",
+        "amenity": "doctors",
+        "name": "Dr. Mohonish N Chettri",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6043741,
+          27.3374223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7615097197",
+      "properties": {
+        "@id": "node/7615097197",
+        "addr:district": "North Sikkim",
+        "addr:full": "Mangan",
+        "addr:postcode": "737116",
+        "addr:state": "Sikkim",
+        "amenity": "hospital",
+        "name": "Mangan District Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.531877,
+          27.490878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7615097198",
+      "properties": {
+        "@id": "node/7615097198",
+        "addr:district": "East Sikkim",
+        "addr:full": "Tadong, Gangtok",
+        "addr:postcode": "737102",
+        "addr:state": "Sikkim",
+        "amenity": "hospital",
+        "name": "Government Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.597016,
+          27.314817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7615097200",
+      "properties": {
+        "@id": "node/7615097200",
+        "addr:district": "East Sikkim",
+        "addr:full": "Majitar",
+        "addr:postcode": "737136",
+        "addr:state": "Sikkim",
+        "health_facility:type": "dispensary",
+        "healthcare": "centre",
+        "name": "Dispensary",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.500686,
+          27.182527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7615097202",
+      "properties": {
+        "@id": "node/7615097202",
+        "addr:district": "East Sikkim",
+        "addr:full": "Arithang, Gangtok",
+        "addr:postcode": "737101",
+        "addr:state": "Sikkim",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Ruchi Diagnostic Clinic",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6136867,
+          27.3304047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7615097203",
+      "properties": {
+        "@id": "node/7615097203",
+        "addr:district": "East Sikkim",
+        "addr:full": "Pakyong",
+        "addr:postcode": "737106",
+        "addr:state": "Sikkim",
+        "amenity": "hospital",
+        "name": "STNM Multispeciality Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5987252,
+          27.2436348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7615097205",
+      "properties": {
+        "@id": "node/7615097205",
+        "addr:district": "East Sikkim",
+        "addr:full": "Singtam",
+        "addr:postcode": "737134",
+        "addr:state": "Sikkim",
+        "amenity": "clinic",
+        "name": "Dr. A. H. Khan's Clinic",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4966193,
+          27.2319809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7615097208",
+      "properties": {
+        "@id": "node/7615097208",
+        "addr:district": "East Sikkim",
+        "addr:full": "Upper Sichey, Sungava, Gangtok",
+        "addr:postcode": "737101",
+        "addr:state": "Sikkim",
+        "amenity": "clinic",
+        "name": "ENT Clinic",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.613052,
+          27.336356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7615097209",
+      "properties": {
+        "@id": "node/7615097209",
+        "addr:district": "West Sikkim",
+        "addr:full": "Geyzing",
+        "addr:postcode": "737111",
+        "addr:state": "Sikkim",
+        "amenity": "hospital",
+        "name": "50 Bedded Ayush Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.245448,
+          27.289573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7615097210",
+      "properties": {
+        "@id": "node/7615097210",
+        "addr:district": "East Sikkim",
+        "addr:full": "Sungava, Gangtok",
+        "addr:postcode": "737101",
+        "addr:state": "Sikkim",
+        "amenity": "doctors",
+        "name": "Dr. Sanjog Sharma",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6074448,
+          27.3362683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7615097211",
+      "properties": {
+        "@id": "node/7615097211",
+        "addr:district": "East Sikkim",
+        "addr:full": "Machong",
+        "addr:postcode": "737131",
+        "addr:state": "Sikkim",
+        "description": "Community Health Centre",
+        "healthcare": "centre",
+        "name": "CHC",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6692366,
+          27.2299707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8169039986",
+      "properties": {
+        "@id": "node/8169039986",
+        "amenity": "clinic",
+        "name": "Urban Health Center (govt)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5976412,
+          27.3110031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8169044947",
+      "properties": {
+        "@id": "node/8169044947",
+        "amenity": "clinic",
+        "name": "Ayurvedic Health Center OPD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5951986,
+          27.3103867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8190137355",
+      "properties": {
+        "@id": "node/8190137355",
+        "addr:district": "East",
+        "addr:full": "Rorathang",
+        "addr:postcode": "737132",
+        "addr:state": "Sikkim",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Rorathang",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.610887,
+          27.1969636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8190171108",
+      "properties": {
+        "@id": "node/8190171108",
+        "addr:district": "East",
+        "addr:full": "Takchang",
+        "addr:postcode": "737106",
+        "addr:state": "Sikkim",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Primary Health Centre, Takchang",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6409515,
+          27.2169086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8190171936",
+      "properties": {
+        "@id": "node/8190171936",
+        "addr:district": "East",
+        "addr:full": "Rangpo",
+        "addr:postcode": "737132",
+        "addr:state": "Sikkim",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Rangpo",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5219942,
+          27.1772398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8190179529",
+      "properties": {
+        "@id": "node/8190179529",
+        "addr:district": "East Sikkim",
+        "addr:full": "Sumen",
+        "addr:postcode": "737134",
+        "addr:state": "Sikkim",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Sumen",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5345091,
+          27.2401313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8190191361",
+      "properties": {
+        "@id": "node/8190191361",
+        "addr:district": "East Sikkim",
+        "addr:full": "Luing",
+        "addr:postcode": "737103",
+        "addr:state": "Sikkim",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Luing",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5990366,
+          27.3603847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8190200100",
+      "properties": {
+        "@id": "node/8190200100",
+        "addr:district": "East Sikkim",
+        "addr:full": "West Pendam",
+        "addr:postcode": "737134",
+        "addr:state": "Sikkim",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, West Pendam",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5175813,
+          27.215959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8190255588",
+      "properties": {
+        "@id": "node/8190255588",
+        "addr:district": "East Sikkim",
+        "addr:full": "Pakyong",
+        "addr:postcode": "737106",
+        "addr:state": "Sikkim",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Pakyong",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5938814,
+          27.2351512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8190306872",
+      "properties": {
+        "@id": "node/8190306872",
+        "addr:district": "East Sikkim",
+        "addr:full": "Raley-Khese",
+        "addr:postcode": "737107",
+        "addr:state": "Sikkim",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Raley Khese",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4935276,
+          27.3489444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8190315823",
+      "properties": {
+        "@id": "node/8190315823",
+        "addr:district": "East Sikkim",
+        "addr:full": "Padamchey",
+        "addr:postcode": "737106",
+        "addr:state": "Sikkim",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Padamchey",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6181839,
+          27.2129149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8190361926",
+      "properties": {
+        "@id": "node/8190361926",
+        "addr:district": "East Sikkim",
+        "addr:full": "Kamarey Bhasmey",
+        "addr:postcode": "737132",
+        "addr:state": "Sikkim",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Kamarey Bhasmey",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5733977,
+          27.2005143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8190404758",
+      "properties": {
+        "@id": "node/8190404758",
+        "addr:district": "East Sikkim",
+        "addr:full": "Machong",
+        "addr:postcode": "737131",
+        "addr:state": "Sikkim",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Machong",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6875123,
+          27.2350728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8190428707",
+      "properties": {
+        "@id": "node/8190428707",
+        "addr:district": "East Sikkim",
+        "addr:full": "Nandok",
+        "addr:postcode": "737102",
+        "addr:state": "Sikkim",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Nandok",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6114532,
+          27.2971746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8192524489",
+      "properties": {
+        "@id": "node/8192524489",
+        "addr:district": "East Sikkim",
+        "addr:full": "Khamdong",
+        "addr:postcode": "737134",
+        "addr:state": "Sikkim",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Khamdong",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4819666,
+          27.2663499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8192528515",
+      "properties": {
+        "@id": "node/8192528515",
+        "addr:district": "East Sikkim",
+        "addr:full": "South Regu",
+        "addr:postcode": "737131",
+        "addr:state": "Sikkim",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, South Regu",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.7221822,
+          27.1984519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8192551013",
+      "properties": {
+        "@id": "node/8192551013",
+        "addr:district": "East Sikkim",
+        "addr:full": "Linkey",
+        "addr:postcode": "737106",
+        "addr:state": "Sikkim",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Linkey",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6540055,
+          27.2366766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8192555536",
+      "properties": {
+        "@id": "node/8192555536",
+        "addr:district": "East Sikkim",
+        "addr:full": "Lamaten",
+        "addr:postcode": "737131",
+        "addr:state": "Sikkim",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Lamaten",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.7220052,
+          27.2474504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8192565931",
+      "properties": {
+        "@id": "node/8192565931",
+        "addr:district": "East Sikkim",
+        "addr:full": "Duga",
+        "addr:postcode": "737132",
+        "addr:state": "Sikkim",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Duga",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5360892,
+          27.197331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8192571188",
+      "properties": {
+        "@id": "node/8192571188",
+        "addr:district": "East Sikkim",
+        "addr:full": "Sudunglakha",
+        "addr:postcode": "737133",
+        "addr:state": "Sikkim",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Sudunglakha",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6484925,
+          27.1971279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8192571645",
+      "properties": {
+        "@id": "node/8192571645",
+        "addr:district": "East Sikkim",
+        "addr:full": "Aho",
+        "addr:postcode": "737135",
+        "addr:state": "Sikkim",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Aho",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6112548,
+          27.264543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8192571673",
+      "properties": {
+        "@id": "node/8192571673",
+        "addr:district": "East Sikkim",
+        "addr:full": "Lingtam",
+        "addr:postcode": "737131",
+        "addr:state": "Sikkim",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Lingtam",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.751485,
+          27.2343499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8192578073",
+      "properties": {
+        "@id": "node/8192578073",
+        "addr:district": "East Sikkim",
+        "addr:full": "Basilakha",
+        "addr:postcode": "737106",
+        "addr:state": "Sikkim",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Basilakha",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5818521,
+          27.2608382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8192582919",
+      "properties": {
+        "@id": "node/8192582919",
+        "addr:district": "East Sikkim",
+        "addr:full": "Ranka",
+        "addr:postcode": "737135",
+        "addr:state": "Sikkim",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Ranka",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5903778,
+          27.3440777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8192587221",
+      "properties": {
+        "@id": "node/8192587221",
+        "addr:district": "East Sikkim",
+        "addr:full": "Makha",
+        "addr:postcode": "737134",
+        "addr:state": "Sikkim",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Makha",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4553963,
+          27.3137352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8192644708",
+      "properties": {
+        "@id": "node/8192644708",
+        "addr:district": "East Sikkim",
+        "addr:full": "Penlong",
+        "addr:postcode": "737107",
+        "addr:state": "Sikkim",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Penlong",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6239078,
+          27.376356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8192818416",
+      "properties": {
+        "@id": "node/8192818416",
+        "addr:district": "East Sikkim",
+        "addr:full": "Rongli",
+        "addr:postcode": "737131",
+        "addr:state": "Sikkim",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Rongli",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.702522,
+          27.2025677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8192828556",
+      "properties": {
+        "@id": "node/8192828556",
+        "addr:district": "East Sikkim",
+        "addr:full": "Ranipool",
+        "addr:postcode": "737135",
+        "addr:state": "Sikkim",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Ranipool",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5926436,
+          27.2949841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8192828908",
+      "properties": {
+        "@id": "node/8192828908",
+        "addr:district": "East Sikkim",
+        "addr:full": "Aritar",
+        "addr:postcode": "737133",
+        "addr:state": "Sikkim",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Aritar",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6745281,
+          27.1883382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8192846446",
+      "properties": {
+        "@id": "node/8192846446",
+        "addr:district": "East Sikkim",
+        "addr:full": "Biring",
+        "addr:postcode": "737106",
+        "addr:state": "Sikkim",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Biring",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6662692,
+          27.2186916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8192849448",
+      "properties": {
+        "@id": "node/8192849448",
+        "addr:district": "East Sikkim",
+        "addr:full": "Martam",
+        "addr:postcode": "737135",
+        "addr:state": "Sikkim",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Martam",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5564499,
+          27.2624821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8192868774",
+      "properties": {
+        "@id": "node/8192868774",
+        "addr:district": "North Sikkim",
+        "addr:full": "Lingdong",
+        "addr:postcode": "737116",
+        "addr:state": "Sikkim",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Lingdong",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5194632,
+          27.5073091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8192870991",
+      "properties": {
+        "@id": "node/8192870991",
+        "addr:district": "East Sikkim",
+        "addr:full": "Lingthem",
+        "addr:postcode": "737116",
+        "addr:state": "Sikkim",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Lingthem",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5038112,
+          27.5275007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8192888619",
+      "properties": {
+        "@id": "node/8192888619",
+        "addr:district": "East Sikkim",
+        "addr:full": "Tingbong",
+        "addr:postcode": "737106",
+        "addr:state": "Sikkim",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Tingbong",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4780791,
+          27.5543513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8192922827",
+      "properties": {
+        "@id": "node/8192922827",
+        "addr:district": "North Sikkim",
+        "addr:full": "Gor",
+        "addr:postcode": "737116",
+        "addr:state": "Sikkim",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Gor",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4984203,
+          27.4302826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8192936928",
+      "properties": {
+        "@id": "node/8192936928",
+        "addr:district": "North Sikkim",
+        "addr:full": "Lachen",
+        "addr:postcode": "737120",
+        "addr:state": "Sikkim",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Lachen",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5604053,
+          27.7164568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8192943569",
+      "properties": {
+        "@id": "node/8192943569",
+        "addr:district": "North Sikkim",
+        "addr:full": "Paney-Phensong",
+        "addr:postcode": "737116",
+        "addr:state": "Sikkim",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Paney-Phensong",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6102748,
+          27.425342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8192960023",
+      "properties": {
+        "@id": "node/8192960023",
+        "addr:district": "North Sikkim",
+        "addr:full": "Naga",
+        "addr:postcode": "737120",
+        "addr:state": "Sikkim",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Naga",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6208105,
+          27.5400261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8192976922",
+      "properties": {
+        "@id": "node/8192976922",
+        "addr:district": "North Sikkim",
+        "addr:full": "Ramthang",
+        "addr:postcode": "737119",
+        "addr:state": "Sikkim",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Ramthang",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.550947,
+          27.4039854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8192985837",
+      "properties": {
+        "@id": "node/8192985837",
+        "addr:district": "North Sikkim",
+        "addr:full": "Kabi",
+        "addr:postcode": "737117",
+        "addr:state": "Sikkim",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Kabi",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.618307,
+          27.4046507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8193025264",
+      "properties": {
+        "@id": "node/8193025264",
+        "addr:district": "North Sikkim",
+        "addr:full": "Singhik",
+        "addr:postcode": "737116",
+        "addr:state": "Sikkim",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Singhik",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5515428,
+          27.5168663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8193033837",
+      "properties": {
+        "@id": "node/8193033837",
+        "addr:district": "North Sikkim",
+        "addr:full": "Paney-Phensong",
+        "addr:postcode": "737116",
+        "addr:state": "Sikkim",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Paney-Phensong",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6127695,
+          27.4340487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8193083257",
+      "properties": {
+        "@id": "node/8193083257",
+        "addr:district": "North Sikkim",
+        "addr:full": "Shipgyer",
+        "addr:postcode": "737116",
+        "addr:state": "Sikkim",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Shipgyer",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6336147,
+          27.5544461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8193099481",
+      "properties": {
+        "@id": "node/8193099481",
+        "addr:district": "North Sikkim",
+        "addr:full": "Phodong",
+        "addr:postcode": "737119",
+        "addr:state": "Sikkim",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Phodong",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5714736,
+          27.4075036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8193102611",
+      "properties": {
+        "@id": "node/8193102611",
+        "addr:district": "North Sikkim",
+        "addr:full": "Namok",
+        "addr:postcode": "737116",
+        "addr:state": "Sikkim",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Namok",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5375829,
+          27.4504654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8193117479",
+      "properties": {
+        "@id": "node/8193117479",
+        "addr:district": "North Sikkim",
+        "addr:full": "Lingdem",
+        "addr:postcode": "737116",
+        "addr:state": "Sikkim",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Lingdem",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4569319,
+          27.5494817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8193134220",
+      "properties": {
+        "@id": "node/8193134220",
+        "addr:district": "North Sikkim",
+        "addr:full": "Lingthem",
+        "addr:postcode": "737116",
+        "addr:state": "Sikkim",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Lingthem",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5014686,
+          27.5224732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8193164252",
+      "properties": {
+        "@id": "node/8193164252",
+        "addr:district": "South Sikkim",
+        "addr:full": "Rong",
+        "addr:postcode": "737128",
+        "addr:state": "Sikkim",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Rong",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3666777,
+          27.1181914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8193211992",
+      "properties": {
+        "@id": "node/8193211992",
+        "addr:district": "North Sikkim",
+        "addr:full": "Sadam",
+        "addr:postcode": "737128",
+        "addr:state": "Sikkim",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Sadam",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4253364,
+          27.11937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8193218291",
+      "properties": {
+        "@id": "node/8193218291",
+        "addr:district": "South Sikkim",
+        "addr:full": "Perbing",
+        "addr:postcode": "737126",
+        "addr:state": "Sikkim",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Perbing",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4065885,
+          27.1778018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8193225895",
+      "properties": {
+        "@id": "node/8193225895",
+        "addr:district": "South Sikkim",
+        "addr:full": "Tingley",
+        "addr:postcode": "737126",
+        "addr:state": "Sikkim",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Tingley",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4412711,
+          27.1970327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8193242154",
+      "properties": {
+        "@id": "node/8193242154",
+        "addr:district": "South Sikkim",
+        "addr:full": "Bhanjyang",
+        "addr:postcode": "737126",
+        "addr:state": "Sikkim",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Bhanjyang",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4077753,
+          27.1602424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8193266448",
+      "properties": {
+        "@id": "node/8193266448",
+        "addr:district": "South Sikkim",
+        "addr:full": "Lingmo",
+        "addr:postcode": "737139",
+        "addr:state": "Sikkim",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Lingmo",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4503551,
+          27.3528884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8193291365",
+      "properties": {
+        "@id": "node/8193291365",
+        "addr:district": "South Sikkim",
+        "addr:full": "Melli",
+        "addr:postcode": "737128",
+        "addr:state": "Sikkim",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Primary Health Centre, Melli",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4590652,
+          27.0912298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8193387294",
+      "properties": {
+        "@id": "node/8193387294",
+        "addr:district": "South Sikkim",
+        "addr:full": "Lingzo",
+        "addr:postcode": "737139",
+        "addr:state": "Sikkim",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Lingzo",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3089189,
+          27.2880149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8193396102",
+      "properties": {
+        "@id": "node/8193396102",
+        "addr:district": "South Sikkim",
+        "addr:full": "Rayong",
+        "addr:postcode": "737121",
+        "addr:state": "Sikkim",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Rayong",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.351244,
+          27.2456452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8193422464",
+      "properties": {
+        "@id": "node/8193422464",
+        "addr:district": "South Sikkim",
+        "addr:full": "Ralong",
+        "addr:postcode": "737139",
+        "addr:state": "Sikkim",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Ralong",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3411603,
+          27.3280899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8193453998",
+      "properties": {
+        "@id": "node/8193453998",
+        "addr:district": "South Sikkim",
+        "addr:full": "Melli Dara",
+        "addr:postcode": "737128",
+        "addr:state": "Sikkim",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Melli Dara",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.429404,
+          27.0992039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8193471771",
+      "properties": {
+        "@id": "node/8193471771",
+        "addr:district": "South Sikkim",
+        "addr:full": "Chemchey",
+        "addr:postcode": "737126",
+        "addr:state": "Sikkim",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Chemchey",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3866211,
+          27.2083167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8193473742",
+      "properties": {
+        "@id": "node/8193473742",
+        "addr:district": "South Sikkim",
+        "addr:full": "Pabong",
+        "addr:postcode": "737126",
+        "addr:state": "Sikkim",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Pabong",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4553165,
+          27.2372785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8193490063",
+      "properties": {
+        "@id": "node/8193490063",
+        "addr:district": "South Sikkim",
+        "addr:full": "Tingmo",
+        "addr:postcode": "737139",
+        "addr:state": "Sikkim",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Tingmo",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3184709,
+          27.2584828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8193541016",
+      "properties": {
+        "@id": "node/8193541016",
+        "addr:district": "Ajmer",
+        "addr:full": "Rateypani",
+        "addr:postcode": "737126",
+        "addr:state": "Jammu & Kashmir",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Rateypani",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4359932,
+          27.1401778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8193577130",
+      "properties": {
+        "@id": "node/8193577130",
+        "addr:district": "South Sikkim",
+        "addr:full": "Kabrey",
+        "addr:postcode": "737126",
+        "addr:state": "Sikkim",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Kabrey",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4944707,
+          27.179755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8193583012",
+      "properties": {
+        "@id": "node/8193583012",
+        "addr:district": "South Sikkim",
+        "addr:full": "Sripatam",
+        "addr:postcode": "737139",
+        "addr:state": "Sikkim",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Sripatam",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4408457,
+          27.3071284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8193602528",
+      "properties": {
+        "@id": "node/8193602528",
+        "addr:district": "South Sikkim",
+        "addr:full": "Tokal Bermiok",
+        "addr:postcode": "737134",
+        "addr:state": "Sikkim",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Primary Health Centre, Tokal Bermiok",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.467256,
+          27.2286061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8193603610",
+      "properties": {
+        "@id": "node/8193603610",
+        "addr:district": "South Sikkim",
+        "addr:full": "Kateng-Bokrang",
+        "addr:postcode": "737126",
+        "addr:state": "Sikkim",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Kateng-Bokrang",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4660696,
+          27.1364045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8193625183",
+      "properties": {
+        "@id": "node/8193625183",
+        "addr:district": "South Sikkim",
+        "addr:full": "Nandugaon",
+        "addr:postcode": "737121",
+        "addr:state": "Sikkim",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Nandugaon",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.309007,
+          27.160561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8193656333",
+      "properties": {
+        "@id": "node/8193656333",
+        "addr:district": "South Sikkim",
+        "addr:full": "Ben",
+        "addr:postcode": "737139",
+        "addr:state": "Sikkim",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Ben",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4176968,
+          27.2570393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8193657066",
+      "properties": {
+        "@id": "node/8193657066",
+        "addr:district": "West Sikkim",
+        "addr:full": "Uttarey",
+        "addr:postcode": "737113",
+        "addr:state": "Sikkim",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Uttarey",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.0921452,
+          27.2689443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8193716019",
+      "properties": {
+        "@id": "node/8193716019",
+        "addr:district": "West Sikkim",
+        "addr:full": "Darap",
+        "addr:postcode": "737113",
+        "addr:state": "Sikkim",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Darap",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.1844942,
+          27.3062278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8193738345",
+      "properties": {
+        "@id": "node/8193738345",
+        "addr:district": "West Sikkim",
+        "addr:full": "Boom",
+        "addr:postcode": "737113",
+        "addr:state": "Sikkim",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Boom",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.2559627,
+          27.2277595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8193739761",
+      "properties": {
+        "@id": "node/8193739761",
+        "addr:district": "West Sikkim",
+        "addr:full": "Ribdi",
+        "addr:postcode": "737121",
+        "addr:state": "Sikkim",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Ribdi",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.0954452,
+          27.1677005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8193787082",
+      "properties": {
+        "@id": "node/8193787082",
+        "addr:district": "West Sikkim",
+        "addr:full": "Tikpur",
+        "addr:postcode": "737121",
+        "addr:state": "Sikkim",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Tikpur",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.1208404,
+          27.1349889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8193793647",
+      "properties": {
+        "@id": "node/8193793647",
+        "addr:district": "West Sikkim",
+        "addr:full": "Tashiding",
+        "addr:postcode": "737111",
+        "addr:state": "Sikkim",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Tashiding",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.2876159,
+          27.3178127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8193808944",
+      "properties": {
+        "@id": "node/8193808944",
+        "addr:district": "West Sikkim",
+        "addr:full": "Reshi",
+        "addr:postcode": "737133",
+        "addr:state": "Sikkim",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Reshi",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6467696,
+          27.1822941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8193809174",
+      "properties": {
+        "@id": "node/8193809174",
+        "addr:district": "West Sikkim",
+        "addr:full": "Burikhop",
+        "addr:postcode": "737121",
+        "addr:state": "Sikkim",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Burikhop",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.1559467,
+          27.1724873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8193829999",
+      "properties": {
+        "@id": "node/8193829999",
+        "addr:district": "West Sikkim",
+        "addr:full": "Pelling",
+        "addr:postcode": "737113",
+        "addr:state": "Sikkim",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Pelling",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.2378376,
+          27.3214615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8193835229",
+      "properties": {
+        "@id": "node/8193835229",
+        "addr:district": "West Sikkim",
+        "addr:full": "Chumbong",
+        "addr:postcode": "737121",
+        "addr:state": "Sikkim",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Chumbong",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.2367735,
+          27.135966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8193894335",
+      "properties": {
+        "@id": "node/8193894335",
+        "addr:district": "West Sikkim",
+        "addr:full": "Daramdin",
+        "addr:postcode": "737121",
+        "addr:state": "Sikkim",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Daramdin",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.1664553,
+          27.1362581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8193904204",
+      "properties": {
+        "@id": "node/8193904204",
+        "addr:district": "West Sikkim",
+        "addr:full": "Sakyong",
+        "addr:postcode": "737134",
+        "addr:state": "Sikkim",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Sakyong",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4978976,
+          27.2500445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8193915356",
+      "properties": {
+        "@id": "node/8193915356",
+        "addr:district": "West Sikkim",
+        "addr:full": "Chakung",
+        "addr:postcode": "737121",
+        "addr:state": "Sikkim",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Chakung",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.24664,
+          27.1548943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8193921697",
+      "properties": {
+        "@id": "node/8193921697",
+        "addr:district": "West Sikkim",
+        "addr:full": "Dodak",
+        "addr:postcode": "737121",
+        "addr:state": "Sikkim",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Dodak",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.1709339,
+          27.1729242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8221549795",
+      "properties": {
+        "@id": "node/8221549795",
+        "amenity": "clinic",
+        "name": "Primary Health Center Chipsu Tsomogo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.7531931,
+          27.3743575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9645196930",
+      "properties": {
+        "@id": "node/9645196930",
+        "addr:housenumber": "Rapchong, Hee-Gyathang",
+        "addr:postcode": "737116",
+        "addr:street": "Sudur",
+        "healthcare": "primary_health_centre",
+        "name": "Rapchyong PHC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5087688,
+          27.4697365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11939893832",
+      "properties": {
+        "@id": "node/11939893832",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Ridhkaran Madangopal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6123433,
+          27.3282532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11940078231",
+      "properties": {
+        "@id": "node/11940078231",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Chiranjilal Lalchand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6126246,
+          27.3296744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11940091195",
+      "properties": {
+        "@id": "node/11940091195",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Jagriti Medical Stores"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6124899,
+          27.3290902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13190682064",
+      "properties": {
+        "@id": "node/13190682064",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6124956,
+          27.3283817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13190688179",
+      "properties": {
+        "@id": "node/13190688179",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6125074,
+          27.3282952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13190693154",
+      "properties": {
+        "@id": "node/13190693154",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6124997,
+          27.3283335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13433750901",
+      "properties": {
+        "@id": "node/13433750901",
+        "amenity": "doctors",
+        "name": "Jagriti Diagnostics",
+        "opening_hours": "Mo-Sa 07:45-19:00",
+        "phone": "9547792456"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6016178,
+          27.3150446
+        ]
+      }
+    }
+  ]
+}

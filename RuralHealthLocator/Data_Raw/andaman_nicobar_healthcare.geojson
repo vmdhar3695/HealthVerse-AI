@@ -1,0 +1,973 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-11-07T11:39:05Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/403422075",
+      "properties": {
+        "@id": "way/403422075",
+        "amenity": "hospital",
+        "building": "yes",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Health Centre",
+        "name:en": "Health Centre",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.9943802,
+          12.0308413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/454542247",
+      "properties": {
+        "@id": "way/454542247",
+        "addr:district": "South Andaman",
+        "addr:full": "GB Pant Road, City Centre, Port Blair",
+        "addr:postcode": "744103",
+        "addr:state": "Andaman and Nicobar Islands",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "G B Pant Hospital, Port Blair",
+        "name:etymology:wikidata": "Q2724411",
+        "operator:type": "government",
+        "source": "OpenGovernmentData",
+        "website": "http://www.and.nic.in/C_charter/health/dhs/index.html#gph",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.7473652,
+          11.6752697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1157152072",
+      "properties": {
+        "@id": "way/1157152072",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Community Health Centre Diglipur",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.9786231,
+          13.2459284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1162937480",
+      "properties": {
+        "@id": "node/1162937480",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Global Pharmacy",
+        "opening_hours": "Mo-Sa 08:30-20:00; Su 08:30-12:30",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.9953136,
+          12.0301181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4104900204",
+      "properties": {
+        "@id": "node/4104900204",
+        "amenity": "clinic",
+        "name": "Tribal Medical Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.7010471,
+          12.0151887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5246834821",
+      "properties": {
+        "@id": "node/5246834821",
+        "amenity": "clinic",
+        "name": "Primary health centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.0301724,
+          11.8348862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5991004885",
+      "properties": {
+        "@id": "node/5991004885",
+        "addr:postcode": "744210",
+        "addr:street": "PHC ROAD",
+        "amenity": "hospital",
+        "internet_access": "wlan",
+        "name": "प्रार्थमिक स्वास्थ्य सेवा केंद्र",
+        "name:en": "PRIMARY HEALTH CENTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.7870394,
+          12.1740008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6741695207",
+      "properties": {
+        "@id": "node/6741695207",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Govt Medical Centre",
+        "operator": "Goverment A&N",
+        "operator:type": "government"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.9195256,
+          12.3709986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6893127928",
+      "properties": {
+        "@id": "node/6893127928",
+        "addr:city": "Port Blair",
+        "addr:district": "SOUTH ANDAMAN",
+        "addr:full": "Atlanta Point, Near Cellular Jail, P.O. Aberdeen Bazaar",
+        "addr:postcode": "744104",
+        "addr:state": "Andaman And Nicobar Islands",
+        "contact:helpline": "102",
+        "contact:mobile": "9434266561",
+        "contact:phone": "3192230628",
+        "email": "bbgbpant@gmail.com",
+        "healthcare": "blood_donation",
+        "name": "G.B. Pant Hospital Blood Bank",
+        "opening_hours": "24/7",
+        "operator:type": "government",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.7473237,
+          11.6755376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6893127930",
+      "properties": {
+        "@id": "node/6893127930",
+        "addr:city": "Port Blair",
+        "addr:district": "SOUTH ANDAMAN;South Andaman",
+        "addr:full": "Ashvini Nagar, Port Blair, Andaman and Nicobar Islands;Medical Board Office",
+        "addr:postcode": "744103;744101",
+        "addr:state": "Andaman And Nicobar Islands;Andaman and Nicobar Islands",
+        "amenity": "blood_bank;hospital",
+        "contact:mobile": "8001452200",
+        "contact:phone": "3192248759",
+        "healthcare": "hospital",
+        "name": "INHS Dhanvantri",
+        "opening_hours": "24/7",
+        "operator:type": "government",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.7173138,
+          11.6495352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6908120433",
+      "properties": {
+        "@id": "node/6908120433",
+        "addr:district": "South Andaman",
+        "addr:full": "Near Masjid",
+        "addr:postcode": "744103",
+        "addr:state": "Andaman and Nicobar Islands",
+        "amenity": "hospital",
+        "contact:mobile": "9933280204",
+        "contact:phone": "3192233434",
+        "healthcare": "hospital",
+        "name": "Maricar Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.7320874,
+          11.6562608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6908120435",
+      "properties": {
+        "@id": "node/6908120435",
+        "addr:district": "South Andaman",
+        "addr:full": "Lamba Line, P.B. No. 526",
+        "addr:postcode": "744103",
+        "addr:state": "Andaman and Nicobar Islands",
+        "amenity": "hospital",
+        "contact:phone": "3192233193",
+        "healthcare": "hospital",
+        "name": "Pillar Health Centre",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.7307114,
+          11.6531427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7631997496",
+      "properties": {
+        "@id": "node/7631997496",
+        "addr:full": "Shyam Nagar Road, Madhupur",
+        "addr:postcode": "744202",
+        "addr:state": "Andaman and Nicobar Islands",
+        "amenity": "hospital",
+        "name": "CMS Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.9748487,
+          13.2617555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7631997497",
+      "properties": {
+        "@id": "node/7631997497",
+        "addr:full": "Subashgram",
+        "addr:postcode": "744202",
+        "addr:state": "Andaman and Nicobar Islands",
+        "amenity": "hospital",
+        "name": "Dr. Nikhil's Multi Speciality Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.9702603,
+          13.2475051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7631997498",
+      "properties": {
+        "@id": "node/7631997498",
+        "addr:full": "Tugapur",
+        "addr:postcode": "744204",
+        "addr:state": "Andaman and Nicobar Islands",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Primary Health Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.857432,
+          12.827933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7631997499",
+      "properties": {
+        "@id": "node/7631997499",
+        "addr:full": "Hut Bay",
+        "addr:postcode": "744207",
+        "addr:state": "Andaman and Nicobar Islands",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Primary Health Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.5374619,
+          10.5945378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7631997500",
+      "properties": {
+        "@id": "node/7631997500",
+        "addr:full": "Mayabunder",
+        "addr:postcode": "744204",
+        "addr:state": "Andaman and Nicobar Islands",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "District Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.9057443,
+          12.9119262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7631997501",
+      "properties": {
+        "@id": "node/7631997501",
+        "addr:full": "Rangat",
+        "addr:state": "Andaman and Nicobar Islands",
+        "amenity": "hospital",
+        "name": "Government Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.9114707,
+          12.5143535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7631997502",
+      "properties": {
+        "@id": "node/7631997502",
+        "addr:full": "Kadamtala",
+        "addr:postcode": "744209",
+        "addr:state": "Andaman and Nicobar Islands",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Primary Health Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.7791883,
+          12.3428086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7631997503",
+      "properties": {
+        "@id": "node/7631997503",
+        "addr:full": "Sh4",
+        "addr:postcode": "744211",
+        "addr:state": "Andaman and Nicobar Islands",
+        "description": "Subcentre",
+        "healthcare": "centre",
+        "name": "Sub Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.9699035,
+          12.0083943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7631997504",
+      "properties": {
+        "@id": "node/7631997504",
+        "addr:full": "Neil Island",
+        "addr:postcode": "744104",
+        "addr:state": "Andaman and Nicobar Islands",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Primary Health Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.0296198,
+          11.8336025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7631997505",
+      "properties": {
+        "@id": "node/7631997505",
+        "addr:full": "Wimberlygunj",
+        "addr:postcode": "744206",
+        "addr:state": "Andaman and Nicobar Islands",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Primary Health Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.707298,
+          11.74485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7631997506",
+      "properties": {
+        "@id": "node/7631997506",
+        "addr:full": "Manglutan",
+        "addr:postcode": "744103",
+        "addr:state": "Andaman and Nicobar Islands",
+        "amenity": "clinic",
+        "name": "Public Health Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.6545092,
+          11.5854657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7631997507",
+      "properties": {
+        "@id": "node/7631997507",
+        "addr:full": "Andaman and Nicobar Islands",
+        "addr:postcode": "744210",
+        "addr:state": "Andaman and Nicobar Islands",
+        "amenity": "clinic",
+        "name": "Health and Wellness Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.707079,
+          11.773613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7631997508",
+      "properties": {
+        "@id": "node/7631997508",
+        "addr:full": "Ferrargunj",
+        "addr:postcode": "744103",
+        "addr:state": "Andaman and Nicobar Islands",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Primary Health Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.6540338,
+          11.7240401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7631997509",
+      "properties": {
+        "@id": "node/7631997509",
+        "addr:full": "Tusnabad",
+        "addr:postcode": "744103",
+        "addr:state": "Andaman and Nicobar Islands",
+        "amenity": "hospital",
+        "name": "Tusnabad Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.6441249,
+          11.6724137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7631997510",
+      "properties": {
+        "@id": "node/7631997510",
+        "addr:full": "Sumitra Complex, Garacharama, Port Blair",
+        "addr:postcode": "744103",
+        "addr:state": "Andaman and Nicobar Islands",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Vidyadeep Surgicure Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.716462,
+          11.6219269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7631997511",
+      "properties": {
+        "@id": "node/7631997511",
+        "addr:full": "Garacharama, Port Blair",
+        "addr:postcode": "744103",
+        "addr:state": "Andaman and Nicobar Islands",
+        "amenity": "hospital",
+        "description": "Community Health Centre",
+        "healthcare": "hospital",
+        "name": "Community Health Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.705859,
+          11.615976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7631997512",
+      "properties": {
+        "@id": "node/7631997512",
+        "addr:full": "Stewartgunj",
+        "addr:postcode": "744107",
+        "addr:state": "Andaman and Nicobar Islands",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Government Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.718559,
+          11.712231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7631997513",
+      "properties": {
+        "@id": "node/7631997513",
+        "addr:full": "Thomas Colony, Junglighat, Port Blair",
+        "addr:postcode": "744101",
+        "addr:state": "Andaman and Nicobar Islands",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Nayana Eye Care",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.732368,
+          11.661385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7631997514",
+      "properties": {
+        "@id": "node/7631997514",
+        "addr:full": "Junglighat, Port Blair",
+        "addr:postcode": "744103",
+        "addr:state": "Andaman and Nicobar Islands",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Ayush Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.7288897,
+          11.6621864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7631997515",
+      "properties": {
+        "@id": "node/7631997515",
+        "addr:full": "Biggie Line, Port Blair",
+        "addr:postcode": "744101",
+        "addr:state": "Andaman and Nicobar Islands",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "name": "Arora Dental Clinic",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.7387372,
+          11.6674736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7631997516",
+      "properties": {
+        "@id": "node/7631997516",
+        "addr:full": "Dag Colony, Port Blair",
+        "addr:postcode": "744101",
+        "addr:state": "Andaman and Nicobar Islands",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Arun Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.735389,
+          11.669273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7631997517",
+      "properties": {
+        "@id": "node/7631997517",
+        "addr:full": "Delanipur, Port Blair",
+        "addr:postcode": "744102",
+        "addr:state": "Andaman and Nicobar Islands",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Sanjeevani Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.7296231,
+          11.6697362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7631997518",
+      "properties": {
+        "@id": "node/7631997518",
+        "addr:full": "Shadipur, Port Blair",
+        "addr:postcode": "744104",
+        "addr:state": "Andaman and Nicobar Islands",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Dr. Rekha's Ayurvedic Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.7469876,
+          11.663922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7631997519",
+      "properties": {
+        "@id": "node/7631997519",
+        "addr:full": "Delanipur, Port Blair",
+        "addr:postcode": "744102",
+        "addr:state": "Andaman and Nicobar Islands",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Rohin's Eye and Multispeciality Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.7258476,
+          11.667588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7631997520",
+      "properties": {
+        "@id": "node/7631997520",
+        "addr:full": "Port Blair",
+        "addr:postcode": "744103",
+        "addr:state": "Andaman and Nicobar Islands",
+        "amenity": "hospital",
+        "name": "Chakraborty Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.7207239,
+          11.6330293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9341514968",
+      "properties": {
+        "@id": "node/9341514968",
+        "healthcare": "laboratory",
+        "name": "Ritika"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.707341,
+          11.6167587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13980252251",
+      "properties": {
+        "@id": "node/13980252251",
+        "amenity": "pharmacy",
+        "name": "MS pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.7389974,
+          11.6707959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13980256500",
+      "properties": {
+        "@id": "node/13980256500",
+        "amenity": "pharmacy",
+        "name": "Chennai medical"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.7392348,
+          11.6701781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13990467220",
+      "properties": {
+        "@id": "node/13990467220",
+        "healthcare": "yes",
+        "name": "First Aid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.9530945,
+          11.9844421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14004437573",
+      "properties": {
+        "@id": "node/14004437573",
+        "healthcare": "yes",
+        "name": "Milk chilling centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.9094937,
+          12.5078955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14004443380",
+      "properties": {
+        "@id": "node/14004443380",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.9126161,
+          12.5054287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14004449787",
+      "properties": {
+        "@id": "node/14004449787",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.9152048,
+          12.5053313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14004479807",
+      "properties": {
+        "@id": "node/14004479807",
+        "amenity": "pharmacy",
+        "name": "Gsnguly pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.9107322,
+          12.5056156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14006221517",
+      "properties": {
+        "@id": "node/14006221517",
+        "healthcare": "yes",
+        "name": "Health and wellness centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.7913333,
+          12.1340674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14018225775",
+      "properties": {
+        "@id": "node/14018225775",
+        "amenity": "pharmacy",
+        "name": "Sarika pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.7422198,
+          11.6670604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14018227454",
+      "properties": {
+        "@id": "node/14018227454",
+        "amenity": "pharmacy",
+        "name": "Apollo",
+        "opening_hours": "Mo-Su 07:00-23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.7425738,
+          11.6685475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14024481273",
+      "properties": {
+        "@id": "node/14024481273",
+        "healthcare": "medical_imaging"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.7481323,
+          11.6753656
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,3685 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-11-07T11:32:50Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/129818618",
+      "properties": {
+        "@id": "way/129818618",
+        "addr:district": "Lower Subansiri",
+        "addr:full": "P.O.- R.K.Mission, Itanagar",
+        "addr:postcode": "791113",
+        "addr:state": "Arunachal Pradesh",
+        "amenity": "hospital",
+        "fax": "360221276",
+        "name": "Ramakrishna Mission Hospital, Lower Subansiri",
+        "operator:type": "private",
+        "source": "OpenGovernmentData",
+        "website": "http://rkmh.org/hospital",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.6091631,
+          27.0859985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/357356352",
+      "properties": {
+        "@id": "way/357356352",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "name": "Arunachal State Hospital",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.6915654,
+          27.1034084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/451566625",
+      "properties": {
+        "@id": "way/451566625",
+        "addr:city": "Hapoli",
+        "addr:district": "Lower Subansiri",
+        "addr:postcode": "791120",
+        "addr:state": "Arunachal Pradesh",
+        "addr:subdistrict": "Old Ziro Circle",
+        "amenity": "hospital",
+        "building": "yes",
+        "name": "Government Hospital",
+        "source": "OpenGovernmentData",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.8221821,
+          27.5389505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/458437418",
+      "properties": {
+        "@id": "way/458437418",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "name": "Pharmacy line",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.6087213,
+          27.0870377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/472035462",
+      "properties": {
+        "@id": "way/472035462",
+        "addr:district": "East Siang",
+        "addr:full": "Pasighat",
+        "addr:postcode": "791102",
+        "addr:state": "Arunachal Pradesh",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Bakin Pertin Hospital, Pasighat",
+        "source": "OpenGovernmentData",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.3247789,
+          28.0712137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/669562105",
+      "properties": {
+        "@id": "way/669562105",
+        "addr:city": "Balijan",
+        "addr:postcode": "791123",
+        "building": "yes",
+        "healthcare": "hospice",
+        "name": "PHC Balijan",
+        "name:en": "PHC Balijan",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.497989,
+          26.9494044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/856305069",
+      "properties": {
+        "@id": "way/856305069",
+        "addr:district": "Kurung Kumey District",
+        "addr:full": "Palin",
+        "addr:postcode": "791118",
+        "addr:state": "Arunachal Pradesh",
+        "building": "yes",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "Palin SubCentre",
+        "source": "Local Knowledge",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.6299297,
+          27.6946163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/858040714",
+      "properties": {
+        "@id": "way/858040714",
+        "addr:district": "Upper Subansiri District",
+        "addr:full": "Maro",
+        "addr:postcode": "791122",
+        "addr:state": "Arunachal Pradesh",
+        "building": "yes",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Maro",
+        "name:en": "SubCentre, Maro",
+        "source": "Local Knowledge",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.4183815,
+          27.981503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1690134377",
+      "properties": {
+        "@id": "node/1690134377",
+        "amenity": "hospital",
+        "designation": "Primary Helthj Unit",
+        "emergency": "yes",
+        "name": "NERIST Medical Unit",
+        "source": "NERIST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.7365723,
+          27.1298566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1739998743",
+      "properties": {
+        "@id": "node/1739998743",
+        "amenity": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.9117097,
+          27.7396748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1739998760",
+      "properties": {
+        "@id": "node/1739998760",
+        "amenity": "doctors"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.0399753,
+          27.8090133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1740001997",
+      "properties": {
+        "@id": "node/1740001997",
+        "amenity": "doctors",
+        "healthcare": "doctor",
+        "name": "Community Heath Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.8088026,
+          27.6344714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1740009477",
+      "properties": {
+        "@id": "node/1740009477",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.1783564,
+          27.790625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1740009478",
+      "properties": {
+        "@id": "node/1740009478",
+        "amenity": "doctors",
+        "healthcare": "doctor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.1781646,
+          27.7908139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1740039316",
+      "properties": {
+        "@id": "node/1740039316",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.3324434,
+          28.0593486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4474581844",
+      "properties": {
+        "@id": "node/4474581844",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Community Health Centre",
+        "name:en": "Community Health Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.6136558,
+          28.266996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4483884014",
+      "properties": {
+        "@id": "node/4483884014",
+        "addr:city": "Old Ziro",
+        "addr:postcode": "791120",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Community Health Center",
+        "name:en": "Community Health Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.8264146,
+          27.5942488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4544430044",
+      "properties": {
+        "@id": "node/4544430044",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "NE Homeopathic College and Hospital",
+        "name:en": "NE Homeopathic College and Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.6034293,
+          27.0816216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5187607837",
+      "properties": {
+        "@id": "node/5187607837",
+        "addr:district": "Dibang Valley",
+        "addr:state": "Arunachal Pradesh",
+        "addr:subdistrict": "Anini Circle",
+        "amenity": "hospital",
+        "description": "District Hospital",
+        "healthcare": "hospital",
+        "name": "District Hospital",
+        "name:en": "District hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.910334,
+          28.7967948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5187608025",
+      "properties": {
+        "@id": "node/5187608025",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Primary Health Center Etalin",
+        "name:en": "Primary Health Center Etalin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.8712339,
+          28.6075944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5320288022",
+      "properties": {
+        "@id": "node/5320288022",
+        "amenity": "hospital",
+        "name": "General hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.8010238,
+          28.1688407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5329206621",
+      "properties": {
+        "@id": "node/5329206621",
+        "amenity": "pharmacy",
+        "name": "Naksang Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.1332328,
+          28.5989967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6467317786",
+      "properties": {
+        "@id": "node/6467317786",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Yingkiong District Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.025431,
+          28.6423099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6908097600",
+      "properties": {
+        "@id": "node/6908097600",
+        "addr:block": "HB Tawang",
+        "addr:district": "Tawang",
+        "addr:full": "District Medical officer",
+        "addr:postcode": "790104",
+        "addr:state": "Arunachal Pradesh",
+        "addr:subdistrict": "TAWANG CIRCLE",
+        "amenity": "hospital",
+        "description": "District Hospital",
+        "fax": "3794223092",
+        "healthcare": "hospital",
+        "name": "District Hospital, Tawang",
+        "name:en": "District Hospital, Tawang",
+        "operator:type": "government",
+        "source": "OpenGovernmentData",
+        "website": "http://wikimapia.org/25721727/District-Hospital-Tawang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8646409,
+          27.5890458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6908120446",
+      "properties": {
+        "@id": "node/6908120446",
+        "addr:district": "Papum Pare",
+        "addr:full": "Sapu Nalah",
+        "addr:postcode": "791110",
+        "addr:state": "Arunachal Pradesh",
+        "amenity": "hospital",
+        "contact:phone": "3602246257",
+        "name": "Boriatari Memorial Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.6782125,
+          27.0952799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6908120506",
+      "properties": {
+        "@id": "node/6908120506",
+        "addr:district": "East Siang",
+        "addr:full": "High Region",
+        "addr:postcode": "791102",
+        "addr:state": "Arunachal Pradesh",
+        "amenity": "clinic",
+        "contact:phone": "3682224509",
+        "healthcare": "clinic",
+        "name": "Assa Diagnostics and Nursing Home",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.3220284,
+          28.0680172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6908120508",
+      "properties": {
+        "@id": "node/6908120508",
+        "addr:district": "Papum Pare",
+        "addr:full": "Nh 52 A",
+        "addr:postcode": "791109",
+        "addr:state": "Arunachal Pradesh",
+        "amenity": "hospital",
+        "contact:phone": "03602257183; 2258005",
+        "name": "Tara Memorial Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.7454997,
+          27.1281628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6908120513",
+      "properties": {
+        "@id": "node/6908120513",
+        "addr:district": "Lower Subansiri",
+        "addr:full": "Rk Mission Road, Itanagar",
+        "addr:postcode": "791113",
+        "addr:state": "Arunachal Pradesh",
+        "amenity": "hospital",
+        "contact:phone": "3602217651",
+        "name": "Polo Hospital Pvt Ltd",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.6054642,
+          27.0843407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6912471590",
+      "properties": {
+        "@id": "node/6912471590",
+        "amenity": "pharmacy",
+        "name": "Chukla Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.1338417,
+          28.599863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6917894485",
+      "properties": {
+        "@id": "node/6917894485",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "CHC Government Hospital",
+        "name:en": "CHC Government Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.6858624,
+          27.9815616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6938944732",
+      "properties": {
+        "@id": "node/6938944732",
+        "addr:district": "West Kameng",
+        "addr:postcode": "790001",
+        "addr:state": "Arunachal Pradesh",
+        "addr:subdistrict": "Nafra Circle",
+        "amenity": "hospital",
+        "description": "District Hospital",
+        "healthcare": "hospital",
+        "name": "District Hospital, Bomdila",
+        "name:en": "District Hospital, Bomdila",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.4201467,
+          27.2655136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7103971888",
+      "properties": {
+        "@id": "node/7103971888",
+        "addr:district": "Lower Subansiri",
+        "addr:postcode": "791120",
+        "addr:state": "Arunachal Pradesh",
+        "addr:subdistrict": "Ziro (Sadar) Circle",
+        "description": "Community Health Center",
+        "healthcare": "centre",
+        "name": "CHC, Ziro",
+        "name:en": "CHC, Ziro",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.8262773,
+          27.5936298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7103971889",
+      "properties": {
+        "@id": "node/7103971889",
+        "addr:district": "Upper Siang",
+        "addr:postcode": "791002",
+        "addr:state": "Arunachal Pradesh",
+        "addr:subdistrict": "Yingkiong Circle",
+        "amenity": "hospital",
+        "description": "District Hospital",
+        "healthcare": "hospital",
+        "name": "District Hospital, Yingkiong",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.0250781,
+          28.6417004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7103971890",
+      "properties": {
+        "@id": "node/7103971890",
+        "addr:district": "Changlang",
+        "addr:state": "Arunachal Pradesh",
+        "addr:subdistrict": "Kharsang Circle",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "PHC, Kharsang",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.0217887,
+          27.421676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7103971891",
+      "properties": {
+        "@id": "node/7103971891",
+        "addr:district": "Kurung Kumey",
+        "addr:state": "Arunachal Pradesh",
+        "addr:subdistrict": "Sangram Circle",
+        "description": "Community Health Center",
+        "healthcare": "centre",
+        "name": "CHC, Sangram",
+        "name:en": "CHC, Sangram",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.541558,
+          27.807765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7103971892",
+      "properties": {
+        "@id": "node/7103971892",
+        "addr:block": "HB Hayuliang",
+        "addr:district": "Anjaw",
+        "addr:state": "Arunachal Pradesh",
+        "addr:subdistrict": "Hayuliang Circle",
+        "description": "Community Health Center",
+        "healthcare": "centre",
+        "name": "CHC, Hayuliang",
+        "name:en": "CHC, Hayuliang",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.5001638,
+          28.0737977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7103971893",
+      "properties": {
+        "@id": "node/7103971893",
+        "addr:district": "Changlang",
+        "addr:state": "Arunachal Pradesh",
+        "addr:subdistrict": "Nampong Circle",
+        "amenity": "hospital",
+        "description": "government hospital",
+        "healthcare": "hospital",
+        "name": "Government Hospital, Nampong",
+        "name:en": "Government Hospital, Nampong",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.112927,
+          27.292495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7103971894",
+      "properties": {
+        "@id": "node/7103971894",
+        "addr:block": "HB Yazali",
+        "addr:district": "Lower Subansiri",
+        "addr:postcode": "791120",
+        "addr:state": "Arunachal Pradesh",
+        "addr:subdistrict": "Yazali Circle",
+        "description": "Community Health Center",
+        "healthcare": "centre",
+        "name": "CHC, Yazali",
+        "name:en": "CHC, Yazali",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.7462255,
+          27.4057868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7103971895",
+      "properties": {
+        "@id": "node/7103971895",
+        "addr:district": "Lower Subansiri",
+        "addr:postcode": "791120",
+        "addr:state": "Arunachal Pradesh",
+        "addr:subdistrict": "Kamporijo Circle",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "PHC, Boa Simla",
+        "name:en": "PHC, Boa Simla",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.9938715,
+          27.7352915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7103971896",
+      "properties": {
+        "@id": "node/7103971896",
+        "addr:district": "Tirap",
+        "addr:postcode": "792130",
+        "addr:state": "Arunachal Pradesh",
+        "addr:subdistrict": "Khonsa Circle",
+        "amenity": "hospital",
+        "description": "District Hospital",
+        "name": "District Hospital, Khonsa",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.5008622,
+          26.9922136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7103971897",
+      "properties": {
+        "@id": "node/7103971897",
+        "addr:block": "HB Vijoynagar",
+        "addr:district": "Changlang",
+        "addr:state": "Arunachal Pradesh",
+        "addr:subdistrict": "Vijoynagar Circle",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "PHC, Vijoynagar",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.9990554,
+          27.1936092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7103971898",
+      "properties": {
+        "@id": "node/7103971898",
+        "addr:district": "Anjaw",
+        "addr:full": "Hawai",
+        "addr:postcode": "792104",
+        "addr:state": "Arunachal Pradesh",
+        "addr:subdistrict": "Hawai Circle",
+        "description": "Community Health Center",
+        "healthcare": "centre",
+        "locality": "Hawai",
+        "name": "CHC, Hawai",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.79913,
+          27.8877617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7103971899",
+      "properties": {
+        "@id": "node/7103971899",
+        "addr:district": "West Kameng",
+        "addr:state": "Arunachal Pradesh",
+        "addr:subdistrict": "Kalaktang Circle",
+        "description": "Government hospital",
+        "healthcare": "centre",
+        "name": "Government Hospital, Balemu",
+        "name:en": "Government Hospital, Balemu",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.1268225,
+          26.9150418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7103971900",
+      "properties": {
+        "@id": "node/7103971900",
+        "addr:district": "Tirap",
+        "addr:postcode": "792129",
+        "addr:state": "Arunachal Pradesh",
+        "addr:subdistrict": "Namsang Circle",
+        "description": "Community Health Center",
+        "healthcare": "centre",
+        "name": "CHC, Deomali",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.467046,
+          27.194236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7103971901",
+      "properties": {
+        "@id": "node/7103971901",
+        "addr:district": "Changlang",
+        "addr:state": "Arunachal Pradesh",
+        "addr:subdistrict": "Diyun Circle",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "PHC, Innao",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.0240634,
+          27.5487018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7103971902",
+      "properties": {
+        "@id": "node/7103971902",
+        "addr:district": "Lohit",
+        "addr:state": "Arunachal Pradesh",
+        "addr:subdistrict": "Lekang Circle (Mahadevpur)",
+        "description": "Community Health Center",
+        "healthcare": "centre",
+        "name": "CHC, Mahadevpur",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.8108615,
+          27.6380443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7103971903",
+      "properties": {
+        "@id": "node/7103971903",
+        "addr:district": "Changlang",
+        "addr:postcode": "792103",
+        "addr:state": "Arunachal Pradesh",
+        "addr:subdistrict": "Diyun Circle",
+        "description": "Community Health Center",
+        "healthcare": "centre",
+        "name": "CHC, Diyun",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.101636,
+          27.540278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7103971904",
+      "properties": {
+        "@id": "node/7103971904",
+        "addr:district": "Changlang",
+        "addr:state": "Arunachal Pradesh",
+        "addr:subdistrict": "Namtok Circle",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "PHC, Namtok",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.656447,
+          27.231367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7103971905",
+      "properties": {
+        "@id": "node/7103971905",
+        "addr:district": "Changlang",
+        "addr:state": "Arunachal Pradesh",
+        "addr:subdistrict": "Kharsang Circle",
+        "description": "Community Health Center",
+        "healthcare": "centre",
+        "name": "CHC, Miao",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.2101024,
+          27.4909689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7103971906",
+      "properties": {
+        "@id": "node/7103971906",
+        "addr:district": "Tirap",
+        "addr:postcode": "792130",
+        "addr:state": "Arunachal Pradesh",
+        "addr:subdistrict": "Khonsa Circle",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "locality": "Borduria",
+        "name": "PHC, Borduria",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.475561,
+          27.030582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7103971907",
+      "properties": {
+        "@id": "node/7103971907",
+        "addr:block": "HB Raga",
+        "addr:district": "Lower Subansiri",
+        "addr:postcode": "791120",
+        "addr:state": "Arunachal Pradesh",
+        "addr:subdistrict": "Raga Circle",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "PHC, Raga",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.0727526,
+          27.8003952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7103971908",
+      "properties": {
+        "@id": "node/7103971908",
+        "addr:block": "HB Mariyang",
+        "addr:district": "Upper Siang",
+        "addr:postcode": "791002",
+        "addr:state": "Arunachal Pradesh",
+        "addr:subdistrict": "Mariyang Circle",
+        "description": "Government hospital",
+        "healthcare": "centre",
+        "name": "Government Hospital, Mariyang",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.2186452,
+          28.4906499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7103971909",
+      "properties": {
+        "@id": "node/7103971909",
+        "addr:district": "Changlang",
+        "addr:postcode": "792121",
+        "addr:state": "Arunachal Pradesh",
+        "addr:subdistrict": "Jairampur Circle",
+        "description": "Community Health Center",
+        "healthcare": "centre",
+        "name": "CHC, Jairampur",
+        "name:en": "CHC, Jairampur",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.014547,
+          27.355043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7151162966",
+      "properties": {
+        "@id": "node/7151162966",
+        "addr:full": "Cona, Bichom",
+        "addr:state": "Arunachal Pradesh",
+        "description": "Health- Sub Centre",
+        "healthcare": "centre",
+        "name": "Sub Centre, Bichom",
+        "name:en": "Sub Centre, Bichom",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.6140326,
+          27.3047509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7151162971",
+      "properties": {
+        "@id": "node/7151162971",
+        "addr:full": "Diyun",
+        "addr:state": "Arunachal Pradesh",
+        "description": "Health- Sub Centre",
+        "healthcare": "centre",
+        "name": "Sub Centre, Diyun",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.0550101,
+          27.5724533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7151162980",
+      "properties": {
+        "@id": "node/7151162980",
+        "addr:full": "Gohain Gaon",
+        "addr:state": "Arunachal Pradesh",
+        "description": "Health- Sub Centre",
+        "healthcare": "centre",
+        "name": "Sub Centre, Gohain Gaon",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.0492577,
+          27.8860431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7151169385",
+      "properties": {
+        "@id": "node/7151169385",
+        "addr:full": "Manmow",
+        "addr:state": "Arunachal Pradesh",
+        "description": "Health- Sub Centre",
+        "healthcare": "centre",
+        "name": "Sub Centre, Manmow",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.89687,
+          27.6791826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7151169394",
+      "properties": {
+        "@id": "node/7151169394",
+        "addr:full": "Vill - Asali",
+        "addr:state": "Arunachal Pradesh",
+        "description": "Health- Sub Centre",
+        "healthcare": "centre",
+        "name": "Sub Centre, Asali",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.8226332,
+          28.1321868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7615441763",
+      "properties": {
+        "@id": "node/7615441763",
+        "addr:district": "Papum Pare",
+        "addr:full": "A Sector, Papum Pare, NH-52A, Itanagar Road, Naharlagun",
+        "addr:postcode": "791110",
+        "addr:state": "Arunachal Pradesh",
+        "amenity": "hospital",
+        "name": "Samaritan Hormin Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.697428,
+          27.10857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7615441764",
+      "properties": {
+        "@id": "node/7615441764",
+        "addr:district": "Siang",
+        "addr:full": "Medog, Boleng",
+        "addr:postcode": "791102",
+        "addr:state": "Arunachal Pradesh",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Governmnet Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.9541877,
+          28.3214998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7615441765",
+      "properties": {
+        "@id": "node/7615441765",
+        "addr:district": "East Kameng",
+        "addr:full": "Cona, Shannan",
+        "addr:postcode": "790102",
+        "addr:state": "Arunachal Pradesh",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Seppa District Hospital",
+        "name:en": "Seppa District Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.043222,
+          27.353033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7615441766",
+      "properties": {
+        "@id": "node/7615441766",
+        "addr:district": "Papum Pare",
+        "addr:full": "Niba hospital, Naharlagun Pappunalla, Itanagar",
+        "addr:postcode": "791110",
+        "addr:state": "Arunachal Pradesh",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Niba Hospital",
+        "name:en": "Niba Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.6770975,
+          27.0973479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7615441767",
+      "properties": {
+        "@id": "node/7615441767",
+        "addr:district": "Lower Dibang Valley",
+        "addr:full": "Roing",
+        "addr:postcode": "792110",
+        "addr:state": "Arunachal Pradesh",
+        "amenity": "hospital",
+        "name": "District Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.8405081,
+          28.141538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7615441768",
+      "properties": {
+        "@id": "node/7615441768",
+        "addr:district": "Papum Pare",
+        "addr:full": "NH 52A, Cona, Nirjuli,",
+        "addr:postcode": "791109",
+        "addr:state": "Arunachal Pradesh",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Tago Memorial Hospital",
+        "name:en": "Tago Memorial Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.7474761,
+          27.1301214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7615441769",
+      "properties": {
+        "@id": "node/7615441769",
+        "addr:district": "Papum Pare",
+        "addr:full": "NH415, Cona County, Itanagar",
+        "addr:postcode": "791111",
+        "addr:state": "Arunachal Pradesh",
+        "amenity": "hospital",
+        "name": "Heema Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.6281623,
+          27.1008421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7615441770",
+      "properties": {
+        "@id": "node/7615441770",
+        "addr:district": "Lohit",
+        "addr:full": "Tezu",
+        "addr:postcode": "792001",
+        "addr:state": "Arunachal Pradesh",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "District Hospital",
+        "name:en": "District Hospital",
+        "name:zh": "县医院",
+        "name:zh-Hans": "县医院",
+        "name:zh-Hant": "縣醫院",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.1581662,
+          27.9280499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7615441771",
+      "properties": {
+        "@id": "node/7615441771",
+        "addr:district": "Longding",
+        "addr:full": "Niaunyu",
+        "addr:postcode": "792131",
+        "addr:state": "Arunachal Pradesh",
+        "amenity": "hospital",
+        "name": "Longing Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.321261,
+          26.88521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7615441772",
+      "properties": {
+        "@id": "node/7615441772",
+        "addr:district": "Tirap",
+        "addr:full": "Bank Colony Road, Khonsa",
+        "addr:postcode": "792130",
+        "addr:state": "Arunachal Pradesh",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "name": "AB Drug House & Dental Clinic",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.5039104,
+          26.9873423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7615441773",
+      "properties": {
+        "@id": "node/7615441773",
+        "addr:district": "Changlang",
+        "addr:full": "Town Road, Changlang",
+        "addr:postcode": "792120",
+        "addr:state": "Arunachal Pradesh",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "District Hospital",
+        "name:ur": "ضلعی ہسپتال",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.7386846,
+          27.1392719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7615441774",
+      "properties": {
+        "@id": "node/7615441774",
+        "addr:district": "Papum Pare",
+        "addr:full": "Mithun Gate, B Sector, Papum Pare, NH-52A, Itanagar",
+        "addr:postcode": "791120",
+        "addr:state": "Arunachal Pradesh",
+        "amenity": "clinic",
+        "name": "Abees Clinic",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.6319658,
+          27.1028001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7615441775",
+      "properties": {
+        "@id": "node/7615441775",
+        "addr:district": "Tirap",
+        "addr:full": "Borduria",
+        "addr:postcode": "792130",
+        "addr:state": "Arunachal Pradesh",
+        "description": "Primary Health Center",
+        "healthcare": "centre",
+        "name": "Primary Health Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.471544,
+          27.027482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7615441776",
+      "properties": {
+        "@id": "node/7615441776",
+        "addr:district": "Lohit",
+        "addr:full": "Garage Road, Lama Camp, Tindolong",
+        "addr:postcode": "792001",
+        "addr:state": "Arunachal Pradesh",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Men-Tsee-Khang Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.1287519,
+          27.9116303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7615441777",
+      "properties": {
+        "@id": "node/7615441777",
+        "addr:district": "Papum Pare",
+        "addr:full": "University Road, Cona County, Doimukh",
+        "addr:postcode": "791112",
+        "addr:state": "Arunachal Pradesh",
+        "amenity": "hospital",
+        "name": "RGU Health Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.7673813,
+          27.153219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7615441778",
+      "properties": {
+        "@id": "node/7615441778",
+        "addr:district": "Namsai",
+        "addr:full": "Namsai",
+        "addr:postcode": "792103",
+        "addr:state": "Arunachal Pradesh",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Government Hospital",
+        "name:en": "Government Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.868314,
+          27.664404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7903974254",
+      "properties": {
+        "@id": "node/7903974254",
+        "addr:district": "tirap",
+        "addr:full": "Longo",
+        "addr:postcode": "792130",
+        "addr:state": "Arunachal Pradesh",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre,Longo",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.4203904,
+          26.9779292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7983341824",
+      "properties": {
+        "@id": "node/7983341824",
+        "addr:district": "Tirap District",
+        "addr:full": "Longo",
+        "addr:postcode": "792130",
+        "addr:state": "Arunachal Pradesh",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Longo",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.4185859,
+          26.9780203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7983448759",
+      "properties": {
+        "@id": "node/7983448759",
+        "addr:district": "Lower Subansiri District",
+        "addr:full": "Tamen",
+        "addr:postcode": "791120",
+        "addr:state": "Arunachal Pradesh",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Tamen",
+        "name:en": "SubCentre, Tamen",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.0081141,
+          27.7576319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7983576542",
+      "properties": {
+        "@id": "node/7983576542",
+        "addr:district": "Changlang",
+        "addr:full": "Gandhigram",
+        "addr:postcode": "792055",
+        "addr:state": "Arunachal Pradesh",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Gandhigram",
+        "name:en": "SubCentre, Gandhigram",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.9111253,
+          27.2778485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7983594789",
+      "properties": {
+        "@id": "node/7983594789",
+        "addr:district": "Tirap District",
+        "addr:full": "Kaimai",
+        "addr:postcode": "792130",
+        "addr:state": "Arunachal Pradesh",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Kaimai",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.4945199,
+          27.0356827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7983602813",
+      "properties": {
+        "@id": "node/7983602813",
+        "addr:district": "East Siang",
+        "addr:full": "Lokpeng",
+        "addr:postcode": "791102",
+        "addr:state": "Arunachal Pradesh",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Lokpeng",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.8934369,
+          28.2227551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7983637436",
+      "properties": {
+        "@id": "node/7983637436",
+        "addr:district": "West Siang",
+        "addr:full": "Kamba",
+        "addr:postcode": "791001",
+        "addr:state": "Arunachal Pradesh",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Kamba",
+        "name:en": "SubCentre, Kamba",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.6760794,
+          28.2693919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7983677562",
+      "properties": {
+        "@id": "node/7983677562",
+        "addr:district": "Tirap District",
+        "addr:full": "Kapu",
+        "addr:postcode": "792130",
+        "addr:state": "Arunachal Pradesh",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Kapu",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.3486299,
+          26.9826712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7983736712",
+      "properties": {
+        "@id": "node/7983736712",
+        "addr:district": "LONGDING",
+        "addr:full": "Pangchao",
+        "addr:postcode": "792131",
+        "addr:state": "Arunachal Pradesh",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Pangchao",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.2743007,
+          26.7232412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7983778723",
+      "properties": {
+        "@id": "node/7983778723",
+        "addr:district": "Tirap District",
+        "addr:full": "Laiwang",
+        "addr:postcode": "792130",
+        "addr:state": "Arunachal Pradesh",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Laiwang",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.6484066,
+          27.1031222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7983810051",
+      "properties": {
+        "@id": "node/7983810051",
+        "addr:district": "Upper Siang Dist",
+        "addr:full": "Gelling",
+        "addr:postcode": "792061",
+        "addr:state": "Arunachal Pradesh",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Gelling",
+        "name:en": "SubCentre, Gelling",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.978444,
+          29.1336857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7983885321",
+      "properties": {
+        "@id": "node/7983885321",
+        "addr:district": "Anjaw",
+        "addr:full": "Goiliang",
+        "addr:postcode": "792104",
+        "addr:state": "Arunachal Pradesh",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Primary Health Centre,Goiliang",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.6402869,
+          28.1468021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7983926235",
+      "properties": {
+        "@id": "node/7983926235",
+        "addr:district": "Lohit",
+        "addr:full": "Chowkham",
+        "addr:postcode": "792102",
+        "addr:state": "Arunachal Pradesh",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Chowkham",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.0842123,
+          27.8099085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7983926248",
+      "properties": {
+        "@id": "node/7983926248",
+        "addr:district": "Papum Pare District",
+        "addr:full": "Sagalee",
+        "addr:postcode": "791119",
+        "addr:state": "Arunachal Pradesh",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Sagalee",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.4932809,
+          27.2459434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7983990159",
+      "properties": {
+        "@id": "node/7983990159",
+        "addr:district": "Anjaw",
+        "addr:full": "Walong",
+        "addr:postcode": "792104",
+        "addr:state": "Arunachal Pradesh",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Walong",
+        "name:en": "SubCentre, Walong",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.0166444,
+          28.1294938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7984012600",
+      "properties": {
+        "@id": "node/7984012600",
+        "addr:district": "Lohit",
+        "addr:full": "Lathao",
+        "addr:postcode": "792103",
+        "addr:state": "Arunachal Pradesh",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Primary Health Centre, Lathao",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.9102704,
+          27.7374041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7984120448",
+      "properties": {
+        "@id": "node/7984120448",
+        "addr:district": "Changlang",
+        "addr:full": "Kharsang",
+        "addr:postcode": "792122",
+        "addr:state": "Arunachal Pradesh",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Kharsang",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.0147112,
+          27.4168701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7984158030",
+      "properties": {
+        "@id": "node/7984158030",
+        "addr:district": "Anjaw",
+        "addr:full": "Kibitho",
+        "addr:postcode": "792104",
+        "addr:state": "Arunachal Pradesh",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Primary Health Centre, Kibitho",
+        "name:en": "Primary Health Centre, Kibitho",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.0159601,
+          28.2840227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7984204895",
+      "properties": {
+        "@id": "node/7984204895",
+        "addr:district": "Upper Siang Dist.",
+        "addr:full": "Adipasi-Bine",
+        "addr:postcode": "791103",
+        "addr:state": "Arunachal Pradesh",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Adipasi-Bine",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.2712904,
+          28.3757059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7984252291",
+      "properties": {
+        "@id": "node/7984252291",
+        "addr:district": "Lower Subansiri District",
+        "addr:full": "Boa Simla",
+        "addr:postcode": "791120",
+        "addr:state": "Arunachal Pradesh",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Boa Simla",
+        "name:en": "SubCentre, Boa Simla",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.985654,
+          27.7326593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7984289744",
+      "properties": {
+        "@id": "node/7984289744",
+        "addr:district": "East Siang",
+        "addr:full": "Pangin",
+        "addr:postcode": "791102",
+        "addr:state": "Arunachal Pradesh",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Pangin",
+        "name:en": "SubCentre, Pangin",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.2725886,
+          28.1414863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7984418915",
+      "properties": {
+        "@id": "node/7984418915",
+        "addr:district": "WEST KAMENG DISTRICT",
+        "addr:full": "Bhalukpong",
+        "addr:postcode": "790114",
+        "addr:state": "Arunachal Pradesh",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Bhalukpong",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.6358517,
+          27.0139206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7984516753",
+      "properties": {
+        "@id": "node/7984516753",
+        "addr:district": "Tirap District",
+        "addr:full": "Paniduria",
+        "addr:postcode": "792130",
+        "addr:state": "Arunachal Pradesh",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Paniduria",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.4253679,
+          27.0237903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7984542879",
+      "properties": {
+        "@id": "node/7984542879",
+        "addr:district": "Changlang",
+        "addr:full": "Jairampur",
+        "addr:postcode": "792121",
+        "addr:state": "Arunachal Pradesh",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Jairampur",
+        "name:en": "SubCentre, Jairampur",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.0161995,
+          27.3514534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7984668255",
+      "properties": {
+        "@id": "node/7984668255",
+        "addr:district": "East Siang",
+        "addr:full": "Nari",
+        "addr:postcode": "787061",
+        "addr:state": "Arunachal Pradesh",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Nari",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.0435816,
+          27.8003771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7986529151",
+      "properties": {
+        "@id": "node/7986529151",
+        "addr:district": "TAWANG DISTRICT",
+        "addr:full": "Mukto",
+        "addr:postcode": "790105",
+        "addr:state": "Arunachal Pradesh",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Primary Health Centre, Mukto",
+        "name:en": "Primary Health Centre, Mukto",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9099159,
+          27.5462704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7986616412",
+      "properties": {
+        "@id": "node/7986616412",
+        "addr:district": "Upper Siang Dist.",
+        "addr:full": "Geku",
+        "addr:postcode": "791002",
+        "addr:state": "Arunachal Pradesh",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Geku",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.0880521,
+          28.4197026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7986655278",
+      "properties": {
+        "@id": "node/7986655278",
+        "addr:district": "Anjaw",
+        "addr:full": "Walong",
+        "addr:postcode": "792104",
+        "addr:state": "Arunachal Pradesh",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Primary Health Centre, Walong",
+        "name:en": "Primary Health Centre, Walong",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.017277,
+          28.1311685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7986685606",
+      "properties": {
+        "@id": "node/7986685606",
+        "addr:district": "East Siang",
+        "addr:full": "Rani",
+        "addr:postcode": "791102",
+        "addr:state": "Arunachal Pradesh",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Rani",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.3142862,
+          27.9631758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7986721809",
+      "properties": {
+        "@id": "node/7986721809",
+        "addr:district": "East Siang",
+        "addr:full": "Jorsing",
+        "addr:postcode": "791102",
+        "addr:state": "Arunachal Pradesh",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Jorsing",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.0470564,
+          28.2570921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7986775279",
+      "properties": {
+        "@id": "node/7986775279",
+        "addr:district": "Lower Dibang Valley Dist.",
+        "addr:full": "Hunli",
+        "addr:postcode": "792110",
+        "addr:state": "Arunachal Pradesh",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Hunli",
+        "name:en": "SubCentre, Hunli",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.9625178,
+          28.324803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7986837706",
+      "properties": {
+        "@id": "node/7986837706",
+        "addr:district": "TAWANG DISTRICT",
+        "addr:full": "Lumla",
+        "addr:postcode": "790106",
+        "addr:state": "Arunachal Pradesh",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Lumla",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7217814,
+          27.5292017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7986863919",
+      "properties": {
+        "@id": "node/7986863919",
+        "addr:district": "East Siang",
+        "addr:full": "Borguli",
+        "addr:postcode": "791104",
+        "addr:state": "Arunachal Pradesh",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Primary Health Centre, Borguli",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.4665237,
+          28.0499249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7986988420",
+      "properties": {
+        "@id": "node/7986988420",
+        "addr:district": "Kurung Kumey District",
+        "addr:full": "Koloriang",
+        "addr:postcode": "791118",
+        "addr:state": "Arunachal Pradesh",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Koloriang",
+        "name:en": "SubCentre, Koloriang",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.3563564,
+          27.9032605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7986998014",
+      "properties": {
+        "@id": "node/7986998014",
+        "addr:district": "Tirap District",
+        "addr:full": "Bera",
+        "addr:postcode": "792130",
+        "addr:state": "Arunachal Pradesh",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Bera",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.3917523,
+          26.9532165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7987017608",
+      "properties": {
+        "@id": "node/7987017608",
+        "addr:district": "East Siang",
+        "addr:full": "Pangkang",
+        "addr:postcode": "791102",
+        "addr:state": "Arunachal Pradesh",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Pangkang",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.0891453,
+          28.4956828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7987059993",
+      "properties": {
+        "@id": "node/7987059993",
+        "addr:district": "TAWANG DISTRICT",
+        "addr:full": "Lhou",
+        "addr:postcode": "790104",
+        "addr:state": "Arunachal Pradesh",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Primary Health Centre, Lhou",
+        "name:en": "Primary Health Centre, Lhou",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.937497,
+          27.5766387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7987132408",
+      "properties": {
+        "@id": "node/7987132408",
+        "addr:district": "Upper Siang Dist.",
+        "addr:full": "Tuting",
+        "addr:postcode": "791105",
+        "addr:state": "Arunachal Pradesh",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Tuting",
+        "name:en": "SubCentre, Tuting",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.8914598,
+          28.995092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7987142293",
+      "properties": {
+        "@id": "node/7987142293",
+        "addr:district": "Lohit",
+        "addr:full": "New Mohong",
+        "addr:postcode": "792105",
+        "addr:state": "Arunachal Pradesh",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, New Mohong",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.8751656,
+          27.5572821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7987171162",
+      "properties": {
+        "@id": "node/7987171162",
+        "addr:district": "Changlang",
+        "addr:full": "Rima Putok",
+        "addr:postcode": "792123",
+        "addr:state": "Arunachal Pradesh",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Primary Health Centre, Rima Putok",
+        "name:en": "Primary Health Centre, Rima Putok",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.124949,
+          27.2923252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7987203052",
+      "properties": {
+        "@id": "node/7987203052",
+        "addr:district": "East Siang",
+        "addr:full": "Riga",
+        "addr:postcode": "791102",
+        "addr:state": "Arunachal Pradesh",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Primary Health Centre, Riga",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.0457203,
+          28.4330322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7987355311",
+      "properties": {
+        "@id": "node/7987355311",
+        "addr:district": "Tirap District",
+        "addr:full": "Soha",
+        "addr:postcode": "792129",
+        "addr:state": "Arunachal Pradesh",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Soha",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.6388885,
+          27.214775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7987367301",
+      "properties": {
+        "@id": "node/7987367301",
+        "addr:district": "TAWANG DISTRICT",
+        "addr:full": "Mukto",
+        "addr:postcode": "790105",
+        "addr:state": "Arunachal Pradesh",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Mukto",
+        "name:en": "SubCentre, Mukto",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9089882,
+          27.5462971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7987412252",
+      "properties": {
+        "@id": "node/7987412252",
+        "addr:district": "Upper Subansiri District",
+        "addr:full": "Taliha",
+        "addr:postcode": "791122",
+        "addr:state": "Arunachal Pradesh",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Taliha",
+        "name:en": "SubCentre, Taliha",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.1460886,
+          28.2343726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7987420719",
+      "properties": {
+        "@id": "node/7987420719",
+        "addr:district": "East Siang",
+        "addr:full": "Bilat",
+        "addr:postcode": "791102",
+        "addr:state": "Arunachal Pradesh",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Primary Health Centre, Bilat",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.1890016,
+          27.9424623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7987573949",
+      "properties": {
+        "@id": "node/7987573949",
+        "addr:district": "Tirap District",
+        "addr:full": "Longkhong",
+        "addr:postcode": "792129",
+        "addr:state": "Arunachal Pradesh",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Longkhong",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.5336875,
+          27.0837532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7987602928",
+      "properties": {
+        "@id": "node/7987602928",
+        "addr:district": "WEST KAMENG DISTRICT",
+        "addr:full": "Thembang",
+        "addr:postcode": "790101",
+        "addr:state": "Arunachal Pradesh",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Primary Health Centre, Thembang",
+        "name:en": "Primary Health Centre, Thembang",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.3858631,
+          27.3423009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7987619280",
+      "properties": {
+        "@id": "node/7987619280",
+        "addr:district": "Tirap District",
+        "addr:full": "Lazu",
+        "addr:postcode": "792130",
+        "addr:state": "Arunachal Pradesh",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Primary Health Centre,Lazu",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.5779929,
+          26.8979184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7987696480",
+      "properties": {
+        "@id": "node/7987696480",
+        "addr:district": "Upper Subansiri District",
+        "addr:full": "Murimugli",
+        "addr:postcode": "791122",
+        "addr:state": "Arunachal Pradesh",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Murimugli",
+        "name:en": "SubCentre, Murimugli",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.2686263,
+          27.9003935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7987701412",
+      "properties": {
+        "@id": "node/7987701412",
+        "addr:district": "Tirap",
+        "addr:full": "Natun Kheti",
+        "addr:postcode": "792130",
+        "addr:state": "Arunachal Pradesh",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Primary Health Centre, Natun Kheti",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.591974,
+          27.0568769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7987797459",
+      "properties": {
+        "@id": "node/7987797459",
+        "addr:district": "Upper Siang Dist.",
+        "addr:full": "Katan",
+        "addr:postcode": "792103",
+        "addr:state": "Arunachal Pradesh",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Primary Health Centre,Katan",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.3255893,
+          27.6169128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7987857595",
+      "properties": {
+        "@id": "node/7987857595",
+        "addr:district": "Lower Subansiri District",
+        "addr:full": "Yazali",
+        "addr:postcode": "791120",
+        "addr:state": "Arunachal Pradesh",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Yazali",
+        "name:en": "SubCentre, Yazali",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.7532808,
+          27.5362642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7990511020",
+      "properties": {
+        "@id": "node/7990511020",
+        "addr:district": "Lower Subansiri District",
+        "addr:full": "Tadarko",
+        "addr:postcode": "791120",
+        "addr:state": "Arunachal Pradesh",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Tadarko",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.899945,
+          27.6798982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7990748995",
+      "properties": {
+        "@id": "node/7990748995",
+        "addr:district": "Changlang",
+        "addr:full": "Khimiyong",
+        "addr:postcode": "792120",
+        "addr:state": "Arunachal Pradesh",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Primary Health Centre, Khimiyong",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.7267466,
+          27.0005705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7990778435",
+      "properties": {
+        "@id": "node/7990778435",
+        "addr:district": "TAWANG DISTRICT",
+        "addr:full": "Mago",
+        "addr:postcode": "790105",
+        "addr:state": "Arunachal Pradesh",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Primary Health Centre, Mago",
+        "name:en": "Primary Health Centre, Mago",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.2080005,
+          27.6880954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7990857452",
+      "properties": {
+        "@id": "node/7990857452",
+        "addr:district": "East Siang",
+        "addr:full": "Namsing",
+        "addr:postcode": "791104",
+        "addr:state": "Arunachal Pradesh",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Namsing",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.4895045,
+          27.92678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7990892877",
+      "properties": {
+        "@id": "node/7990892877",
+        "addr:district": "West Siang",
+        "addr:full": "Mechuka",
+        "addr:postcode": "791003",
+        "addr:state": "Arunachal Pradesh",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Mechuka",
+        "name:en": "SubCentre, Mechuka",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.136894,
+          28.5984944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7990968070",
+      "properties": {
+        "@id": "node/7990968070",
+        "addr:district": "East Siang",
+        "addr:full": "Komsing",
+        "addr:postcode": "791102",
+        "addr:state": "Arunachal Pradesh",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Komsing",
+        "name:en": "SubCentre, Komsing",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.9903424,
+          28.2368054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7991019555",
+      "properties": {
+        "@id": "node/7991019555",
+        "addr:district": "WEST KAMENG DISTRICT",
+        "addr:full": "Nafra",
+        "addr:postcode": "790001",
+        "addr:state": "Arunachal Pradesh",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Nafra",
+        "name:en": "SubCentre, Nafra",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.5466233,
+          27.3732346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7991104496",
+      "properties": {
+        "@id": "node/7991104496",
+        "addr:district": "Tirap District",
+        "addr:full": "Deomali",
+        "addr:postcode": "792129",
+        "addr:state": "Arunachal Pradesh",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Deomali",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.4679433,
+          27.1955468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7991144216",
+      "properties": {
+        "@id": "node/7991144216",
+        "addr:district": "Changlang",
+        "addr:full": "Nampong",
+        "addr:postcode": "792123",
+        "addr:state": "Arunachal Pradesh",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Nampong",
+        "name:en": "SubCentre, Nampong",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.1250898,
+          27.2937184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7991468068",
+      "properties": {
+        "@id": "node/7991468068",
+        "addr:district": "WEST KAMENG DISTRICT",
+        "addr:full": "Dirang",
+        "addr:postcode": "790101",
+        "addr:state": "Arunachal Pradesh",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Dirang",
+        "name:en": "SubCentre, Dirang",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.2404971,
+          27.358585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7991502559",
+      "properties": {
+        "@id": "node/7991502559",
+        "addr:district": "Tirap District",
+        "addr:full": "Sanliam",
+        "addr:postcode": "792130",
+        "addr:state": "Arunachal Pradesh",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Sanliam",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.5410743,
+          26.9291301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7991523612",
+      "properties": {
+        "@id": "node/7991523612",
+        "addr:district": "WEST KAMENG DISTRICT",
+        "addr:full": "Shergaon",
+        "addr:postcode": "790003",
+        "addr:state": "Arunachal Pradesh",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Primary Health Centre, Shergaon",
+        "name:en": "Primary Health Centre, Shergaon",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.2595693,
+          27.1263951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7991587826",
+      "properties": {
+        "@id": "node/7991587826",
+        "addr:district": "West Siang",
+        "addr:full": "Tirbin",
+        "addr:postcode": "791101",
+        "addr:state": "Arunachal Pradesh",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Tirbin",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.5785516,
+          28.0182288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7991677730",
+      "properties": {
+        "@id": "node/7991677730",
+        "addr:district": "Changlang",
+        "addr:full": "Vijoynagar",
+        "addr:postcode": "792055",
+        "addr:state": "Arunachal Pradesh",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Primary Health Centre, Vijoynagar",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.9955122,
+          27.1914952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7991719186",
+      "properties": {
+        "@id": "node/7991719186",
+        "addr:district": "Lower Subansiri District",
+        "addr:full": "Joram",
+        "addr:postcode": "791120",
+        "addr:state": "Arunachal Pradesh",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Joram",
+        "name:en": "SubCentre, Joram",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.7732284,
+          27.5112058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7991741636",
+      "properties": {
+        "@id": "node/7991741636",
+        "addr:district": "Dibang Valley Dist.",
+        "addr:full": "Anelih",
+        "addr:postcode": "792110",
+        "addr:state": "Arunachal Pradesh",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Primary Health Centre, Anelih",
+        "name:en": "Primary Health Centre, Anelih",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.7793558,
+          28.5178332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7991911604",
+      "properties": {
+        "@id": "node/7991911604",
+        "addr:district": "LONGDING",
+        "addr:full": "Wakka",
+        "addr:postcode": "792131",
+        "addr:state": "Arunachal Pradesh",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Wakka",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.4334132,
+          26.788227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7998472827",
+      "properties": {
+        "@id": "node/7998472827",
+        "addr:district": "East Siang",
+        "addr:full": "Dite Dime",
+        "addr:postcode": "791102",
+        "addr:state": "Arunachal Pradesh",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Primary Health Centre, Dite Dime",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.0223928,
+          28.3516137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7998553515",
+      "properties": {
+        "@id": "node/7998553515",
+        "addr:district": "Upper Siang Dist.",
+        "addr:full": "Janbo",
+        "addr:postcode": "791002",
+        "addr:state": "Arunachal Pradesh",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre,Janbo",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.8589779,
+          28.797145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7998568345",
+      "properties": {
+        "@id": "node/7998568345",
+        "addr:district": "West Siang",
+        "addr:full": "Liromoba",
+        "addr:postcode": "791101",
+        "addr:state": "Arunachal Pradesh",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Liromoba",
+        "name:en": "SubCentre, Liromoba",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.4975911,
+          28.0728678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7998610693",
+      "properties": {
+        "@id": "node/7998610693",
+        "addr:district": "Lower Subansiri District",
+        "addr:full": "Bulla",
+        "addr:postcode": "791120",
+        "addr:state": "Arunachal Pradesh",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Bulla",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.8424528,
+          27.5931262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7998662840",
+      "properties": {
+        "@id": "node/7998662840",
+        "addr:district": "changlang",
+        "addr:full": "diyun",
+        "addr:postcode": "792103",
+        "addr:state": "Arunachal Pradesh",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre,diyun",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.0958011,
+          27.5425634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7998741011",
+      "properties": {
+        "@id": "node/7998741011",
+        "addr:district": "WEST KAMENG DISTRICT",
+        "addr:full": "Kalaktang",
+        "addr:postcode": "790002",
+        "addr:state": "Arunachal Pradesh",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Kalaktang",
+        "name:en": "SubCentre, Kalaktang",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.1155303,
+          27.1053042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7998758632",
+      "properties": {
+        "@id": "node/7998758632",
+        "addr:district": "WEST KAMENG DISTRICT",
+        "addr:full": "Tippi",
+        "addr:postcode": "790114",
+        "addr:state": "Arunachal Pradesh",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Tippi",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.6104753,
+          27.0319993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7998804952",
+      "properties": {
+        "@id": "node/7998804952",
+        "addr:district": "TAWANG DISTRICT",
+        "addr:full": "Thingbu",
+        "addr:postcode": "790104",
+        "addr:state": "Arunachal Pradesh",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Thingbu",
+        "name:en": "SubCentre, Thingbu",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.0995963,
+          27.661634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7998867108",
+      "properties": {
+        "@id": "node/7998867108",
+        "addr:district": "Upper Siang Dist.",
+        "addr:full": "Adi Pasi",
+        "addr:postcode": "791103",
+        "addr:state": "Arunachal Pradesh",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Primary Health Centre, Adi Pasi",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.2657925,
+          28.3650682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7998898688",
+      "properties": {
+        "@id": "node/7998898688",
+        "addr:district": "WEST KAMENG DISTRICT",
+        "addr:full": "Singchung",
+        "addr:postcode": "790116",
+        "addr:state": "Arunachal Pradesh",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Singchung",
+        "name:en": "SubCentre, Singchung",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.5053133,
+          27.2112471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7998916757",
+      "properties": {
+        "@id": "node/7998916757",
+        "addr:district": "Dibang Valley Dist.",
+        "addr:full": "Etalin",
+        "addr:postcode": "792101",
+        "addr:state": "Arunachal Pradesh",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Etalin",
+        "name:en": "SubCentre, Etalin",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.8715661,
+          28.6106845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7999020292",
+      "properties": {
+        "@id": "node/7999020292",
+        "addr:district": "Lower Dibang Valley Dist.",
+        "addr:full": "Bolung",
+        "addr:postcode": "792110",
+        "addr:state": "Arunachal Pradesh",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Bolung",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.7581227,
+          28.0327397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7999046255",
+      "properties": {
+        "@id": "node/7999046255",
+        "addr:district": "WEST KAMENG DISTRICT",
+        "addr:full": "Rupa",
+        "addr:postcode": "790003",
+        "addr:state": "Arunachal Pradesh",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Rupa",
+        "name:en": "SubCentre, Rupa",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.3991837,
+          27.2030162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7999159616",
+      "properties": {
+        "@id": "node/7999159616",
+        "addr:district": "East Siang",
+        "addr:full": "Sille",
+        "addr:postcode": "791102",
+        "addr:state": "Arunachal Pradesh",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Sille",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.3171867,
+          27.8872243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7999232400",
+      "properties": {
+        "@id": "node/7999232400",
+        "addr:district": "West Siang",
+        "addr:full": "Yomcha",
+        "addr:postcode": "791001",
+        "addr:state": "Arunachal Pradesh",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Yomcha",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.5695494,
+          28.1293957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7999271571",
+      "properties": {
+        "@id": "node/7999271571",
+        "addr:district": "WEST KAMENG DISTRICT",
+        "addr:full": "Nafra",
+        "addr:postcode": "790001",
+        "addr:state": "Arunachal Pradesh",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Nafra",
+        "name:en": "SubCentre, Nafra",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.5454408,
+          27.3726843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7999397206",
+      "properties": {
+        "@id": "node/7999397206",
+        "addr:district": "Lohit",
+        "addr:full": "Loiliang",
+        "addr:postcode": "792001",
+        "addr:state": "Arunachal Pradesh",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Loiliang",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.1652371,
+          27.9343938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7999581415",
+      "properties": {
+        "@id": "node/7999581415",
+        "addr:district": "Upper Siang Dist.",
+        "addr:full": "Damro",
+        "addr:postcode": "791002",
+        "addr:state": "Arunachal Pradesh",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Damro",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.2436271,
+          28.4462945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7999714677",
+      "properties": {
+        "@id": "node/7999714677",
+        "addr:district": "Lohit",
+        "addr:full": "Kumari",
+        "addr:postcode": "792105",
+        "addr:state": "Arunachal Pradesh",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Primary Health Centre, Kumari",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.8477481,
+          27.5735446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8001847173",
+      "properties": {
+        "@id": "node/8001847173",
+        "addr:district": "Lower Subansiri District",
+        "addr:full": "Yazali",
+        "addr:postcode": "791120",
+        "addr:state": "Arunachal Pradesh",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Yazali",
+        "name:en": "SubCentre, Yazali",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.7512571,
+          27.5403353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8001906163",
+      "properties": {
+        "@id": "node/8001906163",
+        "addr:district": "WEST KAMENG DISTRICT",
+        "addr:full": "Jerigaon",
+        "addr:postcode": "790001",
+        "addr:state": "Arunachal Pradesh",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Jerigaon",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.4726477,
+          27.3403204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8002037535",
+      "properties": {
+        "@id": "node/8002037535",
+        "addr:district": "West Siang",
+        "addr:full": "Tato",
+        "addr:postcode": "791003",
+        "addr:state": "Arunachal Pradesh",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Tato",
+        "name:en": "SubCentre, Tato",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.3756525,
+          28.5325054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8002060087",
+      "properties": {
+        "@id": "node/8002060087",
+        "addr:district": "TAWANG DISTRICT",
+        "addr:full": "Jangda",
+        "addr:postcode": "790105",
+        "addr:state": "Arunachal Pradesh",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Jangda",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9742158,
+          27.5976837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8348355979",
+      "properties": {
+        "@id": "node/8348355979",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "M/S Life Line Medico's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.8005212,
+          28.1685172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9140652038",
+      "properties": {
+        "@id": "node/9140652038",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Hayuliang Hospital",
+        "name:en": "Hayuliang Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.5245627,
+          28.0821116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11283249169",
+      "properties": {
+        "@id": "node/11283249169",
+        "amenity": "pharmacy",
+        "name": "Ayub Medico's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.6374595,
+          27.0136044
+        ]
+      }
+    }
+  ]
+}

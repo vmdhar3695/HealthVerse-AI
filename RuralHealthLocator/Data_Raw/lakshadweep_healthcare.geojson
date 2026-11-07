@@ -1,0 +1,138 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-11-07T11:40:06Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/638573755",
+      "properties": {
+        "@id": "way/638573755",
+        "addr:state": "Lakshadweep",
+        "addr:subdistrict": "Agatti",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Rajiv Gandhi Speciality Hospital",
+        "name:etymology:wikidata": "Q4593",
+        "name:ml": "രാജീവ് ഗാന്ധി സ്പെഷ്യാലിറ്റി ആശുപത്രി",
+        "source": "OpenGovernmentData",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.1934894,
+          10.8656501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/638704816",
+      "properties": {
+        "@id": "way/638704816",
+        "addr:district": "Lakshadweep",
+        "addr:full": "Indira Gandhi Hospital, Kavaratti",
+        "addr:postcode": "262240",
+        "addr:state": "Lakshadweep",
+        "amenity": "hospital",
+        "fax": "4896262794",
+        "healthcare": "hospital",
+        "name": "IG Hospital, Kavaratti",
+        "operator:type": "government",
+        "source": "OpenGovernmentData",
+        "website": "http://lakshadweep.nic.in/ISLAND_web/kavaratti/MedicalHealth.html",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6376708,
+          10.5613886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7184090398",
+      "properties": {
+        "@id": "node/7184090398",
+        "addr:state": "Lakshadweep",
+        "addr:subdistrict": "Minicoy",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Government Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0569309,
+          8.2825373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7184090421",
+      "properties": {
+        "@id": "node/7184090421",
+        "addr:state": "Lakshadweep",
+        "addr:subdistrict": "Kiltan",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "PHC Kiltan",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0081026,
+          11.4874896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7184090426",
+      "properties": {
+        "@id": "node/7184090426",
+        "addr:state": "Lakshadweep",
+        "addr:subdistrict": "Kadmat",
+        "description": "Community Health Centre",
+        "healthcare": "centre",
+        "name": "CHC Kadmath",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.7751675,
+          11.2248305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7627822165",
+      "properties": {
+        "@id": "node/7627822165",
+        "addr:full": "Minicoy",
+        "addr:postcode": "682559",
+        "addr:state": "Lakshadweep",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Government Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0627044,
+          8.2883938
+        ]
+      }
+    }
+  ]
+}

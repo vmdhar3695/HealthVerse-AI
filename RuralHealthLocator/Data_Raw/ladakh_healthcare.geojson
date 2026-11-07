@@ -1,0 +1,671 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-11-07T11:12:22Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/27761109",
+      "properties": {
+        "@id": "way/27761109",
+        "amenity": "hospital",
+        "name": "Sonam Norboo Memorial Hospital Leh",
+        "name:etymology:wikidata": "Q56220353",
+        "phone": "01982252014",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5804754,
+          34.1539449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/158343131",
+      "properties": {
+        "@id": "way/158343131",
+        "addr:city": "Leh",
+        "addr:city:ks": "لیہہ",
+        "addr:city:ur": "لیہہ",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "landuse": "military",
+        "name": "Army Hospital Leh",
+        "name:ur": "آرمی ہسپتال لیہہ",
+        "name:zh": "列城陆军医院",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.566456,
+          34.1614283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/182851677",
+      "properties": {
+        "@id": "way/182851677",
+        "amenity": "doctors",
+        "building": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4302881,
+          34.0549503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/253298994",
+      "properties": {
+        "@id": "way/253298994",
+        "amenity": "hospital",
+        "name": "Mahabodhi Charitable Hospital Devachan",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6123908,
+          34.1049202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/423190955",
+      "properties": {
+        "@id": "way/423190955",
+        "amenity": "hospital",
+        "name": "Dispensary",
+        "operator": "Tibetan Children's Village",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.593606,
+          34.1088626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/423191172",
+      "properties": {
+        "@id": "way/423191172",
+        "amenity": "hospital",
+        "name": "Optical clinic",
+        "operator": "Tibetan Children's Village",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5938833,
+          34.1091981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/485594432",
+      "properties": {
+        "@id": "node/485594432",
+        "amenity": "hospital",
+        "name": "Community Health Center Nubra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5529759,
+          34.5491569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/485617329",
+      "properties": {
+        "@id": "node/485617329",
+        "amenity": "hospital",
+        "name": "Primary Health Center Tangtse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1680282,
+          34.0329113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/685045726",
+      "properties": {
+        "@id": "way/685045726",
+        "amenity": "health_post",
+        "healthcare": "nurse",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.7683349,
+          34.2839546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/926607497",
+      "properties": {
+        "@id": "node/926607497",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Zanskar Medical"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8784847,
+          33.4669637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1086530835",
+      "properties": {
+        "@id": "way/1086530835",
+        "amenity": "hospital",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0341775,
+          34.8034284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1116132420",
+      "properties": {
+        "@id": "way/1116132420",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Community Health Center Padum",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8771636,
+          33.4703165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1334492669",
+      "properties": {
+        "@id": "way/1334492669",
+        "addr:district": "Kargil",
+        "addr:postcode": "194103",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Qamar Ali Akhoon Memorial Hospital Kargil",
+        "opening_hours": "24/7",
+        "operator:type": "government",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.1404251,
+          34.5211421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1412272096",
+      "properties": {
+        "@id": "way/1412272096",
+        "addr:district": "KARGIL",
+        "addr:full": "District Hospital, Kargil Ladakh",
+        "addr:postcode": "194103",
+        "amenity": "hospital",
+        "contact:mobile": "9419888523",
+        "contact:phone": "1985232213",
+        "healthcare": "hospital",
+        "name": "Old Kargil District Hospital",
+        "opening_hours": "24/7",
+        "operator:type": "government",
+        "source": "OpenGovernmentData",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.1246854,
+          34.5593439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1412457860",
+      "properties": {
+        "@id": "way/1412457860",
+        "healthcare": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8317988,
+          34.8481256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2027805349",
+      "properties": {
+        "@id": "node/2027805349",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "name": "Sub Center (Hospital)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3999574,
+          34.2355862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2074161489",
+      "properties": {
+        "@id": "node/2074161489",
+        "amenity": "clinic",
+        "name": "MAC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4291303,
+          34.2047349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2592452175",
+      "properties": {
+        "@id": "node/2592452175",
+        "amenity": "hospital",
+        "name": "Tibetian Health Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5912051,
+          34.1084243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2963931497",
+      "properties": {
+        "@id": "node/2963931497",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.585442,
+          34.1624884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2963931498",
+      "properties": {
+        "@id": "node/2963931498",
+        "addr:state": "LA",
+        "addr:street": "Main Bazaar",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Het Ram Vinay Kumar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5854236,
+          34.164485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2973877903",
+      "properties": {
+        "@id": "node/2973877903",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Ayushman Arogya Mandir - Public Health Center Turtuk",
+        "operator": "Department of Public Health Service",
+        "operator:type": "government"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8317834,
+          34.8480733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2973880789",
+      "properties": {
+        "@id": "node/2973880789",
+        "amenity": "hospital",
+        "healthcare": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4764945,
+          34.5777687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3715094181",
+      "properties": {
+        "@id": "node/3715094181",
+        "addr:city": "Leh",
+        "addr:city:ks": "لیہہ",
+        "addr:city:ur": "لیہہ",
+        "amenity": "clinic",
+        "healthcare": "centre",
+        "name": "CT Scan Centre",
+        "name:ks": "سی ٹی اسکین سنٹر",
+        "name:ur": "سی ٹی اسکین سنٹر"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5678396,
+          34.1621623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4369053859",
+      "properties": {
+        "@id": "node/4369053859",
+        "amenity": "hospital",
+        "name": "Community Health Center Drass",
+        "note": "This is a large hospital, and seems to contain many buildings, I'm not sure what buildings are part of the hospital, and what not so I added it as a single node. Please improve."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.754385,
+          34.4302684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4369053883",
+      "properties": {
+        "@id": "node/4369053883",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.7543882,
+          34.4305305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5936063636",
+      "properties": {
+        "@id": "node/5936063636",
+        "addr:city": "Kargil",
+        "addr:city:ur": "کارگل",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.1254932,
+          34.5618862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5985285121",
+      "properties": {
+        "@id": "node/5985285121",
+        "amenity": "doctors",
+        "name": "Medical Aid Centrum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1511392,
+          34.1330409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6660593327",
+      "properties": {
+        "@id": "node/6660593327",
+        "amenity": "clinic",
+        "name": "New Type Primary Health Care",
+        "operator": "Government of Jammu & Kashmir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9060835,
+          33.5272701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6681344468",
+      "properties": {
+        "@id": "node/6681344468",
+        "amenity": "hospital",
+        "name": "Primary Health Centre Khaltsi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8848079,
+          34.3196477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6917575490",
+      "properties": {
+        "@id": "node/6917575490",
+        "addr:street": "Zorawar Fort road",
+        "amenity": "pharmacy",
+        "name": "Leh Chemist",
+        "phone": "01982255774"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5751622,
+          34.1526558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7148918736",
+      "properties": {
+        "@id": "node/7148918736",
+        "addr:full": "Skamboo",
+        "addr:state": "Jammu and Kashmir",
+        "description": "Health- Sub Centre",
+        "healthcare": "centre",
+        "name": "Government Medical Sub Centre ,Skamboo",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.2438519,
+          34.4595313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7148918741",
+      "properties": {
+        "@id": "node/7148918741",
+        "addr:full": "Srinagar Laddakh Highway",
+        "addr:state": "Jammu and Kashmir",
+        "description": "Health- Sub Centre",
+        "healthcare": "centre",
+        "name": "Medical Sub Centre ,Srinagar Laddakh Highway",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.9327847,
+          34.4736564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7148918746",
+      "properties": {
+        "@id": "node/7148918746",
+        "addr:full": "Darket",
+        "addr:state": "Jammu and Kashmir",
+        "description": "Health- Sub Centre",
+        "healthcare": "centre",
+        "name": "Medical Sub Centre , Darket",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.2793207,
+          34.4464312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9869966911",
+      "properties": {
+        "@id": "node/9869966911",
+        "healthcare": "centre",
+        "name": "Health and wellness centre ayushman bharat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.2658316,
+          32.9697471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9880707193",
+      "properties": {
+        "@id": "node/9880707193",
+        "amenity": "hospital",
+        "healthcare": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.085454,
+          34.3168761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12465668386",
+      "properties": {
+        "@id": "node/12465668386",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Army hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.1318099,
+          34.5540558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12958326960",
+      "properties": {
+        "@id": "node/12958326960",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Aatha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5835083,
+          34.1630016
+        ]
+      }
+    }
+  ]
+}

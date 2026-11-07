@@ -1,0 +1,5622 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-11-07T11:35:55Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/266142081",
+      "properties": {
+        "@id": "way/266142081",
+        "amenity": "hospital",
+        "name": "Impur Christian Hospital",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.5447714,
+          26.3892027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/666622185",
+      "properties": {
+        "@id": "way/666622185",
+        "amenity": "hospital",
+        "fixme": "extent",
+        "name": "Christian Institute of Health Sciences and Research Hospital",
+        "source": "GRID",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.7598616,
+          25.8700433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/873120205",
+      "properties": {
+        "@id": "way/873120205",
+        "addr:block": "Phek",
+        "addr:district": "Phek",
+        "addr:landmark": "Near Phek Town Baptist Church",
+        "addr:postcode": "797108",
+        "addr:state": "Nagaland",
+        "addr:subdistrict": "Phek Sadar",
+        "amenity": "hospital",
+        "description": "District Hospital",
+        "locality": "Phek Town",
+        "name": "Phek, District Hospital",
+        "source": "OpenGovernmentData",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.4643706,
+          25.7100201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/873120206",
+      "properties": {
+        "@id": "way/873120206",
+        "addr:district": "Phek",
+        "addr:full": "Meluri",
+        "addr:postcode": "797114",
+        "addr:state": "Nagaland",
+        "amenity": "hospital",
+        "name": "Civil Hospital",
+        "source": "Local Knowledge",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.6267998,
+          25.6860685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/879494884",
+      "properties": {
+        "@id": "way/879494884",
+        "addr:city": "Kohima",
+        "addr:street": "Merhulietsa",
+        "healthcare": "laboratory",
+        "name": "Paramedical Trg School",
+        "operator": "H&FW",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.0916641,
+          25.6657061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1090894532",
+      "properties": {
+        "@id": "way/1090894532",
+        "addr:district": "Wokha",
+        "addr:full": "Dr.Motsou Memorial District Hospital",
+        "addr:postcode": "797111",
+        "addr:state": "Nagaland",
+        "addr:subdistrict": "Wokha Sadar",
+        "amenity": "hospital",
+        "description": "District Hospital",
+        "locality": "hospital colony",
+        "name": "Wokha, District Hospital",
+        "source": "OpenGovernmentData",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.2591204,
+          26.0790996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1143988774",
+      "properties": {
+        "@id": "way/1143988774",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "Primary Health Centre",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.0966142,
+          26.2597147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1241396451",
+      "properties": {
+        "@id": "way/1241396451",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.3323239,
+          25.6166002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1569206929",
+      "properties": {
+        "@id": "way/1569206929",
+        "addr:full": "Pfutsero",
+        "addr:postcode": "797107",
+        "addr:state": "Nagaland",
+        "amenity": "hospital",
+        "name": "Pfütsero Civil Hospital",
+        "source": "Local Knowledge",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.3047732,
+          25.5736139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2683567624",
+      "properties": {
+        "@id": "node/2683567624",
+        "addr:district": "Mokokchung",
+        "addr:full": "A.M Road",
+        "addr:postcode": "798601",
+        "addr:state": "Nagaland",
+        "amenity": "clinic",
+        "name": "Woodland Nursing Home",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.5394124,
+          26.3278732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2683661036",
+      "properties": {
+        "@id": "node/2683661036",
+        "amenity": "pharmacy",
+        "name": "Dispensary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.5538789,
+          26.3313494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2686418422",
+      "properties": {
+        "@id": "node/2686418422",
+        "amenity": "pharmacy",
+        "dispensing": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.5213413,
+          26.3188126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2686563541",
+      "properties": {
+        "@id": "node/2686563541",
+        "amenity": "hospital",
+        "designation": "Private Clinic",
+        "emergency": "no",
+        "name": "Modern Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.5217855,
+          26.3240761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2689917278",
+      "properties": {
+        "@id": "node/2689917278",
+        "amenity": "hospital",
+        "emergency": "no",
+        "name": "Doctor's Clinic & Mediciner"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.5177439,
+          26.3243522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2689917376",
+      "properties": {
+        "@id": "node/2689917376",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Bio-Medical"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.5215202,
+          26.3237225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2696256995",
+      "properties": {
+        "@id": "node/2696256995",
+        "amenity": "hospital",
+        "emergency": "no",
+        "name": "Impur Mission Hospital Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.5224108,
+          26.3253666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4101022014",
+      "properties": {
+        "@id": "node/4101022014",
+        "amenity": "hospital",
+        "emergency": "no",
+        "name": "Govt Dispensary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.4130927,
+          26.5068894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5074262121",
+      "properties": {
+        "@id": "node/5074262121",
+        "amenity": "hospital",
+        "name": "Community Health Centre",
+        "name:en": "Community Health Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.5331556,
+          26.3933509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6255099034",
+      "properties": {
+        "@id": "node/6255099034",
+        "addr:block": "Sechu-Zubza",
+        "addr:district": "Kohima",
+        "addr:postcode": "797105",
+        "addr:state": "Nagaland",
+        "addr:subdistrict": "Sechu-Zubza",
+        "amenity": "clinic",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "locality": "Sechu Village",
+        "name": "PHC, Sechu( zubza)",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.0412021,
+          25.7129838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6255128239",
+      "properties": {
+        "@id": "node/6255128239",
+        "addr:district": "Dimapur",
+        "addr:full": "4Th Mile, Dimapur, P.O. Artc, Post Box - 31",
+        "addr:postcode": "797115",
+        "addr:state": "Nagaland",
+        "amenity": "hospital",
+        "name": "CHIS (referal hospital)",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.7804314,
+          25.860236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6255151466",
+      "properties": {
+        "@id": "node/6255151466",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Eden Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.7007122,
+          25.8999432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6255303391",
+      "properties": {
+        "@id": "node/6255303391",
+        "addr:district": "Kohima",
+        "addr:full": "Naga Hospital Authority, Hospital Colony, NH - 29",
+        "addr:postcode": "797001",
+        "addr:state": "Nagaland",
+        "amenity": "hospital",
+        "email": "info@vision-studio.com",
+        "healthcare": "hospital",
+        "name": "Naga Hospital",
+        "operator:type": "private",
+        "source": "OpenGovernmentData",
+        "website": "http://www.nhos.symbios.co.in/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.0960672,
+          25.6694195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6763195716",
+      "properties": {
+        "@id": "node/6763195716",
+        "addr:district": "Kohima",
+        "addr:full": "Phool Bari",
+        "addr:postcode": "797001",
+        "addr:state": "Nagaland",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Oking Hospital And Research Clinic Pvt Ltd",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.1056576,
+          25.6688782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6908120458",
+      "properties": {
+        "@id": "node/6908120458",
+        "addr:district": "Wokha",
+        "addr:full": "Mhondamo Memorial Nurshing Home, Orchid Colony",
+        "addr:postcode": "797111",
+        "addr:state": "Nagaland",
+        "amenity": "clinic",
+        "name": "Mhondamo Memorial Nursing Home",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.2566563,
+          26.0979386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6908120471",
+      "properties": {
+        "@id": "node/6908120471",
+        "addr:district": "Dimapur",
+        "addr:full": "Old Sewak Road",
+        "addr:postcode": "797112",
+        "addr:state": "Nagaland",
+        "amenity": "hospital",
+        "name": "Faith Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.7196231,
+          25.9051075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6908120476",
+      "properties": {
+        "@id": "node/6908120476",
+        "addr:district": "Dimapur",
+        "addr:full": "Purana Bazar",
+        "addr:postcode": "797112",
+        "addr:state": "Nagaland",
+        "amenity": "hospital",
+        "name": "Zion Hospital and Research Centre",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.7476133,
+          25.9161945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6908120485",
+      "properties": {
+        "@id": "node/6908120485",
+        "addr:district": "Tuensang",
+        "addr:full": "Eleutheros Christian Society, Post Box No. 51",
+        "addr:postcode": "798612",
+        "addr:state": "Nagaland",
+        "amenity": "hospital",
+        "name": "Eleutheros Christian Society Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.8134185,
+          26.2371121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6908120490",
+      "properties": {
+        "@id": "node/6908120490",
+        "addr:district": "Zunheboto",
+        "addr:full": "Project Colony",
+        "addr:postcode": "798620",
+        "addr:state": "Nagaland",
+        "amenity": "hospital",
+        "name": "Y. Rochill Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.5262223,
+          26.0149631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6908120501",
+      "properties": {
+        "@id": "node/6908120501",
+        "addr:district": "Dimapur",
+        "addr:full": "P W D Road, Midland",
+        "addr:postcode": "797112",
+        "addr:state": "Nagaland",
+        "amenity": "hospital",
+        "name": "Nikos Hospital And Research Centre",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.715467,
+          25.9086408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6908445869",
+      "properties": {
+        "@id": "node/6908445869",
+        "addr:district": "Dimapur",
+        "addr:full": "Circular Road",
+        "addr:postcode": "797112",
+        "addr:state": "Nagaland",
+        "amenity": "hospital",
+        "name": "Metro Hospital, Dimapur",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.716442,
+          25.9140329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7100882231",
+      "properties": {
+        "@id": "node/7100882231",
+        "addr:block": "Medziphema",
+        "addr:district": "Dimapur",
+        "addr:landmark": "Near NH-29",
+        "addr:postcode": "797106",
+        "addr:state": "Nagaland",
+        "addr:subdistrict": "Medziphema",
+        "amenity": "clinic",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "locality": "Piphema Village",
+        "name": "Primary Health Centre Piphema",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.960994,
+          25.750121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7100882232",
+      "properties": {
+        "@id": "node/7100882232",
+        "addr:district": "Zunheboto",
+        "addr:landmark": "Medical Colony",
+        "addr:postcode": "798620",
+        "addr:state": "Nagaland",
+        "addr:subdistrict": "Aghunato",
+        "description": "Community Health Centre",
+        "healthcare": "centre",
+        "locality": "Aghunato Village",
+        "name": "Aghunato, CHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.6251691,
+          26.0003858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7100882233",
+      "properties": {
+        "@id": "node/7100882233",
+        "addr:district": "Wokha",
+        "addr:landmark": "Cemetry of Shaki Baptist Church",
+        "addr:postcode": "797111",
+        "addr:state": "Nagaland",
+        "addr:subdistrict": "Wozhuro",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "locality": "Wozhuro Village",
+        "name": "Wozhuro, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.1797664,
+          26.0070936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7100882234",
+      "properties": {
+        "@id": "node/7100882234",
+        "addr:block": "Satakha",
+        "addr:district": "Zunheboto",
+        "addr:postcode": "798620",
+        "addr:state": "Nagaland",
+        "addr:subdistrict": "Satakha",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "locality": "Satakha Town",
+        "name": "Satakha, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.4542994,
+          25.9256279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7100882235",
+      "properties": {
+        "@id": "node/7100882235",
+        "addr:district": "Peren",
+        "addr:postcode": "797002",
+        "addr:state": "Nagaland",
+        "addr:subdistrict": "Pedi (Ngwalwa)",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "locality": "Poilwa Village",
+        "name": "Poilwa, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.920276,
+          25.5874622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7100882236",
+      "properties": {
+        "@id": "node/7100882236",
+        "addr:block": "Mon",
+        "addr:district": "Mon",
+        "addr:postcode": "798621",
+        "addr:state": "Nagaland",
+        "addr:subdistrict": "Mon Sadar",
+        "amenity": "hospital",
+        "description": "District Hospital",
+        "locality": "Mon Town",
+        "name": "Mon, District Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.0287876,
+          26.7238973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7100882237",
+      "properties": {
+        "@id": "node/7100882237",
+        "addr:block": "Tseminyu",
+        "addr:district": "Kohima",
+        "addr:postcode": "797109",
+        "addr:state": "Nagaland",
+        "addr:subdistrict": "Tseminyu",
+        "description": "Community Health Centre",
+        "healthcare": "centre",
+        "locality": "Chunlikha Village",
+        "name": "Chunlikha, CHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.2344444,
+          25.984485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7100882238",
+      "properties": {
+        "@id": "node/7100882238",
+        "addr:block": "Mangkolemba",
+        "addr:district": "Mokokchung",
+        "addr:postcode": "798604",
+        "addr:state": "Nagaland",
+        "addr:subdistrict": "Mangkolemba",
+        "description": "Community Health Centre",
+        "healthcare": "centre",
+        "name": "Mangkolemba, CHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.432248,
+          26.495682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7100882239",
+      "properties": {
+        "@id": "node/7100882239",
+        "addr:block": "Tening",
+        "addr:district": "Peren",
+        "addr:postcode": "797101",
+        "addr:state": "Nagaland",
+        "addr:subdistrict": "Tening",
+        "amenity": "clinic",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "locality": "Azailong Village",
+        "name": "Azailong, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.642689,
+          25.411608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7100882240",
+      "properties": {
+        "@id": "node/7100882240",
+        "addr:district": "Kohima",
+        "addr:postcode": "797001",
+        "addr:state": "Nagaland",
+        "addr:subdistrict": "Kohima Sadar",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "locality": "Kohima Village",
+        "name": "Kohima Village, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.117977,
+          25.673567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7100882241",
+      "properties": {
+        "@id": "node/7100882241",
+        "addr:district": "Tuensang",
+        "addr:landmark": "Near Chuchem Lashong (Church)",
+        "addr:postcode": "798612",
+        "addr:state": "Nagaland",
+        "addr:subdistrict": "Tuensang Sadar",
+        "amenity": "hospital",
+        "description": "District Hospital",
+        "locality": "Tuensang Town",
+        "name": "Tuensang, District Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.8178952,
+          26.2529567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7100882242",
+      "properties": {
+        "@id": "node/7100882242",
+        "addr:block": "Tobu",
+        "addr:district": "Mon",
+        "addr:landmark": "Below Bazar",
+        "addr:postcode": "798603",
+        "addr:state": "Nagaland",
+        "addr:subdistrict": "Tobu",
+        "description": "Community Health Centre",
+        "healthcare": "centre",
+        "locality": "Tobu Town",
+        "name": "Tobu, CHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.938141,
+          26.361081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7100882243",
+      "properties": {
+        "@id": "node/7100882243",
+        "addr:block": "Pfutsero",
+        "addr:district": "Phek",
+        "addr:postcode": "797107",
+        "addr:state": "Nagaland",
+        "addr:subdistrict": "Pfutsero",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "locality": "Kikruma Village",
+        "name": "Kikruma, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.2158117,
+          25.5765873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7100882244",
+      "properties": {
+        "@id": "node/7100882244",
+        "addr:district": "Phek",
+        "addr:landmark": "Near Govt.Higher Secondary School",
+        "addr:postcode": "797107",
+        "addr:state": "Nagaland",
+        "addr:street": "CHC & TC Chozuba P.O Chozuba",
+        "addr:subdistrict": "Chozuba",
+        "description": "Community Health Centre",
+        "healthcare": "centre",
+        "locality": "Hospital Colony",
+        "name": "Chozuba, CHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.3231536,
+          25.7227102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7100882245",
+      "properties": {
+        "@id": "node/7100882245",
+        "addr:district": "Phek",
+        "addr:postcode": "797107",
+        "addr:state": "Nagaland",
+        "addr:subdistrict": "Razieba",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "locality": "Razeba Village",
+        "name": "Razeba, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.3310789,
+          25.5235849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7100882246",
+      "properties": {
+        "@id": "node/7100882246",
+        "addr:district": "Mon",
+        "addr:landmark": "Below L/Ground",
+        "addr:postcode": "798603",
+        "addr:state": "Nagaland",
+        "addr:subdistrict": "Monyakshu",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "locality": "Changlangshu Village",
+        "name": "Changlangshu, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.9949718,
+          26.416933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7100882247",
+      "properties": {
+        "@id": "node/7100882247",
+        "addr:block": "Botsa",
+        "addr:district": "Kohima",
+        "addr:postcode": "797105",
+        "addr:state": "Nagaland",
+        "addr:subdistrict": "Botsa",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "locality": "Tuophema",
+        "name": "Tuophema, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.171385,
+          25.844307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7100882248",
+      "properties": {
+        "@id": "node/7100882248",
+        "addr:block": "Kiphire",
+        "addr:district": "Kiphire",
+        "addr:landmark": "Rural",
+        "addr:postcode": "798611",
+        "addr:state": "Nagaland",
+        "addr:street": "Medical Colony",
+        "addr:subdistrict": "Kiphire Sadar",
+        "amenity": "hospital",
+        "description": "District Hospital",
+        "locality": "Medical Colony",
+        "name": "Kiphire, District Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.781588,
+          25.8826359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7100882249",
+      "properties": {
+        "@id": "node/7100882249",
+        "addr:block": "Noksen",
+        "addr:district": "Tuensang",
+        "addr:landmark": "near ground",
+        "addr:postcode": "798614",
+        "addr:state": "Nagaland",
+        "addr:subdistrict": "Noksen",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "locality": "noksen town",
+        "name": "Primary Health Centre, Noksen",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.7119198,
+          26.376791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7100882250",
+      "properties": {
+        "@id": "node/7100882250",
+        "addr:district": "Zunheboto",
+        "addr:landmark": "Adjacent to Main Road",
+        "addr:postcode": "798620",
+        "addr:state": "Nagaland",
+        "addr:subdistrict": "Saptiqa",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "locality": "Saptiqa Village",
+        "name": "Saptiqa, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.3964605,
+          25.9877664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7100882251",
+      "properties": {
+        "@id": "node/7100882251",
+        "addr:block": "Jalukie",
+        "addr:district": "Peren",
+        "addr:postcode": "797106",
+        "addr:state": "Nagaland",
+        "addr:subdistrict": "Jalukie",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "locality": "Heningkunglwa",
+        "name": "Heningkunglwa, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.768193,
+          25.671887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7100882252",
+      "properties": {
+        "@id": "node/7100882252",
+        "addr:block": "Longleng",
+        "addr:district": "Longleng",
+        "addr:postcode": "798625",
+        "addr:state": "Nagaland",
+        "addr:subdistrict": "Longleng",
+        "amenity": "hospital",
+        "description": "District Hospital",
+        "locality": "Longleng Town",
+        "name": "Longleng, District Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.8042633,
+          26.4929778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7100882253",
+      "properties": {
+        "@id": "node/7100882253",
+        "addr:block": "Jakhama",
+        "addr:district": "Kohima",
+        "addr:postcode": "797005",
+        "addr:state": "Nagaland",
+        "addr:subdistrict": "Jakhama",
+        "description": "Community Health Centre",
+        "healthcare": "centre",
+        "locality": "Viswema",
+        "name": "Community Health Centre, Viswema",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.134867,
+          25.56621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7100882254",
+      "properties": {
+        "@id": "node/7100882254",
+        "addr:block": "Changtongya",
+        "addr:district": "Mokokchung",
+        "addr:postcode": "798613",
+        "addr:state": "Nagaland",
+        "addr:subdistrict": "Changtongya",
+        "description": "Community Health Centre",
+        "healthcare": "centre",
+        "locality": "Changtongyia Town",
+        "name": "Changtongya, CHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.672135,
+          26.528663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7100882255",
+      "properties": {
+        "@id": "node/7100882255",
+        "addr:block": "Chizami",
+        "addr:district": "Phek",
+        "addr:postcode": "797102",
+        "addr:state": "Nagaland",
+        "addr:subdistrict": "Chizami",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "locality": "Thetsumi Village",
+        "name": "Thetsumi, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.3916284,
+          25.5532423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7100882256",
+      "properties": {
+        "@id": "node/7100882256",
+        "addr:district": "Mokokchung",
+        "addr:postcode": "798604",
+        "addr:state": "Nagaland",
+        "addr:subdistrict": "Alongkima",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "locality": "Alongkima village",
+        "name": "Alongkima, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.514774,
+          26.539655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7100882257",
+      "properties": {
+        "@id": "node/7100882257",
+        "addr:block": "Aquqhnaqua",
+        "addr:district": "Dimapur",
+        "addr:full": "Burma camp",
+        "addr:postcode": "797117",
+        "addr:state": "Nagaland",
+        "addr:subdistrict": "Aquqhnaqua",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Urban Primary Health Centre, Dimapur",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.7421636,
+          25.9288925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7100882258",
+      "properties": {
+        "@id": "node/7100882258",
+        "addr:block": "Meluri",
+        "addr:district": "Phek",
+        "addr:postcode": "797114",
+        "addr:state": "Nagaland",
+        "addr:subdistrict": "Meluri",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "locality": "lephori Village",
+        "name": "Lephori, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.6238374,
+          25.604882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7100882259",
+      "properties": {
+        "@id": "node/7100882259",
+        "addr:block": "Medziphema",
+        "addr:district": "Dimapur",
+        "addr:landmark": "Near Church",
+        "addr:postcode": "797106",
+        "addr:state": "Nagaland",
+        "addr:subdistrict": "Medziphema",
+        "amenity": "clinic",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "locality": "Molvom Village",
+        "name": "Molvom, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.8523098,
+          25.734052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7100882260",
+      "properties": {
+        "@id": "node/7100882260",
+        "addr:block": "Bhandari",
+        "addr:district": "Wokha",
+        "addr:landmark": "Check gate Bhandari",
+        "addr:postcode": "797099",
+        "addr:state": "Nagaland",
+        "addr:subdistrict": "Bhandari",
+        "description": "Community Health Centre",
+        "healthcare": "centre",
+        "locality": "Bhandari Town",
+        "name": "Bhandari, CHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.1152063,
+          26.2922946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7100882261",
+      "properties": {
+        "@id": "node/7100882261",
+        "addr:district": "Phek",
+        "addr:postcode": "797114",
+        "addr:state": "Nagaland",
+        "addr:subdistrict": "Phokhungri",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "locality": "Sutsu Village",
+        "name": "PHC, Sutsu",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.8394136,
+          25.700559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7100882262",
+      "properties": {
+        "@id": "node/7100882262",
+        "addr:district": "Mokokchung",
+        "addr:postcode": "798623",
+        "addr:state": "Nagaland",
+        "addr:subdistrict": "Tuli",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "locality": "Kangtsung Village",
+        "name": "Kangtsung, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.70835,
+          26.712058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7100882263",
+      "properties": {
+        "@id": "node/7100882263",
+        "addr:block": "Botsa",
+        "addr:district": "Kohima",
+        "addr:full": "Tuophema",
+        "addr:postcode": "797105",
+        "addr:state": "Nagaland",
+        "addr:street": "Botsa",
+        "addr:subdistrict": "Botsa",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "locality": "Botsa",
+        "name": "Botsa, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.155849,
+          25.851116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7100882264",
+      "properties": {
+        "@id": "node/7100882264",
+        "addr:district": "Dimapur",
+        "addr:landmark": "Behind SBI main branch",
+        "addr:postcode": "797112",
+        "addr:state": "Nagaland",
+        "addr:subdistrict": "Dimapur Sadar",
+        "amenity": "hospital",
+        "description": "District Hospital",
+        "locality": "Medical Colony",
+        "name": "District Hospital, Dimapur",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.731523,
+          25.904959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7100882265",
+      "properties": {
+        "@id": "node/7100882265",
+        "addr:block": "Ghathashi",
+        "addr:district": "Zunheboto",
+        "addr:landmark": "Local Ground",
+        "addr:postcode": "797104",
+        "addr:state": "Nagaland",
+        "addr:street": "Community Building",
+        "addr:subdistrict": "Ghathashi",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "locality": "Ighanumi Village",
+        "name": "Ighanumi, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.310315,
+          25.7591798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7100882267",
+      "properties": {
+        "@id": "node/7100882267",
+        "addr:block": "Sechu-Zubza",
+        "addr:district": "Kohima",
+        "addr:postcode": "797002",
+        "addr:state": "Nagaland",
+        "addr:subdistrict": "Sechu-Zubza",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "locality": "KHONOMA Village",
+        "name": "Khonoma, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.023346,
+          25.646941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7100882269",
+      "properties": {
+        "@id": "node/7100882269",
+        "addr:block": "Chizami",
+        "addr:district": "Phek",
+        "addr:postcode": "797102",
+        "addr:state": "Nagaland",
+        "addr:subdistrict": "Chizami",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "locality": "Chizami Town",
+        "name": "Chizami, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.3891932,
+          25.5953766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7100882270",
+      "properties": {
+        "@id": "node/7100882270",
+        "addr:block": "Aboi",
+        "addr:district": "Mon",
+        "addr:landmark": "Near SBI",
+        "addr:postcode": "798603",
+        "addr:state": "Nagaland",
+        "addr:subdistrict": "Aboi",
+        "description": "Community Health Centre",
+        "healthcare": "centre",
+        "locality": "ABOI Town",
+        "name": "Aboi, CHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.96629,
+          26.604606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7100882271",
+      "properties": {
+        "@id": "node/7100882271",
+        "addr:block": "Tseminyu",
+        "addr:district": "Kohima",
+        "addr:postcode": "797109",
+        "addr:state": "Nagaland",
+        "addr:subdistrict": "Tseminyu",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "locality": "Tesophenyu Village",
+        "name": "Tesophenyu, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.2127761,
+          25.9740232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7100882272",
+      "properties": {
+        "@id": "node/7100882272",
+        "addr:block": "Zunheboto",
+        "addr:district": "Zunheboto",
+        "addr:postcode": "798620",
+        "addr:state": "Nagaland",
+        "addr:subdistrict": "Zunheboto Sadar",
+        "amenity": "hospital",
+        "description": "District Hospital",
+        "locality": "Medical colony",
+        "name": "Zunheboto, District Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.5236166,
+          26.0030617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7100882273",
+      "properties": {
+        "@id": "node/7100882273",
+        "addr:block": "Chumukedima",
+        "addr:district": "Dimapur",
+        "addr:landmark": "State Family welfare training centre",
+        "addr:postcode": "797103",
+        "addr:state": "Nagaland",
+        "addr:subdistrict": "Chumukedima",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "locality": "chumu Ward-10",
+        "name": "Primary Health Center, Chumukeidma",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.7539936,
+          25.8040507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7100882274",
+      "properties": {
+        "@id": "node/7100882274",
+        "addr:block": "Longkhim",
+        "addr:district": "Tuensang",
+        "addr:postcode": "798616",
+        "addr:state": "Nagaland",
+        "addr:subdistrict": "Longkhim",
+        "description": "Community Health Centre",
+        "healthcare": "centre",
+        "locality": "Longkhim Town",
+        "name": "CHC, Longkhim",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.6801565,
+          26.2250444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7100882275",
+      "properties": {
+        "@id": "node/7100882275",
+        "addr:block": "Sekruzu",
+        "addr:district": "Phek",
+        "addr:landmark": "PHC Ruzazho P.O Chozuba",
+        "addr:postcode": "797104",
+        "addr:state": "Nagaland",
+        "addr:subdistrict": "Sekruzu",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "locality": "Cebizu Colony",
+        "name": "Ruzazho, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.3769213,
+          25.7588963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7100882276",
+      "properties": {
+        "@id": "node/7100882276",
+        "addr:block": "Athibung",
+        "addr:district": "Peren",
+        "addr:landmark": "Toilou colony",
+        "addr:postcode": "797110",
+        "addr:state": "Nagaland",
+        "addr:subdistrict": "Athibung",
+        "amenity": "clinic",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "locality": "Athibung Town",
+        "name": "Athibung",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.6280258,
+          25.5452776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7100882277",
+      "properties": {
+        "@id": "node/7100882277",
+        "addr:district": "Kohima",
+        "addr:postcode": "797005",
+        "addr:state": "Nagaland",
+        "addr:subdistrict": "Kezocha",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "locality": "Kezocha",
+        "name": "Kezocha",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.1851851,
+          25.5915453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7100882278",
+      "properties": {
+        "@id": "node/7100882278",
+        "addr:block": "Akuluto",
+        "addr:district": "Zunheboto",
+        "addr:landmark": "Below church",
+        "addr:postcode": "798619",
+        "addr:state": "Nagaland",
+        "addr:subdistrict": "Akuluto",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "locality": "Akuluto Town",
+        "name": "Akuluto, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.4947707,
+          26.1721233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7100882279",
+      "properties": {
+        "@id": "node/7100882279",
+        "addr:block": "Medziphema",
+        "addr:district": "Dimapur",
+        "addr:landmark": "Near NH-29",
+        "addr:postcode": "797106",
+        "addr:state": "Nagaland",
+        "addr:subdistrict": "Medziphema",
+        "amenity": "hospital",
+        "contact:phone": "+91-3862289639",
+        "description": "Community Health Centre",
+        "healthcare": "centre",
+        "locality": "Ward-1, Medziphema Town",
+        "name": "CHC, Medziphema",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.884455,
+          25.76274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7100882280",
+      "properties": {
+        "@id": "node/7100882280",
+        "addr:block": "Longleng",
+        "addr:district": "Longleng",
+        "addr:full": "H.NO-163,Yachem CHC",
+        "addr:postcode": "798625",
+        "addr:state": "Nagaland",
+        "addr:subdistrict": "Longleng",
+        "description": "Community Health Centre",
+        "healthcare": "centre",
+        "locality": "Yaong",
+        "name": "Yaongyimchen",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.735927,
+          26.514999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7100882281",
+      "properties": {
+        "@id": "node/7100882281",
+        "addr:district": "Zunheboto",
+        "addr:landmark": "Main town",
+        "addr:postcode": "798620",
+        "addr:state": "Nagaland",
+        "addr:subdistrict": "Satoi",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "locality": "Satoi Town",
+        "name": "Satoi, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.5850036,
+          25.8310553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7100882282",
+      "properties": {
+        "@id": "node/7100882282",
+        "addr:block": "Sechu-Zubza",
+        "addr:district": "Kohima",
+        "addr:postcode": "797002",
+        "addr:state": "Nagaland",
+        "addr:subdistrict": "Sechu-Zubza",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "locality": "Jotsoma Village",
+        "name": "Jotsoma, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.06359,
+          25.675092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7100882283",
+      "properties": {
+        "@id": "node/7100882283",
+        "addr:block": "Peren",
+        "addr:district": "Peren",
+        "addr:landmark": "Near Government High School, Peren",
+        "addr:postcode": "797101",
+        "addr:state": "Nagaland",
+        "addr:subdistrict": "Peren",
+        "amenity": "hospital",
+        "description": "District Hospital",
+        "locality": "Peren Town",
+        "name": "Peren, District Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.7352403,
+          25.5354667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7100882284",
+      "properties": {
+        "@id": "node/7100882284",
+        "addr:district": "Mokokchung",
+        "addr:postcode": "798617",
+        "addr:state": "Nagaland",
+        "addr:subdistrict": "Tuli",
+        "description": "Community Health Centre",
+        "healthcare": "centre",
+        "locality": "TULIYONG",
+        "name": "Tuli, CHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.6428221,
+          26.6710527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7100882285",
+      "properties": {
+        "@id": "node/7100882285",
+        "addr:district": "Phek",
+        "addr:landmark": "Govt. Middle School",
+        "addr:postcode": "797104",
+        "addr:state": "Nagaland",
+        "addr:street": "H/No.C-32",
+        "addr:subdistrict": "Khuza",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "locality": "Khuza Village",
+        "name": "Khuza, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.4742079,
+          25.7650045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7100882286",
+      "properties": {
+        "@id": "node/7100882286",
+        "addr:block": "Changtongya",
+        "addr:district": "Mokokchung",
+        "addr:postcode": "798613",
+        "addr:state": "Nagaland",
+        "addr:subdistrict": "Changtongya",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "locality": "mongsenyimti Village",
+        "name": "Mongsenyimti, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.617307,
+          26.4239115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7100882287",
+      "properties": {
+        "@id": "node/7100882287",
+        "addr:district": "Mokokchung",
+        "addr:postcode": "798617",
+        "addr:state": "Nagaland",
+        "addr:subdistrict": "Ongpangkong",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "locality": "Sabangya village",
+        "name": "Sabangya, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.449945,
+          26.377295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7100882288",
+      "properties": {
+        "@id": "node/7100882288",
+        "addr:district": "Kiphire",
+        "addr:postcode": "798611",
+        "addr:state": "Nagaland",
+        "addr:subdistrict": "Amahator",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Primary Health Center Amahator",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.7460806,
+          25.9409776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7100882289",
+      "properties": {
+        "@id": "node/7100882289",
+        "addr:block": "Sekruzu",
+        "addr:district": "Phek",
+        "addr:landmark": "Below Revival Church",
+        "addr:postcode": "797104",
+        "addr:state": "Nagaland",
+        "addr:street": "P.O Chozuba",
+        "addr:subdistrict": "Sekruzu",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "locality": "Town Colony",
+        "name": "Dzulha, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.3941295,
+          25.8271429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7100882290",
+      "properties": {
+        "@id": "node/7100882290",
+        "addr:district": "Zunheboto",
+        "addr:postcode": "798620",
+        "addr:state": "Nagaland",
+        "addr:subdistrict": "Pughoboto",
+        "description": "Community Health Centre",
+        "healthcare": "centre",
+        "locality": "Pughoboto Town",
+        "name": "Pughoboto, CHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.2700687,
+          25.888393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7100882292",
+      "properties": {
+        "@id": "node/7100882292",
+        "addr:block": "Jakhama",
+        "addr:district": "Kohima",
+        "addr:postcode": "797005",
+        "addr:state": "Nagaland",
+        "addr:subdistrict": "Jakhama",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "locality": "Kimipfiphe",
+        "name": "Kimipfiphe, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.115875,
+          25.6058173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7100882293",
+      "properties": {
+        "@id": "node/7100882293",
+        "addr:block": "Dhansiripar",
+        "addr:district": "Dimapur",
+        "addr:postcode": "797112",
+        "addr:state": "Nagaland",
+        "addr:subdistrict": "Dhansiripar",
+        "contact:phone": "+91 8131812550",
+        "description": "Community Health Centre",
+        "healthcare": "centre",
+        "locality": "Dhansiripar Colony",
+        "name": "Community Health Centre, Dhansiripar",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.6210262,
+          25.7791229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7100882294",
+      "properties": {
+        "@id": "node/7100882294",
+        "addr:block": "Tseminyu",
+        "addr:district": "Kohima",
+        "addr:postcode": "797109",
+        "addr:state": "Nagaland",
+        "addr:subdistrict": "Tseminyu",
+        "description": "Community Health Centre",
+        "healthcare": "centre",
+        "locality": "Tseminyu Old Town",
+        "name": "Tseminyu, CHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.2106845,
+          25.9146962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7100882295",
+      "properties": {
+        "@id": "node/7100882295",
+        "addr:block": "Chethaeba",
+        "addr:district": "Phek",
+        "addr:postcode": "797107",
+        "addr:state": "Nagaland",
+        "addr:subdistrict": "Chetheba",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "locality": "Thipuzu Village",
+        "name": "Thipuzu, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.2653541,
+          25.6286339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7100882296",
+      "properties": {
+        "@id": "node/7100882296",
+        "addr:block": "Noklak",
+        "addr:district": "Tuensang",
+        "addr:landmark": "Nokhu Road",
+        "addr:postcode": "798626",
+        "addr:state": "Nagaland",
+        "addr:subdistrict": "Noklak",
+        "amenity": "hospital",
+        "locality": "New Medical Sector",
+        "name": "Govt. Hospital, Noklak",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.0251042,
+          26.2004719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7100882298",
+      "properties": {
+        "@id": "node/7100882298",
+        "addr:block": "Jalukie",
+        "addr:district": "Peren",
+        "addr:landmark": "Near Post Office Jalukie",
+        "addr:postcode": "797110",
+        "addr:state": "Nagaland",
+        "addr:subdistrict": "Jalukie",
+        "description": "Community Health Centre",
+        "healthcare": "centre",
+        "locality": "Jalukie Town",
+        "name": "Jalukie, CHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.6661478,
+          25.6573955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7100882299",
+      "properties": {
+        "@id": "node/7100882299",
+        "addr:district": "Phek",
+        "addr:postcode": "797107",
+        "addr:state": "Nagaland",
+        "addr:subdistrict": "Khezhakeno",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "locality": "Khezhakeno Village",
+        "name": "Khezhakeno, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.2045364,
+          25.5106074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7100882300",
+      "properties": {
+        "@id": "node/7100882300",
+        "addr:district": "Mokokchung",
+        "addr:postcode": "798613",
+        "addr:state": "Nagaland",
+        "addr:subdistrict": "Changtongya",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "locality": "longjang Village",
+        "name": "Longjang, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.545636,
+          26.446229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7100882301",
+      "properties": {
+        "@id": "node/7100882301",
+        "addr:block": "Pfutsero",
+        "addr:district": "Phek",
+        "addr:landmark": "Below ADC office Pfutsero",
+        "addr:postcode": "797107",
+        "addr:state": "Nagaland",
+        "addr:subdistrict": "Pfutsero",
+        "amenity": "clinic",
+        "description": "Community Health Centre",
+        "healthcare": "clinic",
+        "locality": "Pfutsero Town",
+        "name": "Pfütsero, CHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.3051561,
+          25.5744573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7148917930",
+      "properties": {
+        "@id": "node/7148917930",
+        "addr:full": "Khulazu Basa",
+        "addr:state": "Nagaland",
+        "description": "Health- Sub Centre",
+        "healthcare": "centre",
+        "name": "Sub Centre, Khulazu Basa",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.2819656,
+          25.6546944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7148917935",
+      "properties": {
+        "@id": "node/7148917935",
+        "addr:full": "Phek",
+        "addr:state": "Nagaland",
+        "description": "Health- Sub Centre",
+        "healthcare": "centre",
+        "name": "Sub Centre, Phek",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.3783897,
+          25.6449104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7148917940",
+      "properties": {
+        "@id": "node/7148917940",
+        "addr:full": "Japu",
+        "addr:state": "Nagaland",
+        "description": "Health- Sub Centre",
+        "healthcare": "centre",
+        "name": "Sub Centre, Japu",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.4130318,
+          26.5068286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7148917945",
+      "properties": {
+        "@id": "node/7148917945",
+        "addr:full": "Mutsale",
+        "addr:state": "Nagaland",
+        "description": "Health- Sub Centre",
+        "healthcare": "centre",
+        "name": "Sub Center ,Mutsale",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.4349746,
+          25.7868159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7148917950",
+      "properties": {
+        "@id": "node/7148917950",
+        "addr:full": "Pfutseromi",
+        "addr:state": "Nagaland",
+        "description": "Health- Sub Centre",
+        "healthcare": "centre",
+        "name": "Sub Centre, Pfutseromi",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.2859145,
+          25.5591091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7148917955",
+      "properties": {
+        "@id": "node/7148917955",
+        "addr:full": "Kohima",
+        "addr:state": "Nagaland",
+        "description": "Health- Sub Centre",
+        "healthcare": "centre",
+        "name": "Medical Sub-Centre, Pfuchama",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.1307702,
+          25.6421551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7148917960",
+      "properties": {
+        "@id": "node/7148917960",
+        "addr:full": "Lerie Colony, Kohima",
+        "addr:state": "Nagaland",
+        "description": "Health- Sub Centre",
+        "healthcare": "centre",
+        "name": "Sub Centre, Lerie",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.1139655,
+          25.6525571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7148917965",
+      "properties": {
+        "@id": "node/7148917965",
+        "addr:full": "Naga Bazar, Kohima",
+        "addr:state": "Nagaland",
+        "description": "Health- Sub Centre",
+        "healthcare": "centre",
+        "name": "Sub Centre, Daklane",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.1058572,
+          25.6727661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7148917976",
+      "properties": {
+        "@id": "node/7148917976",
+        "addr:full": "Middle Khomi",
+        "addr:state": "Nagaland",
+        "description": "Health- Sub Centre",
+        "healthcare": "centre",
+        "name": "Sub Centre, Middle Khomi",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.3997213,
+          25.6575232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7148917981",
+      "properties": {
+        "@id": "node/7148917981",
+        "addr:full": "Kohima",
+        "addr:state": "Nagaland",
+        "description": "Health- Sub Centre",
+        "healthcare": "centre",
+        "name": "Medical Sub-centre, Rusoma",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.1413649,
+          25.7277976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7148918586",
+      "properties": {
+        "@id": "node/7148918586",
+        "addr:full": "Chesezu",
+        "addr:state": "Nagaland",
+        "description": "Health- Sub Centre",
+        "healthcare": "centre",
+        "name": "Sub Centre, Chesezu",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.269952,
+          25.6788911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7148918591",
+      "properties": {
+        "@id": "node/7148918591",
+        "addr:full": "Sohomi",
+        "addr:state": "Nagaland",
+        "description": "Health- Sub Centre",
+        "healthcare": "centre",
+        "name": "Sub Centre, Sohomi",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.4970775,
+          25.717439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7148918596",
+      "properties": {
+        "@id": "node/7148918596",
+        "addr:full": "Vastapur",
+        "addr:state": "Nagaland",
+        "description": "Health- Sub Centre",
+        "healthcare": "centre",
+        "name": "medical sub centre ,Ketsapo",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.4477208,
+          25.7301354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7148918603",
+      "properties": {
+        "@id": "node/7148918603",
+        "addr:full": "Chepoketa",
+        "addr:state": "Nagaland",
+        "description": "Health- Sub Centre",
+        "healthcare": "centre",
+        "name": "Sub Centre, Chepoketa",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.4866946,
+          25.7967023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7148918612",
+      "properties": {
+        "@id": "node/7148918612",
+        "addr:full": "Unger",
+        "addr:state": "Nagaland",
+        "description": "Health- Sub Centre",
+        "healthcare": "centre",
+        "name": "Medical Sub Center ,Unger",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.6601477,
+          26.492491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7148918617",
+      "properties": {
+        "@id": "node/7148918617",
+        "addr:full": "Kohima",
+        "addr:state": "Nagaland",
+        "description": "Health- Sub Centre",
+        "healthcare": "centre",
+        "name": "Sub Centre, Kohima",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.1658837,
+          25.9311057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7148918624",
+      "properties": {
+        "@id": "node/7148918624",
+        "addr:full": "mopungchuket",
+        "addr:state": "Nagaland",
+        "description": "Health- Sub Centre",
+        "healthcare": "centre",
+        "name": "Sub Centre, mopungchuket",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.5332665,
+          26.3932007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7153677167",
+      "properties": {
+        "@id": "node/7153677167",
+        "addr:full": "Chuchuyimpang",
+        "addr:state": "Nagaland",
+        "description": "Health- Sub Centre",
+        "healthcare": "centre",
+        "name": "Fac Sub Centerv ,Chuchuyimpang",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.5539041,
+          26.3313631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7614502531",
+      "properties": {
+        "@id": "node/7614502531",
+        "addr:district": "Mokokchung",
+        "addr:full": "Mokokchung-Amguri Road, Sungkomen,",
+        "addr:postcode": "798601",
+        "addr:state": "Nagaland",
+        "amenity": "hospital",
+        "name": "Lenjem Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.530994,
+          26.330963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7614502532",
+      "properties": {
+        "@id": "node/7614502532",
+        "addr:district": "Phek",
+        "addr:full": "Tsupfume",
+        "addr:postcode": "797107",
+        "addr:state": "Nagaland",
+        "description": "Sub Centre",
+        "healthcare": "centre",
+        "name": "Health Sub Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.319673,
+          25.5478591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7614502533",
+      "properties": {
+        "@id": "node/7614502533",
+        "addr:district": "Dimapur",
+        "addr:full": "N.S.T. Colony",
+        "addr:postcode": "797112",
+        "addr:state": "Nagaland",
+        "amenity": "clinic",
+        "name": "Grace Health Care",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.7211796,
+          25.909191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7614502534",
+      "properties": {
+        "@id": "node/7614502534",
+        "addr:district": "Dimapur",
+        "addr:full": "Fire Brigade Road, Near East Police Station",
+        "addr:postcode": "797112",
+        "addr:state": "Nagaland",
+        "amenity": "clinic",
+        "name": "Good Health Diagnostic & Clinic",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.731059,
+          25.907827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7614502535",
+      "properties": {
+        "@id": "node/7614502535",
+        "addr:district": "Dimapur",
+        "addr:full": "Half Nagarjan Junction",
+        "addr:postcode": "797112",
+        "addr:state": "Nagaland",
+        "amenity": "clinic",
+        "name": "Family Health Clinic",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.733221,
+          25.906185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7614502536",
+      "properties": {
+        "@id": "node/7614502536",
+        "addr:district": "Dimapur",
+        "addr:full": "Khermahal",
+        "addr:postcode": "797112",
+        "addr:state": "Nagaland",
+        "amenity": "doctors",
+        "name": "Dr. Imcha Jamir",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.7234361,
+          25.9138961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7614502537",
+      "properties": {
+        "@id": "node/7614502537",
+        "addr:district": "Kohima",
+        "addr:full": "Tseminyu, Nagaland",
+        "addr:postcode": "797109",
+        "addr:state": "Nagaland",
+        "amenity": "clinic",
+        "name": "Rapha Clinic",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.2193714,
+          25.9214861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7614502539",
+      "properties": {
+        "@id": "node/7614502539",
+        "addr:district": "Dimapur",
+        "addr:full": "Civil Hospital Colony",
+        "addr:postcode": "797112",
+        "addr:state": "Nagaland",
+        "amenity": "hospital",
+        "name": "City Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.731253,
+          25.906627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7614502540",
+      "properties": {
+        "@id": "node/7614502540",
+        "addr:district": "Wokha",
+        "addr:full": "Mokokchung",
+        "addr:postcode": "798601",
+        "addr:state": "Nagaland",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Primary Health Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.319254,
+          26.1143507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7614502541",
+      "properties": {
+        "@id": "node/7614502541",
+        "addr:district": "Mokokchung",
+        "addr:full": "2nd NAP Battalion, Alichen",
+        "addr:postcode": "798601",
+        "addr:state": "Nagaland",
+        "amenity": "hospital",
+        "name": "Unit Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.4469613,
+          26.2704552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7614502542",
+      "properties": {
+        "@id": "node/7614502542",
+        "addr:district": "Wokha",
+        "addr:full": "Sanis",
+        "addr:postcode": "797100",
+        "addr:state": "Nagaland",
+        "amenity": "hospital",
+        "name": "Sanis Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.2004138,
+          26.2057603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7614502543",
+      "properties": {
+        "@id": "node/7614502543",
+        "addr:district": "Wokha",
+        "addr:full": "Tsopo",
+        "addr:postcode": "797111",
+        "addr:state": "Nagaland",
+        "health_facility:type": "dispensary",
+        "healthcare": "centre",
+        "name": "Dispensary",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.1802296,
+          26.1781712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7614502544",
+      "properties": {
+        "@id": "node/7614502544",
+        "addr:district": "Kohima",
+        "addr:full": "Kohima",
+        "addr:postcode": "797001",
+        "addr:state": "Nagaland",
+        "amenity": "clinic",
+        "name": "Kohima Skin & Aesthetic Clinic",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.0989252,
+          25.6892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7614502545",
+      "properties": {
+        "@id": "node/7614502545",
+        "addr:district": "Peren",
+        "addr:full": "Samziuram",
+        "addr:postcode": "797110",
+        "addr:state": "Nagaland",
+        "amenity": "clinic",
+        "name": "ZBCC Healing Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.656025,
+          25.644849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7614502546",
+      "properties": {
+        "@id": "node/7614502546",
+        "addr:district": "Kohima",
+        "addr:full": "Khuzama",
+        "addr:postcode": "797005",
+        "addr:state": "Nagaland",
+        "amenity": "hospital",
+        "name": "Khuzama T.B. Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.1308005,
+          25.5242888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7614502547",
+      "properties": {
+        "@id": "node/7614502547",
+        "addr:district": "Phek",
+        "addr:full": "Kiizatii",
+        "addr:postcode": "797114",
+        "addr:state": "Nagaland",
+        "health_facility:type": "dispensary",
+        "healthcare": "centre",
+        "name": "Dispensary, Kiizatii",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.748556,
+          25.706368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7614502549",
+      "properties": {
+        "@id": "node/7614502549",
+        "addr:district": "Phek",
+        "addr:full": "Pholami - Chizami Road, Sakraba",
+        "addr:postcode": "797102",
+        "addr:state": "Nagaland",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Primary Health Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.3683571,
+          25.6245127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7614502550",
+      "properties": {
+        "@id": "node/7614502550",
+        "addr:district": "Dimapur",
+        "addr:full": "Police Colony",
+        "addr:postcode": "797112",
+        "addr:state": "Nagaland",
+        "amenity": "clinic",
+        "name": "Mercy Eye Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.733918,
+          25.906816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7614502551",
+      "properties": {
+        "@id": "node/7614502551",
+        "addr:district": "Dimapur",
+        "addr:full": "Old Daily Market, Marwari Patti",
+        "addr:postcode": "797112",
+        "addr:state": "Nagaland",
+        "amenity": "clinic",
+        "name": "Sunjay Surgi Care",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.7262206,
+          25.9065754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7614502552",
+      "properties": {
+        "@id": "node/7614502552",
+        "addr:district": "Mokokchung",
+        "addr:full": "Mokokchung",
+        "addr:postcode": "798601",
+        "addr:state": "Nagaland",
+        "amenity": "hospital",
+        "name": "Assamrifle Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.5094781,
+          26.3176018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7614502553",
+      "properties": {
+        "@id": "node/7614502553",
+        "addr:district": "Kiphire",
+        "addr:full": "Kiphire",
+        "addr:postcode": "798611",
+        "addr:state": "Nagaland",
+        "amenity": "hospital",
+        "name": "Civil Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.7815154,
+          25.8820969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7614502554",
+      "properties": {
+        "@id": "node/7614502554",
+        "addr:district": "Mokokchung",
+        "addr:full": "Yimyu, Mokokchung",
+        "addr:postcode": "798617",
+        "addr:state": "Nagaland",
+        "description": "Urban Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Urban Primary Health Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.5072595,
+          26.3332484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7614502555",
+      "properties": {
+        "@id": "node/7614502555",
+        "addr:district": "Dimapur",
+        "addr:full": "Civil Hospital Colony",
+        "addr:postcode": "797112",
+        "addr:state": "Nagaland",
+        "amenity": "clinic",
+        "name": "Government of Nagaland Urban Leprosy Clinic",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.731787,
+          25.906115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7614502557",
+      "properties": {
+        "@id": "node/7614502557",
+        "addr:district": "Kohima",
+        "addr:full": "Lazami",
+        "addr:postcode": "797109",
+        "addr:state": "Nagaland",
+        "health_facility:type": "dispensary",
+        "healthcare": "centre",
+        "name": "Dispensary",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.2463786,
+          25.8562964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7614502558",
+      "properties": {
+        "@id": "node/7614502558",
+        "addr:district": "Phek",
+        "addr:full": "Pfutseromi",
+        "addr:postcode": "797107",
+        "addr:state": "Nagaland",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Primary Health Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.282977,
+          25.561776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7614502559",
+      "properties": {
+        "@id": "node/7614502559",
+        "addr:district": "Dimapur",
+        "addr:full": "Purana Baza",
+        "addr:postcode": "797116",
+        "addr:state": "Nagaland",
+        "amenity": "hospital",
+        "name": "Dimapur Hospital and Research Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.7500946,
+          25.9055101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7614502560",
+      "properties": {
+        "@id": "node/7614502560",
+        "addr:district": "Wokha",
+        "addr:full": "Wokha",
+        "addr:postcode": "797111",
+        "addr:state": "Nagaland",
+        "description": "Sub Centre",
+        "healthcare": "centre",
+        "name": "Health Sub Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.2585207,
+          26.1081941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7614502561",
+      "properties": {
+        "@id": "node/7614502561",
+        "addr:district": "Kohima",
+        "addr:full": "Kohima",
+        "addr:postcode": "797001",
+        "addr:state": "Nagaland",
+        "amenity": "clinic",
+        "name": "Identity Eye Care",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.1079165,
+          25.6739991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7614502562",
+      "properties": {
+        "@id": "node/7614502562",
+        "addr:district": "Wokha",
+        "addr:full": "Wokha",
+        "addr:postcode": "797111",
+        "addr:state": "Nagaland",
+        "amenity": "hospital",
+        "name": "N.Ezung Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.257752,
+          26.091946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7614502563",
+      "properties": {
+        "@id": "node/7614502563",
+        "addr:district": "Kohima",
+        "addr:full": "New Market Road, Naga Bazar",
+        "addr:postcode": "797001",
+        "addr:state": "Nagaland",
+        "amenity": "clinic",
+        "name": "Putuonuo Nursing Home",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.106699,
+          25.671248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7614502564",
+      "properties": {
+        "@id": "node/7614502564",
+        "addr:district": "Kohima",
+        "addr:full": "Mero Complex, P.R. Hill",
+        "addr:postcode": "797001",
+        "addr:state": "Nagaland",
+        "amenity": "clinic",
+        "healthcare:speciality": "dentist",
+        "name": "City Clinic",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.098742,
+          25.6586535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7614502565",
+      "properties": {
+        "@id": "node/7614502565",
+        "addr:district": "Phek",
+        "addr:full": "Phek",
+        "addr:postcode": "797108",
+        "addr:state": "Nagaland",
+        "amenity": "hospital",
+        "name": "Assamrifle Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.4557927,
+          25.692885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7614502566",
+      "properties": {
+        "@id": "node/7614502566",
+        "addr:district": "Tuensang",
+        "addr:full": "Tuensang",
+        "addr:postcode": "798612",
+        "addr:state": "Nagaland",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Primary Health Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.7280734,
+          26.0813505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7614502567",
+      "properties": {
+        "@id": "node/7614502567",
+        "addr:district": "Phek",
+        "addr:full": "Chetheba",
+        "addr:postcode": "797107",
+        "addr:state": "Nagaland",
+        "amenity": "clinic",
+        "name": "Chethaba Health Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.26644,
+          25.672919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7614502568",
+      "properties": {
+        "@id": "node/7614502568",
+        "addr:district": "Dimapur",
+        "addr:full": "Fellowship Road, Fellowship Colony",
+        "addr:postcode": "797113",
+        "addr:state": "Nagaland",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Fellowship Nursing Home",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.7096698,
+          25.9142282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7614502569",
+      "properties": {
+        "@id": "node/7614502569",
+        "addr:district": "Dimapur",
+        "addr:full": "Nagaland",
+        "addr:postcode": "797106",
+        "addr:state": "Nagaland",
+        "amenity": "pharmacy",
+        "health_facility:type": "dispensary",
+        "healthcare": "centre",
+        "name": "Zhuikhu Dispensary",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.886305,
+          25.701927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7614502570",
+      "properties": {
+        "@id": "node/7614502570",
+        "addr:district": "Mokokchung",
+        "addr:full": "Alempang Ward",
+        "addr:postcode": "798601",
+        "addr:state": "Nagaland",
+        "health_facility:type": "dispensary",
+        "healthcare": "centre",
+        "name": "Government Dispensary",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.5241264,
+          26.332062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7614502571",
+      "properties": {
+        "@id": "node/7614502571",
+        "addr:district": "Dimapur",
+        "addr:full": "Market, Khermahal",
+        "addr:postcode": "797112",
+        "addr:state": "Nagaland",
+        "amenity": "clinic",
+        "name": "Langkumer's Clinic",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.722688,
+          25.913789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7614502572",
+      "properties": {
+        "@id": "node/7614502572",
+        "addr:district": "Phek",
+        "addr:full": "Zuketsa",
+        "addr:postcode": "797107",
+        "addr:state": "Nagaland",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Zuketsa Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.228953,
+          25.5381468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7614502573",
+      "properties": {
+        "@id": "node/7614502573",
+        "addr:district": "Dimapur",
+        "addr:full": "PWD Road, Midland",
+        "addr:postcode": "797112",
+        "addr:state": "Nagaland",
+        "amenity": "hospital",
+        "name": "Nagaland Multispeciality Hospital & Research Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.716553,
+          25.908579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7614502575",
+      "properties": {
+        "@id": "node/7614502575",
+        "addr:district": "Kohima",
+        "addr:full": "Kohima",
+        "addr:postcode": "797005",
+        "addr:state": "Nagaland",
+        "amenity": "hospital",
+        "name": "Kezocha Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.189416,
+          25.592514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7614502576",
+      "properties": {
+        "@id": "node/7614502576",
+        "addr:district": "Tuensang",
+        "addr:full": "Sampurre",
+        "addr:postcode": "798612",
+        "addr:state": "Nagaland",
+        "amenity": "hospital",
+        "name": "Shamator Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.875934,
+          26.070246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7614502577",
+      "properties": {
+        "@id": "node/7614502577",
+        "addr:district": "Wokha",
+        "addr:full": "Tuensang",
+        "addr:postcode": "797111",
+        "addr:state": "Nagaland",
+        "amenity": "clinic",
+        "name": "Vision Eye Care",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.2580838,
+          26.0924813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7614502578",
+      "properties": {
+        "@id": "node/7614502578",
+        "addr:district": "Kohima",
+        "addr:full": "Thizama",
+        "addr:postcode": "797004",
+        "addr:state": "Nagaland",
+        "amenity": "hospital",
+        "name": "Regimental Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.108014,
+          25.732764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7614502579",
+      "properties": {
+        "@id": "node/7614502579",
+        "addr:district": "Mokokchung",
+        "addr:full": "Tuli",
+        "addr:postcode": "798618",
+        "addr:state": "Nagaland",
+        "description": "Community Health Centre",
+        "healthcare": "centre",
+        "name": "Community Health Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.6448722,
+          26.6773365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7614502580",
+      "properties": {
+        "@id": "node/7614502580",
+        "addr:district": "Dimapur",
+        "addr:full": "Dimapur",
+        "addr:postcode": "797112",
+        "addr:state": "Nagaland",
+        "description": "Sub Centre",
+        "healthcare": "centre",
+        "name": "Zingdi Sub Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.5618804,
+          25.7066947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7614502581",
+      "properties": {
+        "@id": "node/7614502581",
+        "addr:district": "Kohima",
+        "addr:full": "Meriema",
+        "addr:postcode": "797004",
+        "addr:state": "Nagaland",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Primary Health Care",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.0931213,
+          25.7130499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7614502582",
+      "properties": {
+        "@id": "node/7614502582",
+        "addr:district": "Phek",
+        "addr:full": "Phek",
+        "addr:postcode": "797114",
+        "addr:state": "Nagaland",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Primary Health Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.685775,
+          25.7167778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7614502583",
+      "properties": {
+        "@id": "node/7614502583",
+        "addr:district": "Kohima",
+        "addr:full": "Kohima",
+        "addr:postcode": "797005",
+        "addr:state": "Nagaland",
+        "amenity": "clinic",
+        "name": "District Tubercolosis Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.0954426,
+          25.6697712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7614502584",
+      "properties": {
+        "@id": "node/7614502584",
+        "addr:district": "Noklak",
+        "addr:full": "New Pangsha, Noklak",
+        "addr:postcode": "798612",
+        "addr:state": "Nagaland",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Primary Health Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.0966108,
+          26.2597145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7614502585",
+      "properties": {
+        "@id": "node/7614502585",
+        "addr:district": "Dimapur",
+        "addr:full": "Walford Road, Walford Colony",
+        "addr:postcode": "797117",
+        "addr:state": "Nagaland",
+        "amenity": "clinic",
+        "name": "Dr. Belho's Clinic",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.737026,
+          25.910328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7614502586",
+      "properties": {
+        "@id": "node/7614502586",
+        "addr:district": "Mokokchung",
+        "addr:full": "Longkhum",
+        "addr:postcode": "798601",
+        "addr:state": "Nagaland",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Primary Health Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.4159684,
+          26.2656647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7614502587",
+      "properties": {
+        "@id": "node/7614502587",
+        "addr:district": "Phek",
+        "addr:full": "Chozuba",
+        "addr:postcode": "797104",
+        "addr:state": "Nagaland",
+        "amenity": "hospital",
+        "name": "General Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.3242418,
+          25.7227121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7614502588",
+      "properties": {
+        "@id": "node/7614502588",
+        "addr:district": "Dimapur",
+        "addr:full": "Darogapathar",
+        "addr:postcode": "797112",
+        "addr:state": "Nagaland",
+        "amenity": "hospital",
+        "name": "Olive Christian Hospital and Reserch Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.7556933,
+          25.8872853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7614502589",
+      "properties": {
+        "@id": "node/7614502589",
+        "addr:district": "Mon",
+        "addr:full": "Near Ao Baptist Church",
+        "addr:postcode": "798621",
+        "addr:state": "Nagaland",
+        "amenity": "hospital",
+        "name": "Rapha Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.0289195,
+          26.7219386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7614502590",
+      "properties": {
+        "@id": "node/7614502590",
+        "addr:district": "Dimapur",
+        "addr:full": "Khekiho",
+        "addr:postcode": "797112",
+        "addr:state": "Nagaland",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Primary Health Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.574709,
+          25.748631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7614502591",
+      "properties": {
+        "@id": "node/7614502591",
+        "addr:district": "Dimapur",
+        "addr:full": "SH36, N.S.T. Colony",
+        "addr:postcode": "797113",
+        "addr:state": "Nagaland",
+        "amenity": "clinic",
+        "name": "Premier Ortho Care",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.7207787,
+          25.910989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7614502592",
+      "properties": {
+        "@id": "node/7614502592",
+        "addr:district": "Kohima",
+        "addr:full": "Kezo Town",
+        "addr:postcode": "797005",
+        "addr:state": "Nagaland",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Primary Health Centre, Kezo Town",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.1996056,
+          25.639773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7614502593",
+      "properties": {
+        "@id": "node/7614502593",
+        "addr:district": "Dimapur",
+        "addr:full": "Landmark Colony",
+        "addr:postcode": "797113",
+        "addr:state": "Nagaland",
+        "amenity": "hospital",
+        "name": "JK Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.712297,
+          25.909739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7614502594",
+      "properties": {
+        "@id": "node/7614502594",
+        "addr:district": "Wokha",
+        "addr:full": "Orchid Colony",
+        "addr:postcode": "797111",
+        "addr:state": "Nagaland",
+        "description": "Urban Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Urban Primary Health Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.258567,
+          26.098282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7614502595",
+      "properties": {
+        "@id": "node/7614502595",
+        "addr:district": "Wokha",
+        "addr:full": "Tsungiki",
+        "addr:postcode": "798601",
+        "addr:state": "Nagaland",
+        "health_facility:type": "dispensary",
+        "healthcare": "centre",
+        "name": "Dispensary, Tsungiki",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.3379867,
+          26.1050438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7614502596",
+      "properties": {
+        "@id": "node/7614502596",
+        "addr:district": "Tuensang",
+        "addr:full": "Nagaland",
+        "addr:postcode": "798626",
+        "addr:state": "Nagaland",
+        "description": "Sub Centre",
+        "healthcare": "centre",
+        "name": "Sub Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.9847893,
+          26.1591449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7614502597",
+      "properties": {
+        "@id": "node/7614502597",
+        "addr:district": "Dimapur",
+        "addr:full": "N.S.T. Colony",
+        "addr:postcode": "797112",
+        "addr:state": "Nagaland",
+        "amenity": "clinic",
+        "name": "Gilead Nursing Home",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.724528,
+          25.913846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7614502598",
+      "properties": {
+        "@id": "node/7614502598",
+        "addr:district": "Peren",
+        "addr:full": "Nagaland",
+        "addr:postcode": "797101",
+        "addr:state": "Nagaland",
+        "amenity": "hospital",
+        "name": "New Puilwa Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.7887183,
+          25.4816237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7614502599",
+      "properties": {
+        "@id": "node/7614502599",
+        "addr:district": "Kohima",
+        "addr:full": "Tekhuba",
+        "addr:postcode": "797005",
+        "addr:state": "Nagaland",
+        "amenity": "hospital",
+        "name": "Kohima Mental Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.1032895,
+          25.6448895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7614502600",
+      "properties": {
+        "@id": "node/7614502600",
+        "addr:district": "Mon",
+        "addr:full": "Mon",
+        "addr:postcode": "798602",
+        "addr:state": "Nagaland",
+        "amenity": "hospital",
+        "name": "Unit Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.0894333,
+          26.8972914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7614502601",
+      "properties": {
+        "@id": "node/7614502601",
+        "addr:district": "Dimapur",
+        "addr:full": "Khermahal Road, Khermahal",
+        "addr:postcode": "797112",
+        "addr:state": "Nagaland",
+        "amenity": "clinic",
+        "name": "Dr. Murry Clinic",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.719991,
+          25.915639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7614502602",
+      "properties": {
+        "@id": "node/7614502602",
+        "addr:district": "Tuensang",
+        "addr:full": "Panso Town, Noklak",
+        "addr:postcode": "798612",
+        "addr:state": "Nagaland",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Primary Health Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.926751,
+          26.106056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7614502603",
+      "properties": {
+        "@id": "node/7614502603",
+        "addr:district": "Phek",
+        "addr:full": "Ketshe Khel. Losami",
+        "addr:postcode": "797102",
+        "addr:state": "Nagaland",
+        "description": "Sub Centre",
+        "healthcare": "centre",
+        "name": "Sub Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.4438437,
+          25.6246699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7614502604",
+      "properties": {
+        "@id": "node/7614502604",
+        "addr:district": "Dimapur",
+        "addr:full": "Chumukeidma",
+        "addr:postcode": "797103",
+        "addr:state": "Nagaland",
+        "amenity": "hospital",
+        "name": "Referral Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.784951,
+          25.801377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7614502606",
+      "properties": {
+        "@id": "node/7614502606",
+        "addr:district": "Dimapur",
+        "addr:full": "N.S.T. Colony",
+        "addr:postcode": "797112",
+        "addr:state": "Nagaland",
+        "amenity": "clinic",
+        "name": "Oriential Nursing Home",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.7245336,
+          25.9136651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7614502609",
+      "properties": {
+        "@id": "node/7614502609",
+        "addr:district": "Dimapur",
+        "addr:full": "N.S.T. Colony",
+        "addr:postcode": "797112",
+        "addr:state": "Nagaland",
+        "amenity": "clinic",
+        "name": "Smile Dental Clinic",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.72132,
+          25.910593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7614502610",
+      "properties": {
+        "@id": "node/7614502610",
+        "addr:district": "Longleng",
+        "addr:full": "Nagaland",
+        "addr:postcode": "798625",
+        "addr:state": "Nagaland",
+        "description": "Community Health Centre",
+        "healthcare": "centre",
+        "name": "Community Health Centre, Yaongyimchen",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.728039,
+          26.5110834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7614502611",
+      "properties": {
+        "@id": "node/7614502611",
+        "addr:district": "Tuensang",
+        "addr:full": "Near Market Bazar, Sector A, Tuesang",
+        "addr:postcode": "798612",
+        "addr:state": "Nagaland",
+        "description": "Urban Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Urban Primary Health Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.815986,
+          26.2604509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7614502613",
+      "properties": {
+        "@id": "node/7614502613",
+        "addr:district": "Mokokchung",
+        "addr:full": "Tzudikong",
+        "addr:postcode": "798623",
+        "addr:state": "Nagaland",
+        "amenity": "hospital",
+        "name": "NPPC Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.6351003,
+          26.7142848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7614502614",
+      "properties": {
+        "@id": "node/7614502614",
+        "addr:district": "Wokha",
+        "addr:full": "Bhandari",
+        "addr:postcode": "797111",
+        "addr:state": "Nagaland",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Primary Health Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.119326,
+          26.284794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7614502615",
+      "properties": {
+        "@id": "node/7614502615",
+        "addr:district": "Kiphire",
+        "addr:full": "Pungro Town",
+        "addr:postcode": "798611",
+        "addr:state": "Nagaland",
+        "amenity": "hospital",
+        "name": "Civil Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.845178,
+          25.8103371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7614502616",
+      "properties": {
+        "@id": "node/7614502616",
+        "addr:district": "Kohima",
+        "addr:full": "Kohima-Mokokchung Road, Chunlikha",
+        "addr:postcode": "797109",
+        "addr:state": "Nagaland",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Primary Health Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.2363478,
+          25.9824201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7614502618",
+      "properties": {
+        "@id": "node/7614502618",
+        "addr:district": "Phek",
+        "addr:full": "Phek New Town",
+        "addr:postcode": "797108",
+        "addr:state": "Nagaland",
+        "amenity": "clinic",
+        "name": "Vese Clinic",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.4619153,
+          25.7058115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7614502619",
+      "properties": {
+        "@id": "node/7614502619",
+        "addr:district": "Kiphire",
+        "addr:full": "Sangkumti",
+        "addr:postcode": "798611",
+        "addr:state": "Nagaland",
+        "description": "Sub Centre",
+        "healthcare": "centre",
+        "name": "Sub Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.873087,
+          25.915219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7614502620",
+      "properties": {
+        "@id": "node/7614502620",
+        "addr:district": "Dimapur",
+        "addr:full": "Dobhinalla Road, Near State Bank, Duncan Basti",
+        "addr:postcode": "797112",
+        "addr:state": "Nagaland",
+        "amenity": "hospital",
+        "name": "Shamrock Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.7035979,
+          25.9083545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8189369507",
+      "properties": {
+        "@id": "node/8189369507",
+        "healthcare": "P_Khel",
+        "name": "PHC",
+        "operator": "government"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.1187549,
+          25.6847185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8204305004",
+      "properties": {
+        "@id": "node/8204305004",
+        "addr:district": "Dimapur",
+        "addr:full": "Medziphema",
+        "addr:postcode": "797106",
+        "addr:state": "Nagaland",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Medziphema",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.8974418,
+          25.7539184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8204384930",
+      "properties": {
+        "@id": "node/8204384930",
+        "addr:district": "Dimapur",
+        "addr:full": "Khekiho",
+        "addr:postcode": "797112",
+        "addr:state": "Nagaland",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Khekiho",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.5810873,
+          25.6988373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8204396267",
+      "properties": {
+        "@id": "node/8204396267",
+        "addr:district": "Dimapur",
+        "addr:full": "Molvom",
+        "addr:postcode": "797106",
+        "addr:state": "Nagaland",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Molvom",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.8304754,
+          25.7100814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8204473084",
+      "properties": {
+        "@id": "node/8204473084",
+        "addr:district": "Dimapur",
+        "addr:full": "Sangtamtilla",
+        "addr:postcode": "797112",
+        "addr:state": "Nagaland",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Sangtamtilla",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.7250707,
+          25.8452442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8204481492",
+      "properties": {
+        "@id": "node/8204481492",
+        "addr:district": "Dimapur",
+        "addr:full": "Tenyiphe",
+        "addr:postcode": "797103",
+        "addr:state": "Nagaland",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Tenyiphe",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.7435051,
+          25.7846788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8204483485",
+      "properties": {
+        "@id": "node/8204483485",
+        "addr:district": "Dimapur",
+        "addr:full": "Thilixu",
+        "addr:postcode": "797112",
+        "addr:state": "Nagaland",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Thilixu",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.7373756,
+          25.8634365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8204505343",
+      "properties": {
+        "@id": "node/8204505343",
+        "addr:district": "Dimapur",
+        "addr:full": "Doyapur",
+        "addr:postcode": "797112",
+        "addr:state": "Nagaland",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Doyapur",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.6048215,
+          25.7610287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8204559533",
+      "properties": {
+        "@id": "node/8204559533",
+        "addr:district": "Dimapur",
+        "addr:full": "Singrijan",
+        "addr:postcode": "797112",
+        "addr:state": "Nagaland",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Singrijan",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.6998562,
+          25.7981187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8204665996",
+      "properties": {
+        "@id": "node/8204665996",
+        "addr:district": "Dimapur",
+        "addr:full": "Riizaphema",
+        "addr:postcode": "797106",
+        "addr:state": "Nagaland",
+        "amenity": "clinic",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Primary Health Centre, Riizaphema",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.7874722,
+          25.7147851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8204695414",
+      "properties": {
+        "@id": "node/8204695414",
+        "addr:district": "Dimapur",
+        "addr:full": "Razaphe",
+        "addr:postcode": "797112",
+        "addr:state": "Nagaland",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Razaphe",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.6844925,
+          25.7650115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8204700514",
+      "properties": {
+        "@id": "node/8204700514",
+        "addr:district": "Dimapur",
+        "addr:full": "Bade",
+        "addr:postcode": "797112",
+        "addr:state": "Nagaland",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Bade",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.6690366,
+          25.82022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8204728117",
+      "properties": {
+        "@id": "node/8204728117",
+        "addr:district": "Dimapur",
+        "addr:full": "Diezephe",
+        "addr:postcode": "797112",
+        "addr:state": "Nagaland",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Diezephe",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.692047,
+          25.8024132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8204729388",
+      "properties": {
+        "@id": "node/8204729388",
+        "addr:district": "Dimapur",
+        "addr:full": "Jharnapani",
+        "addr:postcode": "797106",
+        "addr:state": "Nagaland",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Jharnapani",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.839714,
+          25.757648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8204730066",
+      "properties": {
+        "@id": "node/8204730066",
+        "addr:district": "Dimapur",
+        "addr:full": "Sovima",
+        "addr:postcode": "797115",
+        "addr:state": "Nagaland",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Sovima",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.762284,
+          25.8401133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8204805705",
+      "properties": {
+        "@id": "node/8204805705",
+        "addr:district": "Dimapur",
+        "addr:full": "Socunoma",
+        "addr:postcode": "797106",
+        "addr:state": "Nagaland",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Socunoma",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.876371,
+          25.7270609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8204820218",
+      "properties": {
+        "@id": "node/8204820218",
+        "addr:district": "Dimapur",
+        "addr:full": "Chekiye",
+        "addr:postcode": "797115",
+        "addr:state": "Nagaland",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Chekiye",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.7555637,
+          25.8750179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8204859938",
+      "properties": {
+        "@id": "node/8204859938",
+        "addr:district": "Dimapur",
+        "addr:full": "Samaguri",
+        "addr:postcode": "797116",
+        "addr:state": "Nagaland",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Samaguri",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.7839304,
+          25.9184273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8204901914",
+      "properties": {
+        "@id": "node/8204901914",
+        "addr:district": "Dimapur",
+        "addr:full": "Anatongre",
+        "addr:postcode": "798611",
+        "addr:state": "Nagaland",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Anatongre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.8312666,
+          25.9680491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8204972393",
+      "properties": {
+        "@id": "node/8204972393",
+        "addr:district": "Kiphire",
+        "addr:full": "Thanamir",
+        "addr:postcode": "798611",
+        "addr:state": "Nagaland",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Thanamir",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.9533142,
+          25.7777853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8205007221",
+      "properties": {
+        "@id": "node/8205007221",
+        "addr:district": "Kiphire",
+        "addr:full": "Seyochung",
+        "addr:postcode": "798611",
+        "addr:state": "Nagaland",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Seyochung",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.6412475,
+          25.898663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8205072418",
+      "properties": {
+        "@id": "node/8205072418",
+        "addr:district": "Kiphire",
+        "addr:full": "Singrep",
+        "addr:postcode": "798611",
+        "addr:state": "Nagaland",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Singrep",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.767257,
+          25.9178152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8205108763",
+      "properties": {
+        "@id": "node/8205108763",
+        "addr:district": "Kiphire",
+        "addr:full": "Salumi",
+        "addr:postcode": "798611",
+        "addr:state": "Nagaland",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Salumi",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.8933604,
+          25.7944734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8205123253",
+      "properties": {
+        "@id": "node/8205123253",
+        "addr:district": "Kiphire",
+        "addr:full": "Kiusam",
+        "addr:postcode": "798611",
+        "addr:state": "Nagaland",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Kiusam",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.8560915,
+          25.8792484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8205163906",
+      "properties": {
+        "@id": "node/8205163906",
+        "addr:district": "Kiphire",
+        "addr:full": "Mimi",
+        "addr:postcode": "798611",
+        "addr:state": "Nagaland",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Mimi",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.9061536,
+          25.7092915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8205168594",
+      "properties": {
+        "@id": "node/8205168594",
+        "addr:district": "Kiphire",
+        "addr:full": "Sitimi",
+        "addr:postcode": "798611",
+        "addr:state": "Nagaland",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Sitimi",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.6640285,
+          25.8369714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8205186613",
+      "properties": {
+        "@id": "node/8205186613",
+        "addr:district": "Kiphire",
+        "addr:full": "Samphure",
+        "addr:postcode": "798611",
+        "addr:state": "Nagaland",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Samphure",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.774159,
+          25.8324968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8205188667",
+      "properties": {
+        "@id": "node/8205188667",
+        "addr:district": "Kiphire",
+        "addr:full": "Longmatra",
+        "addr:postcode": "798611",
+        "addr:state": "Nagaland",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Longmatra",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.7469185,
+          25.7858148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8205203960",
+      "properties": {
+        "@id": "node/8205203960",
+        "addr:district": "Kiphire",
+        "addr:full": "Chedema",
+        "addr:postcode": "797003",
+        "addr:state": "Nagaland",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Chedema",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.1467459,
+          25.6816932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8205237694",
+      "properties": {
+        "@id": "node/8205237694",
+        "addr:district": "Kohima",
+        "addr:full": "Zakhama",
+        "addr:postcode": "797005",
+        "addr:state": "Nagaland",
+        "amenity": "hospital",
+        "name": "Government Hospital, Zakhama",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.1225184,
+          25.6036868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8205247887",
+      "properties": {
+        "@id": "node/8205247887",
+        "addr:district": "Kohima",
+        "addr:full": "Khuzama",
+        "addr:postcode": "797005",
+        "addr:state": "Nagaland",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Khuzama",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.1334296,
+          25.5353487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8205262255",
+      "properties": {
+        "@id": "node/8205262255",
+        "addr:district": "Kohima",
+        "addr:full": "Sechu",
+        "addr:postcode": "797105",
+        "addr:state": "Nagaland",
+        "amenity": "health_post",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Sechu",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.0380606,
+          25.7132206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8205262869",
+      "properties": {
+        "@id": "node/8205262869",
+        "addr:district": "Kohima",
+        "addr:full": "Rengmapani",
+        "addr:postcode": "797109",
+        "addr:state": "Nagaland",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Rengmapani",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.0159086,
+          25.9456712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8205298386",
+      "properties": {
+        "@id": "node/8205298386",
+        "addr:district": "Kohima",
+        "addr:full": "Tesophenyu",
+        "addr:postcode": "797109",
+        "addr:state": "Nagaland",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Tesophenyu",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.2097549,
+          25.9737689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8205299562",
+      "properties": {
+        "@id": "node/8205299562",
+        "addr:district": "Kohima",
+        "addr:full": "Chiechama",
+        "addr:postcode": "797105",
+        "addr:state": "Nagaland",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Chiechama",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.1400235,
+          25.8152326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8205300195",
+      "properties": {
+        "@id": "node/8205300195",
+        "addr:district": "Kohima",
+        "addr:full": "Seithogei",
+        "addr:postcode": "797121",
+        "addr:state": "Nagaland",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Seithogei",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.0803753,
+          25.6783952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8205313233",
+      "properties": {
+        "@id": "node/8205313233",
+        "addr:district": "Kohima",
+        "addr:full": "Zhadima",
+        "addr:postcode": "797105",
+        "addr:state": "Nagaland",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Zhadima",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.1277061,
+          25.7842247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8205346531",
+      "properties": {
+        "@id": "node/8205346531",
+        "addr:district": "Kohima",
+        "addr:full": "Chiephobozou",
+        "addr:postcode": "797105",
+        "addr:state": "Nagaland",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Chiephobozou",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.0892814,
+          25.7735269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8205348662",
+      "properties": {
+        "@id": "node/8205348662",
+        "addr:district": "Kohima",
+        "addr:full": "Tsosinyu",
+        "addr:postcode": "797109",
+        "addr:state": "Nagaland",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Tsosinyu",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.0440108,
+          25.9033462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8207989110",
+      "properties": {
+        "@id": "node/8207989110",
+        "addr:district": "Kohima",
+        "addr:full": "Tsiese Basa",
+        "addr:postcode": "797105",
+        "addr:state": "Nagaland",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Tsiese Basa",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.0792621,
+          25.7557432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8208043215",
+      "properties": {
+        "@id": "node/8208043215",
+        "addr:district": "Kohima",
+        "addr:full": "Kijumetouma",
+        "addr:postcode": "797105",
+        "addr:state": "Nagaland",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Kijumetouma",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.232045,
+          25.7659336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8208043336",
+      "properties": {
+        "@id": "node/8208043336",
+        "addr:district": "Kohima",
+        "addr:full": "Dihoma",
+        "addr:postcode": "797003",
+        "addr:state": "Nagaland",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Dihoma",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.1953186,
+          25.7368696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8208045571",
+      "properties": {
+        "@id": "node/8208045571",
+        "addr:district": "Kohima",
+        "addr:full": "Chiephobozou",
+        "addr:postcode": "797105",
+        "addr:state": "Nagaland",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Chiephobozou",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.1316587,
+          25.7974491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8208087224",
+      "properties": {
+        "@id": "node/8208087224",
+        "addr:district": "Kohima",
+        "addr:full": "Dzuleke",
+        "addr:postcode": "797001",
+        "addr:state": "Nagaland",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Dzuleke",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.9559981,
+          25.6208498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8208107559",
+      "properties": {
+        "@id": "node/8208107559",
+        "addr:district": "Kohima",
+        "addr:full": "Kandinu",
+        "addr:postcode": "797111",
+        "addr:state": "Nagaland",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Kandinu",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.2569567,
+          25.9958964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8208169885",
+      "properties": {
+        "@id": "node/8208169885",
+        "addr:district": "Kohima",
+        "addr:full": "Sendenyu",
+        "addr:postcode": "797109",
+        "addr:state": "Nagaland",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Sendenyu",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.1190603,
+          25.9070494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8208195196",
+      "properties": {
+        "@id": "node/8208195196",
+        "addr:district": "Longleng",
+        "addr:full": "Bora Namsang",
+        "addr:postcode": "798613",
+        "addr:state": "Nagaland",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Bora Namsang",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.8007719,
+          26.7220357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8208197718",
+      "properties": {
+        "@id": "node/8208197718",
+        "addr:district": "Kohima",
+        "addr:full": "Phesama",
+        "addr:postcode": "797005",
+        "addr:state": "Nagaland",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Phesama",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.1114613,
+          25.6277275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8208198030",
+      "properties": {
+        "@id": "node/8208198030",
+        "addr:district": "Longleng",
+        "addr:full": "Yachem",
+        "addr:postcode": "798625",
+        "addr:state": "Nagaland",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Yachem",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.7240721,
+          26.5227209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8208223848",
+      "properties": {
+        "@id": "node/8208223848",
+        "addr:district": "Longleng",
+        "addr:full": "Tangha",
+        "addr:postcode": "798613",
+        "addr:state": "Nagaland",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Tangha",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.7685945,
+          26.603792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8208231441",
+      "properties": {
+        "@id": "node/8208231441",
+        "addr:district": "Longleng",
+        "addr:full": "Namching",
+        "addr:postcode": "798625",
+        "addr:state": "Nagaland",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Namching",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.7894389,
+          26.4672335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8366437967",
+      "properties": {
+        "@id": "node/8366437967",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Primary Health Centre, Zapami",
+        "operator": "Ministry of Health and Family Welfare",
+        "operator:type": "government"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.2441988,
+          25.5343601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8484893016",
+      "properties": {
+        "@id": "node/8484893016",
+        "addr:city": "Kohima",
+        "addr:street": "Para Medical Colony",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.0923588,
+          25.6650025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10248431748",
+      "properties": {
+        "@id": "node/10248431748",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.124628,
+          25.5981408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10248459009",
+      "properties": {
+        "@id": "node/10248459009",
+        "amenity": "hospital",
+        "name": "Kohima Diagnostic Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.0990558,
+          25.6556899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10911452261",
+      "properties": {
+        "@id": "node/10911452261",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Sub Centre ITC Dan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.1240721,
+          26.279509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11356598239",
+      "properties": {
+        "@id": "node/11356598239",
+        "addr:district": "Mokokchung",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.5520485,
+          26.4555109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11356598277",
+      "properties": {
+        "@id": "node/11356598277",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.8047989,
+          26.491486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11533381702",
+      "properties": {
+        "@id": "node/11533381702",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Primary Health Center, Porba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.332336,
+          25.6165952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11577200069",
+      "properties": {
+        "@id": "node/11577200069",
+        "amenity": "hospital",
+        "email": "nimsrkohima@gmail.com",
+        "name": "Nagaland Institute of Medical Sciences and  Research (NIMSR)",
+        "opening_hours": "Mo-Su 09:00-16:00",
+        "operator": "Government of Nagaland",
+        "website": "https://nimsr.nagaland.gov.in"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.1232645,
+          25.6949558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11932468869",
+      "properties": {
+        "@id": "node/11932468869",
+        "amenity": "clinic",
+        "name": "Patient Care Diagnostics, Dr Belho's Clinic, Walford road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.7369468,
+          25.9103627
+        ]
+      }
+    }
+  ]
+}

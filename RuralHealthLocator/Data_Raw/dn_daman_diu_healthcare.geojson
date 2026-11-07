@@ -1,0 +1,2185 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-11-07T11:44:13Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/481399251",
+      "properties": {
+        "@id": "way/481399251",
+        "addr:city": "silvassa",
+        "addr:postcode": "396230",
+        "amenity": "hospital",
+        "name": "Prayosha Hospital",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0078163,
+          20.2717735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/588364287",
+      "properties": {
+        "@id": "way/588364287",
+        "addr:district": "Daman",
+        "addr:postcode": "396210",
+        "addr:state": "Daman & Diu",
+        "addr:street": "Marwad (Nani Daman), Devka Road",
+        "addr:subdistrict": "Daman",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Government Hospital",
+        "source": "OpenGovernmentData",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8315319,
+          20.4330358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/918556757",
+      "properties": {
+        "@id": "node/918556757",
+        "amenity": "hospital",
+        "healthcare": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.9889474,
+          20.7123797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6908093951",
+      "properties": {
+        "@id": "node/6908093951",
+        "addr:district": "Dadra and Nagar Haveli",
+        "addr:full": "Opposite Development Credit Bank, Naroli Road",
+        "addr:postcode": "396230",
+        "addr:state": "Dadra and Nagar Haveli",
+        "amenity": "hospital",
+        "name": "Vardhaman Hospital, Dadra and Nagar Haveli",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0014588,
+          20.2712521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6908097586",
+      "properties": {
+        "@id": "node/6908097586",
+        "addr:district": "Dadra and Nagar Haveli",
+        "addr:full": "Behind Primary School, Zanda Chowk",
+        "addr:postcode": "396230",
+        "addr:state": "Dadra and Nagar Haveli",
+        "amenity": "hospital",
+        "contact:mobile": "2641393",
+        "name": "Mukta General Hospital and Maternity Home",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0040934,
+          20.276227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6908097595",
+      "properties": {
+        "@id": "node/6908097595",
+        "addr:district": "Dadra and Nagar Haveli",
+        "addr:full": "Daffodil Building, Iti Road, Amli Junction, Near Sai Mandir, Amli",
+        "addr:postcode": "396230",
+        "addr:state": "Dadra and Nagar Haveli",
+        "amenity": "hospital",
+        "name": "Marigold Child Care Hospital and Nicu",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0046191,
+          20.2790952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6908120520",
+      "properties": {
+        "@id": "node/6908120520",
+        "addr:city": "Moti Daman",
+        "addr:district": "Daman",
+        "addr:full": "Fort Area, Community HealthCenter, Moti Daman",
+        "addr:postcode": "396220",
+        "addr:state": "Daman and Diu",
+        "addr:street": "Fort Area",
+        "addr:subdistrict": "Daman",
+        "amenity": "hospital",
+        "contact:phone": "2602230470",
+        "description": "Community Health Centre, commonly known as Government Hospital",
+        "emergency": "yes",
+        "fax": "2602230570",
+        "healthcare": "hospital",
+        "locality": "Moti Daman",
+        "name": "Government Hospital (CHC)",
+        "operator:type": "government",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8323187,
+          20.4083876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6908120525",
+      "properties": {
+        "@id": "node/6908120525",
+        "addr:district": "Daman",
+        "addr:full": "Duntha road, damandaman union territory",
+        "addr:postcode": "369210",
+        "addr:state": "Daman and Diu",
+        "amenity": "hospital",
+        "name": "Atmaram Jog Memorial Hospital",
+        "operator:type": "private",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8436805,
+          20.4238558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6908120535",
+      "properties": {
+        "@id": "node/6908120535",
+        "addr:district": "Daman",
+        "addr:full": "Main road, Dabhel, Nani damandaman",
+        "addr:postcode": "396115",
+        "addr:state": "Daman and Diu",
+        "amenity": "hospital",
+        "fax": "112242373",
+        "name": "Hansa clinic and hospital",
+        "operator:type": "private",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8824908,
+          20.4089821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6908120536",
+      "properties": {
+        "@id": "node/6908120536",
+        "addr:district": "Dadra and Nagar Haveli",
+        "addr:full": "Kilvani Road, Amli",
+        "addr:postcode": "396230",
+        "addr:state": "Dadra and Nagar Haveli",
+        "amenity": "hospital",
+        "name": "Yogi Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0080128,
+          20.2794977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6908120537",
+      "properties": {
+        "@id": "node/6908120537",
+        "addr:district": "Dadra and Nagar Haveli",
+        "addr:full": "Daffodil Blg, Iti Road, Amli Juction, Near Sai Mandir",
+        "addr:postcode": "396230",
+        "addr:state": "Dadra and Nagar Haveli",
+        "amenity": "hospital",
+        "name": "Dr.Nikams Sri Sai Marigold Child Care Hospital and N I C U",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0008298,
+          20.2875913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6908120550",
+      "properties": {
+        "@id": "node/6908120550",
+        "addr:district": "Dadra and Nagar Haveli",
+        "addr:full": "Solanki Complex Opp Town Hall",
+        "addr:postcode": "396230",
+        "addr:state": "Dadra and Nagar Haveli",
+        "amenity": "hospital",
+        "name": "Darshan Eye Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0034114,
+          20.2724089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6908120555",
+      "properties": {
+        "@id": "node/6908120555",
+        "addr:district": "Dadra and Nagar Haveli",
+        "addr:full": "Kilvani Naka Umarkul Road",
+        "addr:postcode": "396230",
+        "addr:state": "Dadra and Nagar Haveli",
+        "amenity": "hospital",
+        "name": "Chaitanya Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0081457,
+          20.2753075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6908120556",
+      "properties": {
+        "@id": "node/6908120556",
+        "addr:district": "Dadra and Nagar Haveli",
+        "addr:full": "1st Floor, Shree Rangkrupa, Opposite English School, P.W.D.Road",
+        "addr:postcode": "396230",
+        "addr:state": "Dadra and Nagar Haveli",
+        "amenity": "hospital",
+        "contact:mobile": "2602642709",
+        "name": "Prayosha Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0084687,
+          20.2715006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6908120557",
+      "properties": {
+        "@id": "node/6908120557",
+        "addr:district": "Dadra and Nagar Haveli",
+        "addr:full": "Silvassa",
+        "addr:postcode": "396230",
+        "addr:state": "Dadra and Nagar Haveli",
+        "amenity": "hospital",
+        "contact:phone": "2642940",
+        "description": "Civil Hospital",
+        "email": "svbch.sil@gmail.com",
+        "fax": "2602642961",
+        "name": "Shri Vinoba Bhave Civil Hospital",
+        "operator:type": "government",
+        "source": "OpenGovernmentData",
+        "website": "http://www.vbch.dnh.nic.in/",
+        "wikidata": "Q60752217",
+        "wikipedia": "en:Shri Vinoba Bhave Civil Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0078961,
+          20.2706703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6908120568",
+      "properties": {
+        "@id": "node/6908120568",
+        "addr:district": "Dadra and Nagar Haveli",
+        "addr:full": "Bhumika City Centre, M G Road, Near Jain Temple",
+        "addr:postcode": "396230",
+        "addr:state": "Dadra and Nagar Haveli",
+        "amenity": "hospital",
+        "name": "Shri Shreeji Hospital - Silvassa",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9404157,
+          20.2737915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6908120573",
+      "properties": {
+        "@id": "node/6908120573",
+        "addr:district": "Dadra and Nagar Haveli",
+        "addr:full": "Naroli Road, Near D C Bank, Opposite Hotel Natraj",
+        "addr:postcode": "396230",
+        "addr:state": "Dadra and Nagar Haveli",
+        "amenity": "hospital",
+        "name": "Hari Om Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0020931,
+          20.2718252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6908120574",
+      "properties": {
+        "@id": "node/6908120574",
+        "addr:district": "Dadra and Nagar Haveli",
+        "addr:full": "1st Floor, Perin Complex, Opposite Bal Bhavan Kilvani Naka",
+        "addr:postcode": "396230",
+        "addr:state": "Dadra and Nagar Haveli",
+        "amenity": "hospital",
+        "contact:mobile": "9377243095",
+        "name": "Shree Sainath Hospital, Dadra and Nagar Haveli",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0064718,
+          20.2734505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6908120579",
+      "properties": {
+        "@id": "node/6908120579",
+        "addr:district": "Dadra and Nagar Haveli",
+        "addr:full": "Opp Sbi, Near Adiwasi Bhavan, Tokarkhada",
+        "addr:postcode": "396230",
+        "addr:state": "Dadra and Nagar Haveli",
+        "amenity": "hospital",
+        "name": "Sai Krishhna Maternity Home",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0055813,
+          20.2683278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6970396869",
+      "properties": {
+        "@id": "node/6970396869",
+        "addr:district": "Dadra and Nagar Haveli",
+        "addr:full": "Silvassa - Vapi Road, Dadra",
+        "addr:postcode": "396193",
+        "addr:state": "Dadra and Nagar Haveli and Daman and Diu",
+        "contact:phone": "0260 2668228",
+        "description": "Community Health Centre",
+        "healthcare": "centre",
+        "name": "Community Health Center, Dadra",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9641506,
+          20.3251611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7100919303",
+      "properties": {
+        "@id": "node/7100919303",
+        "addr:district": "Daman",
+        "addr:landmark": "Ashramshala Campus",
+        "addr:postcode": "396180",
+        "addr:state": "Daman & Diu",
+        "addr:street": "Pataliya Road",
+        "addr:subdistrict": "Daman",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "locality": "Bhimpore",
+        "name": "PHC, Bhimpore",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8772823,
+          20.4562096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7100919304",
+      "properties": {
+        "@id": "node/7100919304",
+        "addr:district": "Daman",
+        "addr:landmark": "Daman Vapi Main Road",
+        "addr:postcode": "396210",
+        "addr:state": "Daman & Diu",
+        "addr:street": "Amaliya",
+        "addr:subdistrict": "Daman",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "locality": "Dabhel",
+        "name": "PHC, Dabhel",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8839771,
+          20.4082118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7100919305",
+      "properties": {
+        "@id": "node/7100919305",
+        "addr:district": "Daman",
+        "addr:landmark": "Near Vidyut Bhavan",
+        "addr:postcode": "396215",
+        "addr:state": "Daman & Diu",
+        "addr:street": "Somnath Kachigam Road",
+        "addr:subdistrict": "Daman",
+        "contact:phone": "2602242814",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "locality": "Kachigam",
+        "name": "PHC, Kachigam",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8788374,
+          20.3933365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7100919306",
+      "properties": {
+        "@id": "node/7100919306",
+        "addr:district": "Diu",
+        "addr:landmark": "Near Diu Ghoghla Bridge",
+        "addr:postcode": "362540",
+        "addr:state": "Daman & Diu",
+        "addr:street": "Kajimam",
+        "addr:subdistrict": "Diu",
+        "contact:phone": "2875252244",
+        "description": "Community Health Center",
+        "healthcare": "centre",
+        "locality": "Ghoghla",
+        "name": "CHC, Ghoghla-Diu",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.9843583,
+          20.7260366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7100919307",
+      "properties": {
+        "@id": "node/7100919307",
+        "addr:district": "Diu",
+        "addr:landmark": "Near Bus Stand",
+        "addr:postcode": "362570",
+        "addr:state": "Daman & Diu",
+        "addr:street": "Zinjawadi",
+        "addr:subdistrict": "Diu",
+        "contact:phone": "2875271301",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "locality": "Vanakbara",
+        "name": "PHC, Vanakbara",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.8779141,
+          20.7166977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7100919308",
+      "properties": {
+        "@id": "node/7100919308",
+        "addr:district": "Diu",
+        "addr:landmark": "Near Sports Complex",
+        "addr:postcode": "362520",
+        "addr:state": "Daman & Diu",
+        "addr:street": "Be Ottli",
+        "addr:subdistrict": "Diu",
+        "amenity": "hospital",
+        "contact:phone": "2875254651",
+        "description": "Government Hospital",
+        "healthcare": "hospital",
+        "locality": "Diu",
+        "name": "Government Hospital, Diu",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.9782197,
+          20.7155234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7150264723",
+      "properties": {
+        "@id": "node/7150264723",
+        "addr:district": "Dadra and Nagar Haveli",
+        "addr:full": "Dapada",
+        "addr:postcode": "396240",
+        "addr:state": "Dadra and Nagar Haveli",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Primary Health Centre, Dapada",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.027275,
+          20.182722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7150264724",
+      "properties": {
+        "@id": "node/7150264724",
+        "addr:district": "Dadra and Nagar Haveli",
+        "addr:full": "Amboli Patelpada, Surangi",
+        "addr:postcode": "396230",
+        "addr:state": "Dadra and Nagar Haveli",
+        "contact:phone": "2993100",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Primary Health Centre, Amboli",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0254941,
+          20.1423985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7150264725",
+      "properties": {
+        "@id": "node/7150264725",
+        "addr:district": "Dadra and Nagar Haveli",
+        "addr:full": "Naroli",
+        "addr:postcode": "396235",
+        "addr:state": "Dadra and Nagar Haveli",
+        "contact:phone": "0260-2650527",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "PHC, Naroli",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.94005,
+          20.271671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7150264726",
+      "properties": {
+        "@id": "node/7150264726",
+        "addr:district": "Dadra and Nagar Haveli",
+        "addr:postcode": "396230",
+        "addr:state": "Dadra and Nagar Haveli",
+        "amenity": "hospital",
+        "name": "Randha Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1300979,
+          20.3048491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7150264727",
+      "properties": {
+        "@id": "node/7150264727",
+        "addr:district": "Dadra and Nagar Haveli",
+        "addr:postcode": "396230",
+        "addr:state": "Dadra and Nagar Haveli",
+        "contact:phone": "2600124",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "PHC, Kilvani",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0934851,
+          20.2957869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7150264728",
+      "properties": {
+        "@id": "node/7150264728",
+        "addr:district": "Dadra and Nagar Haveli",
+        "addr:full": "Khanvel, Khutli Dudhani Road, Rudana",
+        "addr:postcode": "396230",
+        "addr:state": "Dadra and Nagar Haveli",
+        "amenity": "hospital",
+        "description": "Sub-District Hospital",
+        "name": "Sub-District Hospital, Khanvel",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0741343,
+          20.1282334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7151674573",
+      "properties": {
+        "@id": "node/7151674573",
+        "addr:full": "Nana Randha",
+        "addr:state": "Dadra and Nagar Haveli",
+        "description": "Health- Sub Centre",
+        "healthcare": "centre",
+        "name": "Sub-Center ,Nana Randha",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1535421,
+          20.2998913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7151674578",
+      "properties": {
+        "@id": "node/7151674578",
+        "addr:full": "Dhapsa",
+        "addr:state": "Dadra and Nagar Haveli",
+        "description": "Health- Sub Centre",
+        "healthcare": "centre",
+        "name": "Sub centre, Dhapsa",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9316235,
+          20.2820577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7151674583",
+      "properties": {
+        "@id": "node/7151674583",
+        "addr:full": "Naroli",
+        "addr:state": "Dadra and Nagar Haveli",
+        "description": "Health- Sub Centre",
+        "healthcare": "centre",
+        "name": "Sub centre, Naroli",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.955705,
+          20.280945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7151680721",
+      "properties": {
+        "@id": "node/7151680721",
+        "addr:full": "Ghoghla",
+        "addr:state": "Daman and Diu",
+        "description": "Health- Sub Centre",
+        "healthcare": "centre",
+        "name": "Sub Centre ,Ghoghla",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.99015,
+          20.7283595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7622193592",
+      "properties": {
+        "@id": "node/7622193592",
+        "addr:district": "Daman",
+        "addr:full": "Dilip Nagar",
+        "addr:postcode": "396210",
+        "addr:state": "Daman and Diu",
+        "amenity": "hospital",
+        "name": "Ashok Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.834404,
+          20.420019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7622193593",
+      "properties": {
+        "@id": "node/7622193593",
+        "addr:district": "Daman",
+        "addr:full": "Dunetha",
+        "addr:postcode": "396210",
+        "addr:state": "Daman and Diu",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Primary Health Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.850335,
+          20.4306972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7622193594",
+      "properties": {
+        "@id": "node/7622193594",
+        "addr:district": "Daman",
+        "addr:full": "Dilip Nagar",
+        "addr:postcode": "396210",
+        "addr:state": "Daman and Diu",
+        "amenity": "hospital",
+        "name": "Ashwini Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8360459,
+          20.4202291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7622193595",
+      "properties": {
+        "@id": "node/7622193595",
+        "addr:district": "Daman",
+        "addr:full": "Aatiyawad Char Rasta, Nani Dabhel",
+        "addr:postcode": "396215",
+        "addr:state": "Daman and Diu",
+        "amenity": "clinic",
+        "name": "Chintan Polyclinic",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8914851,
+          20.4114221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7622193596",
+      "properties": {
+        "@id": "node/7622193596",
+        "addr:district": "Diu",
+        "addr:full": "Vanakbara",
+        "addr:postcode": "362570",
+        "addr:state": "Daman and Diu",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "name": "Kural Dental Care",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.875351,
+          20.71723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7622193597",
+      "properties": {
+        "@id": "node/7622193597",
+        "addr:district": "Daman",
+        "addr:full": "Dunetha Road, Dunetha",
+        "addr:postcode": "396210",
+        "addr:state": "Daman and Diu",
+        "amenity": "hospital",
+        "name": "Care N Cure Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8445141,
+          20.4236534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7622193599",
+      "properties": {
+        "@id": "node/7622193599",
+        "addr:district": "Daman",
+        "addr:full": "Dunetha",
+        "addr:postcode": "396210",
+        "addr:state": "Daman and Diu",
+        "amenity": "hospital",
+        "name": "Life Care Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8384599,
+          20.4188733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7622193600",
+      "properties": {
+        "@id": "node/7622193600",
+        "addr:district": "Daman",
+        "addr:full": "Anuradha Complex, Mashal Chowk, Nani Daman",
+        "addr:postcode": "396210",
+        "addr:state": "Daman and Diu",
+        "amenity": "hospital",
+        "name": "Pooja Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8414362,
+          20.4221041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7622193602",
+      "properties": {
+        "@id": "node/7622193602",
+        "addr:district": "Daman",
+        "addr:full": "Magarwada, Daman",
+        "addr:postcode": "396220",
+        "addr:state": "Daman and Diu",
+        "description": "Subcentre",
+        "healthcare": "centre",
+        "name": "Subcentre ,Magarwada",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8503636,
+          20.3819092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7622193603",
+      "properties": {
+        "@id": "node/7622193603",
+        "addr:district": "Daman",
+        "addr:full": "Old Vegetable Market, Kavi Khabardar Road",
+        "addr:postcode": "396210",
+        "addr:state": "Daman and Diu",
+        "amenity": "clinic",
+        "name": "Jimeet Dental Clinic",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8332044,
+          20.4179447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7622193604",
+      "properties": {
+        "@id": "node/7622193604",
+        "addr:district": "Daman",
+        "addr:full": "Deep Apartment, Daman - Kunta Road, Near Ashwini Hospital, Nani Daman",
+        "addr:postcode": "396210",
+        "addr:state": "Daman and Diu",
+        "amenity": "doctors",
+        "healthcare": "doctor",
+        "healthcare:speciality": "ophthalmology;dental_oral_maxillo_facial_surgery",
+        "name": "Krishna Eye and Dental Clinic",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.83657,
+          20.4202048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7622193605",
+      "properties": {
+        "@id": "node/7622193605",
+        "addr:district": "Daman",
+        "addr:full": "Wadi Falia, Nani Daman",
+        "addr:postcode": "396210",
+        "addr:state": "Daman and Diu",
+        "amenity": "hospital",
+        "name": "Sai Sarvoday Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.834721,
+          20.416021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7622195189",
+      "properties": {
+        "@id": "node/7622195189",
+        "addr:district": "Dadra and Nagar Haveli",
+        "addr:full": "Demni Road, Dadra",
+        "addr:postcode": "396193",
+        "addr:state": "Dadra and Nagar Haveli and Daman and Diu",
+        "amenity": "hospital",
+        "name": "J. K. Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9726645,
+          20.3233705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7622195190",
+      "properties": {
+        "@id": "node/7622195190",
+        "addr:district": "Dadra and Nagar Haveli",
+        "addr:full": "Jas Luxuria, Naroli Road, Silvassa",
+        "addr:postcode": "396230",
+        "addr:state": "Dadra and Nagar Haveli",
+        "amenity": "hospital",
+        "name": "True Care Multispeciality Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9955333,
+          20.2733042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7622195191",
+      "properties": {
+        "@id": "node/7622195191",
+        "addr:district": "Dadra and Nagar Haveli",
+        "addr:full": "Chanod Colony, Dungra",
+        "addr:postcode": "396193",
+        "addr:state": "Dadra and Nagar Haveli",
+        "description": "Urban Health Centre",
+        "healthcare": "centre",
+        "name": "Urban Health Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.954898,
+          20.323886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7622195192",
+      "properties": {
+        "@id": "node/7622195192",
+        "addr:district": "Dadra and Nagar Haveli",
+        "addr:full": "Soubhagya Inn, Silvassa - Vapi Road, Silvassa",
+        "addr:postcode": "396230",
+        "addr:state": "Dadra and Nagar Haveli",
+        "amenity": "hospital",
+        "name": "Shayona Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9975725,
+          20.2835473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7622195193",
+      "properties": {
+        "@id": "node/7622195193",
+        "addr:district": "Dadra and Nagar Haveli",
+        "addr:full": "Krishna Complex, Silvassa - Vapi Road, Opposite Silvassa Police Station, Bavisa Faliya, Silvassa",
+        "addr:postcode": "396230",
+        "addr:state": "Dadra and Nagar Haveli",
+        "amenity": "hospital",
+        "name": "Shree Jalaramkrupa General & Maternity Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0025144,
+          20.2760129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7622195194",
+      "properties": {
+        "@id": "node/7622195194",
+        "addr:district": "Dadra and Nagar Haveli",
+        "addr:full": "Umarkui Road, Kilvani Road, Naka, Silvassa",
+        "addr:postcode": "396230",
+        "addr:state": "Dadra and Nagar Haveli",
+        "amenity": "hospital",
+        "name": "Chaitanya Multispeciality Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0102375,
+          20.2740171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7622195195",
+      "properties": {
+        "@id": "node/7622195195",
+        "addr:district": "Dadra and Nagar Haveli",
+        "addr:full": "Silvassa - Vapi Road, Amli Industrial Estate, Silvassa",
+        "addr:postcode": "396230",
+        "addr:state": "Dadra and Nagar Haveli",
+        "amenity": "hospital",
+        "name": "City Heart Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.001621,
+          20.278684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7622195196",
+      "properties": {
+        "@id": "node/7622195196",
+        "addr:district": "Dadra and Nagar Haveli",
+        "addr:full": "Gram Panchayat, Karvad",
+        "addr:postcode": "396193",
+        "addr:state": "Dadra and Nagar Haveli",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Primary Health Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.973856,
+          20.3505767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7622195197",
+      "properties": {
+        "@id": "node/7622195197",
+        "addr:district": "Dadra and Nagar Haveli",
+        "addr:full": "Khanvel Road, Rakholi",
+        "addr:postcode": "396240",
+        "addr:state": "Dadra and Nagar Haveli",
+        "description": "Community Health Centre",
+        "healthcare": "centre",
+        "name": "Community Health Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.024677,
+          20.221904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7622195198",
+      "properties": {
+        "@id": "node/7622195198",
+        "addr:district": "Dadra and Nagar Haveli",
+        "addr:full": "Silvassa - Vapi Road, Bhadakmora",
+        "addr:postcode": "396193",
+        "addr:state": "Dadra and Nagar Haveli and Daman and Diu",
+        "amenity": "clinic",
+        "name": "Nirav Dental and Cosmetic Clinic",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9648558,
+          20.321594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7622195199",
+      "properties": {
+        "@id": "node/7622195199",
+        "addr:district": "Dadra and Nagar Haveli",
+        "addr:full": "Yogi Complex, Silvassa - Vapi Road, Silvassa",
+        "addr:postcode": "396230",
+        "addr:state": "Dadra and Nagar Haveli",
+        "amenity": "hospital",
+        "name": "Sanskar Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.996931,
+          20.285759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7622195200",
+      "properties": {
+        "@id": "node/7622195200",
+        "addr:district": "Dadra and Nagar Haveli",
+        "addr:full": "Silvassa - Bhilad Road, Naroli",
+        "addr:postcode": "396235",
+        "addr:state": "Dadra and Nagar Haveli",
+        "amenity": "hospital",
+        "name": "Krishna Kunj Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9412477,
+          20.27656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7983760527",
+      "properties": {
+        "@id": "node/7983760527",
+        "addr:district": "Daman",
+        "addr:full": "Patlara",
+        "addr:postcode": "396220",
+        "addr:state": "Daman & Diu",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Patlara",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8395177,
+          20.4012474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7983839934",
+      "properties": {
+        "@id": "node/7983839934",
+        "addr:district": "Daman",
+        "addr:full": "Dholar",
+        "addr:postcode": "396220",
+        "addr:state": "Daman & Diu",
+        "amenity": "hospital",
+        "name": "Government Hospital, Dholar",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8338506,
+          20.3918459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7983971157",
+      "properties": {
+        "@id": "node/7983971157",
+        "addr:district": "Daman",
+        "addr:full": "Varkund",
+        "addr:postcode": "396210",
+        "addr:state": "Daman & Diu",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Varkund",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8567707,
+          20.4110881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7984013269",
+      "properties": {
+        "@id": "node/7984013269",
+        "addr:district": "Diu",
+        "addr:full": "Fudam",
+        "addr:postcode": "362520",
+        "addr:state": "Daman & Diu",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Fudam",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.9617042,
+          20.7093699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7984028274",
+      "properties": {
+        "@id": "node/7984028274",
+        "addr:district": "Diu",
+        "addr:full": "Bucharwada",
+        "addr:postcode": "362570",
+        "addr:state": "Daman & Diu",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Bucharwada",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.9203885,
+          20.729468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7984098089",
+      "properties": {
+        "@id": "node/7984098089",
+        "addr:district": "Daman",
+        "addr:full": "Pariyari",
+        "addr:postcode": "396220",
+        "addr:state": "Daman & Diu",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Pariyari",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8334566,
+          20.3778098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7984286616",
+      "properties": {
+        "@id": "node/7984286616",
+        "addr:district": "Diu",
+        "addr:full": "Dagachi",
+        "addr:postcode": "362570",
+        "addr:state": "Daman & Diu",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Dagachi",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.9065168,
+          20.7258964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7984332150",
+      "properties": {
+        "@id": "node/7984332150",
+        "addr:district": "Dadra and Nagar Haveli",
+        "addr:full": "Karachgam",
+        "addr:postcode": "396230",
+        "addr:state": "Dadra and Nagar Haveli",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Karachgam",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0134369,
+          20.1237084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7984341401",
+      "properties": {
+        "@id": "node/7984341401",
+        "addr:district": "Dadra and Nagar Haveli",
+        "addr:full": "Kauncha",
+        "addr:postcode": "396230",
+        "addr:state": "Dadra and Nagar Haveli",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Kauncha",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1586,
+          20.1771889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7984452563",
+      "properties": {
+        "@id": "node/7984452563",
+        "addr:district": "Dadra and Nagar Haveli",
+        "addr:full": "Apti Avarpada",
+        "addr:postcode": "396230",
+        "addr:state": "Dadra and Nagar Haveli",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Apti Avarpada",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9939556,
+          20.1587313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7984453930",
+      "properties": {
+        "@id": "node/7984453930",
+        "addr:district": "Dadra and Nagar Haveli",
+        "addr:full": "Rakholi",
+        "addr:postcode": "396240",
+        "addr:state": "Dadra and Nagar Haveli",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Rakholi",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0175661,
+          20.2385535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7984500634",
+      "properties": {
+        "@id": "node/7984500634",
+        "addr:district": "Dadra and Nagar Haveli",
+        "addr:full": "Karchond",
+        "addr:postcode": "396230",
+        "addr:state": "Dadra and Nagar Haveli",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Karchond",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1544131,
+          20.1338528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7984529131",
+      "properties": {
+        "@id": "node/7984529131",
+        "addr:district": "Dadra and Nagar Haveli",
+        "addr:full": "Parzai",
+        "addr:postcode": "396230",
+        "addr:state": "Dadra and Nagar Haveli",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Parzai",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0406643,
+          20.0990771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7984547420",
+      "properties": {
+        "@id": "node/7984547420",
+        "addr:district": "Dadra and Nagar Haveli",
+        "addr:full": "Sayli",
+        "addr:postcode": "396240",
+        "addr:state": "Dadra and Nagar Haveli",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Sayli",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0291878,
+          20.2555431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7984558333",
+      "properties": {
+        "@id": "node/7984558333",
+        "addr:district": "Dadra and Nagar Haveli",
+        "addr:full": "Umarkui",
+        "addr:postcode": "396230",
+        "addr:state": "Dadra and Nagar Haveli",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Umarkui",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0940872,
+          20.2659629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7984566779",
+      "properties": {
+        "@id": "node/7984566779",
+        "addr:district": "Dadra and Nagar Haveli",
+        "addr:full": "Bedpa",
+        "addr:postcode": "396230",
+        "addr:state": "Dadra and Nagar Haveli",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Bedpa",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1948427,
+          20.0856561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7984582393",
+      "properties": {
+        "@id": "node/7984582393",
+        "addr:district": "Dadra and Nagar Haveli",
+        "addr:full": "Mandoni",
+        "addr:postcode": "396230",
+        "addr:state": "Dadra and Nagar Haveli",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Mandoni",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1488338,
+          20.1122597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7984582891",
+      "properties": {
+        "@id": "node/7984582891",
+        "addr:district": "Dadra and Nagar Haveli",
+        "addr:full": "Silvassa",
+        "addr:postcode": "396230",
+        "addr:state": "Dadra and Nagar Haveli",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Silvassa",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0097847,
+          20.2536361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7984612447",
+      "properties": {
+        "@id": "node/7984612447",
+        "addr:district": "Dadra and Nagar Haveli",
+        "addr:full": "Athola",
+        "addr:postcode": "396230",
+        "addr:state": "Dadra and Nagar Haveli",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Athola",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0526112,
+          20.2757408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7984631764",
+      "properties": {
+        "@id": "node/7984631764",
+        "addr:district": "Dadra and Nagar Haveli",
+        "addr:full": "Khadoli",
+        "addr:postcode": "396230",
+        "addr:state": "Dadra and Nagar Haveli",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Khadoli",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0287466,
+          20.1629607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7984697552",
+      "properties": {
+        "@id": "node/7984697552",
+        "addr:district": "Dadra and Nagar Haveli",
+        "addr:full": "Bensda",
+        "addr:postcode": "396230",
+        "addr:state": "Dadra and Nagar Haveli",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Bensda",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.18574,
+          20.1122521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7986472428",
+      "properties": {
+        "@id": "node/7986472428",
+        "addr:district": "Dadra and Nagar Haveli",
+        "addr:full": "Shelti",
+        "addr:postcode": "396230",
+        "addr:state": "Dadra and Nagar Haveli",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Shelti",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1062037,
+          20.1262936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7986481492",
+      "properties": {
+        "@id": "node/7986481492",
+        "addr:district": "Dadra and Nagar Haveli",
+        "addr:full": "Velugam",
+        "addr:postcode": "396235",
+        "addr:state": "Dadra and Nagar Haveli",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Velugam",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9766296,
+          20.1285013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7986497607",
+      "properties": {
+        "@id": "node/7986497607",
+        "addr:district": "Dadra and Nagar Haveli",
+        "addr:full": "Chinsda",
+        "addr:postcode": "396230",
+        "addr:state": "Dadra and Nagar Haveli",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Chinsda",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1169312,
+          20.0915657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7986515976",
+      "properties": {
+        "@id": "node/7986515976",
+        "addr:district": "Dadra and Nagar Haveli",
+        "addr:full": "Pati",
+        "addr:postcode": "396230",
+        "addr:state": "Dadra and Nagar Haveli",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Pati",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0474158,
+          20.1815119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7986520615",
+      "properties": {
+        "@id": "node/7986520615",
+        "addr:district": "Dadra and Nagar Haveli",
+        "addr:full": "Sindoni",
+        "addr:postcode": "396230",
+        "addr:state": "Dadra and Nagar Haveli",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Sindoni",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1674808,
+          20.084632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7986521809",
+      "properties": {
+        "@id": "node/7986521809",
+        "addr:district": "Dadra and Nagar Haveli",
+        "addr:full": "Gunsa",
+        "addr:postcode": "396230",
+        "addr:state": "Dadra and Nagar Haveli",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Gunsa",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1769329,
+          20.1714628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7986528352",
+      "properties": {
+        "@id": "node/7986528352",
+        "addr:district": "Dadra and Nagar Haveli",
+        "addr:full": "Amli",
+        "addr:postcode": "396230",
+        "addr:state": "Dadra and Nagar Haveli",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Amli",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0135368,
+          20.2971763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7986532958",
+      "properties": {
+        "@id": "node/7986532958",
+        "addr:district": "Dadra and Nagar Haveli",
+        "addr:full": "Vansda",
+        "addr:postcode": "396230",
+        "addr:state": "Dadra and Nagar Haveli",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Vansda",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1616386,
+          20.105502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7986536665",
+      "properties": {
+        "@id": "node/7986536665",
+        "addr:district": "Dadra and Nagar Haveli",
+        "addr:full": "Galonda",
+        "addr:postcode": "396230",
+        "addr:state": "Dadra and Nagar Haveli",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Galonda",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0734671,
+          20.29783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7986573214",
+      "properties": {
+        "@id": "node/7986573214",
+        "addr:district": "Dadra and Nagar Haveli",
+        "addr:full": "Falandi",
+        "addr:postcode": "396230",
+        "addr:state": "Dadra and Nagar Haveli",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Falandi",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0653809,
+          20.2692562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7986593590",
+      "properties": {
+        "@id": "node/7986593590",
+        "addr:district": "Dadra and Nagar Haveli",
+        "addr:full": "Kudacha",
+        "addr:postcode": "396240",
+        "addr:state": "Dadra and Nagar Haveli",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Kudacha",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0185549,
+          20.2224523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7986593691",
+      "properties": {
+        "@id": "node/7986593691",
+        "addr:district": "Dadra and Nagar Haveli",
+        "addr:full": "Morkhal",
+        "addr:postcode": "396230",
+        "addr:state": "Dadra and Nagar Haveli",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Morkhal",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1011934,
+          20.3350682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7986594606",
+      "properties": {
+        "@id": "node/7986594606",
+        "addr:district": "Dadra and Nagar Haveli",
+        "addr:full": "Kherdi",
+        "addr:postcode": "396230",
+        "addr:state": "Dadra and Nagar Haveli",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Kherdi",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0208384,
+          20.1080292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7986692526",
+      "properties": {
+        "@id": "node/7986692526",
+        "addr:district": "Dadra and Nagar Haveli",
+        "addr:full": "Chinchpada",
+        "addr:postcode": "396240",
+        "addr:state": "Dadra and Nagar Haveli",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Chinchpada",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9964987,
+          20.211233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7986711311",
+      "properties": {
+        "@id": "node/7986711311",
+        "addr:district": "Dadra and Nagar Haveli",
+        "addr:full": "Chikhali",
+        "addr:postcode": "396240",
+        "addr:state": "Dadra and Nagar Haveli",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Chikhali",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9982348,
+          20.1811381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7986717180",
+      "properties": {
+        "@id": "node/7986717180",
+        "addr:district": "Dadra and Nagar Haveli",
+        "addr:full": "Bonta",
+        "addr:postcode": "396230",
+        "addr:state": "Dadra and Nagar Haveli",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Bonta",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1227402,
+          20.2783731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7986738596",
+      "properties": {
+        "@id": "node/7986738596",
+        "addr:district": "Dadra and Nagar Haveli",
+        "addr:full": "Sili",
+        "addr:postcode": "396230",
+        "addr:state": "Dadra and Nagar Haveli",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "SubCentre, Sili",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0617486,
+          20.3079057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13915057737",
+      "properties": {
+        "@id": "node/13915057737",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "cardiology;general",
+        "name": "Shivam Hospital",
+        "operator": "Dr. Brijal Patel",
+        "operator:type": "private"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8376067,
+          20.4180495
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,5400 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-11-07T11:35:55Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/361004663",
+      "properties": {
+        "@id": "way/361004663",
+        "addr:district": "West",
+        "addr:full": "Umakanta Academy School, Hospital Road,Dhaleswar, Agartala",
+        "addr:postcode": "799001",
+        "addr:state": "Tripura",
+        "amenity": "hospital",
+        "contact:phone": "0381 2323331,3812325606",
+        "description": "Hospital",
+        "name": "IGM Civil Hospital",
+        "source": "OpenGovernmentData",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.2759815,
+          23.8308032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/750987104",
+      "properties": {
+        "@id": "way/750987104",
+        "addr:district": "West Tripura",
+        "addr:full": "Kunjaban, Near Kendriya Vidyalay, Capital Complex Extension",
+        "addr:postcode": "799006",
+        "addr:state": "Tripura",
+        "amenity": "hospital",
+        "health_facility:type": "Laboratory, Pharmacy, Radiology, Ambulance, Ultrasound and Colour Doppler, Echocardiography, 16-slice CT, Digital X-Rays, Operating Theatre, Blood Bank",
+        "healthcare:speciality": "multispecialty",
+        "name": "ILS Hospital",
+        "operator:type": "private",
+        "source": "OpenGovernmentData",
+        "website": "https://www.ilshospitals.com/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.2890509,
+          23.8674648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/819658989",
+      "properties": {
+        "@id": "way/819658989",
+        "addr:district": "South Tripura",
+        "addr:full": "Belonia",
+        "addr:postcode": "799155",
+        "addr:state": "Tripura",
+        "amenity": "hospital",
+        "name": "Sub-Divisional Hospital",
+        "source": "Local Knowledge",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.4575003,
+          23.2516882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/830353584",
+      "properties": {
+        "@id": "way/830353584",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.1588879,
+          24.3901922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1063540299",
+      "properties": {
+        "@id": "way/1063540299",
+        "addr:district": "South Tripura",
+        "addr:full": "Near Sabroom Motor Stand, Sabroom NP, Sabroom",
+        "addr:postcode": "799145",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Satchand",
+        "amenity": "hospital",
+        "building": "hospital",
+        "description": "Sub-District Hospital",
+        "name": "Sabroom Sub-divisional Hospital",
+        "source": "OpenGovernmentData",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7276884,
+          23.0037033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5395420944",
+      "properties": {
+        "@id": "node/5395420944",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Niramoy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.2785856,
+          23.7784002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6268608185",
+      "properties": {
+        "@id": "node/6268608185",
+        "amenity": "hospital",
+        "name": "Brijondernagar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.1588775,
+          24.4838806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6757678358",
+      "properties": {
+        "@id": "node/6757678358",
+        "healthcare": "alternative",
+        "name": "HOMEOPATHY CLINIC by Dr Sangeeta nath"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.3670021,
+          23.8356932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6905030116",
+      "properties": {
+        "@id": "node/6905030116",
+        "addr:city": "Udaipur",
+        "addr:district": "Gomati",
+        "addr:full": "District Hospital, Near Tepania Eco Park, Udaipur Gomati",
+        "addr:postcode": "799114",
+        "addr:state": "Tripura",
+        "amenity": "hospital",
+        "contact:mobile": "9436131338",
+        "email": "bloodbankdhg@gmail.com",
+        "fax": "03821 222410",
+        "healthcare": "hospital",
+        "name": "Gomati District Hospital",
+        "opening_hours": "24/7",
+        "operator": "state govt.",
+        "operator:type": "government",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.4556831,
+          23.5545804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6908065217",
+      "properties": {
+        "@id": "node/6908065217",
+        "addr:district": "South Tripura",
+        "addr:full": "Near Nutan Bazar Market, Nutan Bazar",
+        "addr:postcode": "799104",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Karbuk",
+        "amenity": "clinic",
+        "healthcare": "centre",
+        "name": "Natunbazar Rural Hospital(CHC)",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7537865,
+          23.4302601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6908083719",
+      "properties": {
+        "@id": "node/6908083719",
+        "addr:district": "North",
+        "addr:full": "Kanchanpur ADC Village",
+        "addr:postcode": "799270",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Dasda",
+        "amenity": "hospital",
+        "description": "Sub-District Hospital",
+        "name": "Kanchanpur Sub-divisional Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.1985665,
+          24.0396985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6908083736",
+      "properties": {
+        "@id": "node/6908083736",
+        "addr:district": "South",
+        "addr:full": "Near South manubazar High School, Manu Bazar, Manu Bazar",
+        "addr:postcode": "799143",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Satchand",
+        "amenity": "hospital",
+        "healthcare": "centre",
+        "name": "Manubazar Rural Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.6445223,
+          23.0668626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6908083760",
+      "properties": {
+        "@id": "node/6908083760",
+        "addr:block": "Kailashahar",
+        "addr:district": "Unakoti",
+        "addr:full": "Opposite of District Jail, Kailashahar, Ward No. 11",
+        "addr:postcode": "799277",
+        "addr:state": "Tripura",
+        "amenity": "hospital",
+        "description": "Sub-District Hospital",
+        "name": "Rajib Gandhi Memorial Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.0025198,
+          24.3180247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6908083765",
+      "properties": {
+        "@id": "node/6908083765",
+        "addr:district": "Gomati",
+        "addr:full": "Near DM Office, Dak Bunglow Rd",
+        "addr:postcode": "799120",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Matarbari",
+        "amenity": "hospital",
+        "description": "Sub-District Hospital",
+        "name": "Tripura Sundari Sub divisional Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.4974934,
+          23.5363433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6908083775",
+      "properties": {
+        "@id": "node/6908083775",
+        "addr:block": "Belonia",
+        "addr:district": "South",
+        "addr:full": "Near 1 No Tilla Bazar, Belonia MC, 1 No Tilla Bazar",
+        "addr:postcode": "799155",
+        "addr:state": "Tripura",
+        "amenity": "hospital",
+        "contact:phone": "3823222204",
+        "description": "Sub-District Hospital",
+        "name": "Belonia Sub-divisional Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.4676967,
+          23.2505139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6908083780",
+      "properties": {
+        "@id": "node/6908083780",
+        "addr:district": "West Tripura",
+        "addr:full": "Sakuntala Road Extension, Palace Compound Agartala",
+        "addr:postcode": "799001",
+        "addr:state": "Tripura",
+        "amenity": "clinic",
+        "name": "Life Line Nursing Home and Research Centre",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.2809747,
+          23.834373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6908094337",
+      "properties": {
+        "@id": "node/6908094337",
+        "addr:district": "North Tripura",
+        "addr:full": "Hospital Road Dharmanagar Dharmanagar",
+        "addr:postcode": "799250",
+        "addr:state": "Tripura",
+        "amenity": "hospital",
+        "name": "Mahanam Seva Sadan",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.160176,
+          24.3900466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6908094342",
+      "properties": {
+        "@id": "node/6908094342",
+        "addr:district": "North Tripura",
+        "addr:full": "Kumarghat, Uttar Kumarghat Rd, Hospital Road",
+        "addr:postcode": "799264",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Kumarghat",
+        "amenity": "clinic",
+        "healthcare": "centre",
+        "name": "Kumarghat Rural Hospital (CHC)",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.0325857,
+          24.1676845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6908094348",
+      "properties": {
+        "@id": "node/6908094348",
+        "addr:district": "West Tripura",
+        "addr:full": "46, Hgb Road, Agartala",
+        "addr:postcode": "799001",
+        "addr:state": "Tripura",
+        "amenity": "clinic",
+        "name": "Sarkar Clinic and Nursing Home",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.2773417,
+          23.8289863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6908094353",
+      "properties": {
+        "@id": "node/6908094353",
+        "addr:district": "West Tripura",
+        "addr:full": "Kalyanpur Bazar, Kalyanpur",
+        "addr:postcode": "799203",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Kalyanpur",
+        "amenity": "clinic",
+        "healthcare": "centre",
+        "name": "Kalyanpur Rural Hospital(CHC)",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.6098458,
+          23.9322231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6908100786",
+      "properties": {
+        "@id": "node/6908100786",
+        "addr:district": "West Tripura",
+        "addr:full": "9A, PO: Chowmuhani, 67 Mantribari Road Agartala",
+        "addr:postcode": "799001",
+        "addr:state": "Tripura",
+        "amenity": "hospital",
+        "name": "Agartala Hospital And Research Centre",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.2784789,
+          23.8303051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6908100806",
+      "properties": {
+        "@id": "node/6908100806",
+        "addr:district": "South Tripura",
+        "addr:full": "Near Agartala Bishalgarh Road, Bishalgarh Sub Division, Bishalgarh",
+        "addr:postcode": "799102",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Bishalgarh",
+        "amenity": "hospital",
+        "name": "Bishalghar S.D. Hospital, West Tripura",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.2794593,
+          23.6828067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6908100827",
+      "properties": {
+        "@id": "node/6908100827",
+        "addr:district": "Gomati",
+        "addr:full": "East Bank of Fatik Sagar, Sukumar Colony, Hospital Road, Amarpur Nagar Panchayet",
+        "addr:postcode": "799101",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Amarpur",
+        "amenity": "hospital",
+        "contact:phone": "03821 263557",
+        "description": "Sub-District Hospital",
+        "name": "Amarpur Sub divisional Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.6502009,
+          23.5166478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6908100832",
+      "properties": {
+        "@id": "node/6908100832",
+        "addr:district": "North",
+        "addr:full": "Dharmanagar",
+        "addr:postcode": "799251",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Kadamtala",
+        "amenity": "hospital",
+        "description": "Sub-District Hospital",
+        "name": "Dharmanagar Sub-divisional Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.1590334,
+          24.3903666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6908108234",
+      "properties": {
+        "@id": "node/6908108234",
+        "addr:district": "Dhalai",
+        "addr:full": "NEAR CHAILENGTA H/S SCHOOL, Chailengta LONGTHORAI VALLEY SUB DIVISION, CHAILENGTA",
+        "addr:postcode": "799273",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Manu",
+        "amenity": "hospital",
+        "description": "Sub-District Hospital",
+        "name": "Chailengta Sub Divisional Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.0077421,
+          23.9511506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6908108239",
+      "properties": {
+        "@id": "node/6908108239",
+        "addr:district": "Dhalai",
+        "addr:full": "English Midium School, Kamalpur NP Kamalpur Sub Division, Baligaon Noagaon Road",
+        "addr:postcode": "799285",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Durga Choumuhani",
+        "amenity": "hospital",
+        "contact:phone": "3826262232",
+        "description": "Sub-District Hospital",
+        "name": "Bimal Sinha Memorial S.D. Hospital, Dhalai",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8280891,
+          24.1973668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6908108252",
+      "properties": {
+        "@id": "node/6908108252",
+        "addr:district": "Khowai",
+        "addr:full": "Lalchara, Khowai Sub division, Nripen Chakraborty Avenue",
+        "addr:postcode": "799201",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Khowai",
+        "amenity": "hospital",
+        "description": "District Hospital",
+        "name": "Khowai District Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.6025823,
+          24.0715915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6908108263",
+      "properties": {
+        "@id": "node/6908108263",
+        "addr:district": "West Tripura",
+        "addr:full": "Kunjaban, Agartala",
+        "addr:postcode": "799006",
+        "addr:state": "Tripura",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Govinda Ballav Panth Hospital, West Tripura",
+        "name:etymology:wikidata": "Q2724411",
+        "operator:type": "government",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.2916915,
+          23.8596535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6908111085",
+      "properties": {
+        "@id": "node/6908111085",
+        "addr:district": "West Tripura",
+        "addr:full": "Regd No: F.Cmo(W) 9(217), Cle/2011 24 Dimsagar, Opposite Astable Ground, Vip Road, Agartala",
+        "addr:postcode": "799001",
+        "addr:state": "Tripura",
+        "amenity": "hospital",
+        "name": "Devlok Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.282737,
+          23.8410733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6908111090",
+      "properties": {
+        "@id": "node/6908111090",
+        "addr:district": "West Tripura",
+        "addr:full": "Kunjaban",
+        "addr:postcode": "799006",
+        "addr:state": "Tripura",
+        "amenity": "hospital",
+        "name": "Cancer Hospital,West Tripura",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.294603,
+          23.8608346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6908111101",
+      "properties": {
+        "@id": "node/6908111101",
+        "addr:district": "West Tripura",
+        "addr:full": "A.A Road, Dhaleswar, Kalyani, Agartala",
+        "addr:postcode": "799007",
+        "addr:state": "Tripura",
+        "amenity": "clinic",
+        "name": "Bhaumik Polyclinic and Nursing Home",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.2985526,
+          23.8336848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6908111111",
+      "properties": {
+        "@id": "node/6908111111",
+        "addr:district": "West",
+        "addr:full": "Govt Medical College Street, GB Baazar, Govt Medical College Street",
+        "addr:postcode": "799006",
+        "addr:state": "Tripura",
+        "amenity": "hospital",
+        "contact:phone": "0381 235 7130",
+        "description": "Medical Colleges Hospital",
+        "email": "agmc@rediffmail.com",
+        "health_facility:type": "MRI, CT Scan, EEG, TMT, Endoscopy, Ultra Sonography, 500 mA X-ray, with IITV Echo",
+        "healthcare:speciality": "multispecialty",
+        "name": "Agartala Govt Medical College and GBP Hospital",
+        "operator:type": "government",
+        "source": "OpenGovernmentData",
+        "website": "www.agmc.nic.in"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.2928221,
+          23.8602986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7127657818",
+      "properties": {
+        "@id": "node/7127657818",
+        "addr:district": "South",
+        "addr:full": "Near Dhamadipa School, Mohamuni ADC Village, Dakshin Manu Bankul",
+        "addr:postcode": "799145",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Rupaichhari",
+        "description": "Community Health Center",
+        "healthcare": "centre",
+        "name": "Manubankul, CHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.707596,
+          23.1148806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7127657819",
+      "properties": {
+        "@id": "node/7127657819",
+        "addr:district": "Gomati",
+        "addr:full": "Near Tepania Block, Tepania",
+        "addr:postcode": "799114",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Matarbari",
+        "amenity": "hospital",
+        "description": "District Hospital",
+        "name": "District Integrated AYUSH Hospital, Gomati",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.4983684,
+          23.4848604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7127657820",
+      "properties": {
+        "@id": "node/7127657820",
+        "addr:district": "South",
+        "addr:full": "Santirbazar, Santirbazar",
+        "addr:postcode": "799144",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Jolaibari",
+        "amenity": "hospital",
+        "name": "Sub-Divsional Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.5575974,
+          23.310504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7127657821",
+      "properties": {
+        "@id": "node/7127657821",
+        "addr:district": "Unakoti",
+        "addr:full": "Pecharthal Kanchanpur Road, near, Uttar Machmara, Machmara",
+        "addr:postcode": "799263",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Pencharthal",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Machmara, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.130594,
+          24.131486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7127657822",
+      "properties": {
+        "@id": "node/7127657822",
+        "addr:district": "Dhalai",
+        "addr:full": "Ultachara, CRPF Camp Gandachara Sub Division, Ambassa Gandachara Road",
+        "addr:postcode": "799284",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Dumburnagar",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Jagabandhupara, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8083302,
+          23.6556741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7127657823",
+      "properties": {
+        "@id": "node/7127657823",
+        "addr:district": "Dhalai",
+        "addr:full": "Near by Chottasurma GP, Chottasurma Kamalpur Sub Division, Chottasurma",
+        "addr:postcode": "799285",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Durga Choumuhani",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Marachara, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8550325,
+          24.1589836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7127657824",
+      "properties": {
+        "@id": "node/7127657824",
+        "addr:district": "Dhalai",
+        "addr:full": "Near Govt Revenue Duck Bunglow, 60 Card Gandachra Sub Division, Hospital Road",
+        "addr:postcode": "799284",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Dumburnagar",
+        "amenity": "hospital",
+        "contact:phone": "3826265233",
+        "description": "Sub-District Hospital",
+        "name": "Gandacherra Sub Divisional Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8177781,
+          23.6050187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7127657825",
+      "properties": {
+        "@id": "node/7127657825",
+        "addr:district": "Unakoti",
+        "addr:full": "Near NH 44 Road, Pecharthal, Pecharthal",
+        "addr:postcode": "799263",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Pencharthal",
+        "amenity": "hospital",
+        "contact:phone": "3822265206",
+        "name": "Pecharthal Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.1042451,
+          24.1903303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7127657826",
+      "properties": {
+        "@id": "node/7127657826",
+        "addr:district": "South",
+        "addr:full": "Near Bhuratoli Road, North Bhuratoli GP, Uttar Bhuratoli",
+        "addr:postcode": "799143",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Satchand",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Kalachara, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.6268078,
+          23.1402138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7127657827",
+      "properties": {
+        "@id": "node/7127657827",
+        "addr:district": "Gomati",
+        "addr:full": "Near Atharabhola Tripura Gramin Bank, Atharabhola Para",
+        "addr:postcode": "799114",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Matarbari",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Atharabhola, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.4566533,
+          23.6209384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7127657828",
+      "properties": {
+        "@id": "node/7127657828",
+        "addr:district": "West",
+        "addr:full": "Near Champaknagar PHC, Champaknagar GP",
+        "addr:postcode": "799045",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Jirania",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Champaknagar, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.4953235,
+          23.8043893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7127657829",
+      "properties": {
+        "@id": "node/7127657829",
+        "addr:district": "Sepahijala",
+        "addr:full": "Sonamura Barpathori Road., Nidaya GP",
+        "addr:postcode": "799131",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Kathalia",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Nidaya, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.327988,
+          23.314183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7127657830",
+      "properties": {
+        "@id": "node/7127657830",
+        "addr:district": "Gomati",
+        "addr:full": "Opp. Kakraban PWD Office, Kakraban",
+        "addr:postcode": "799105",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Kakraban",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Kakraban, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.4098092,
+          23.4809103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7127657831",
+      "properties": {
+        "@id": "node/7127657831",
+        "addr:district": "Sepahijala",
+        "addr:full": "Near Boxanagar Bazar, Kalamchoura, Boxanagar",
+        "addr:postcode": "799106",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Boxanagar",
+        "description": "Community Health Center",
+        "healthcare": "centre",
+        "name": "Boxanagar, CHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.173833,
+          23.610852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7127657832",
+      "properties": {
+        "@id": "node/7127657832",
+        "addr:block": "Dharmanagar",
+        "addr:district": "North",
+        "addr:full": "Joynagar High School, Joynagar High School, Sanicherra To Chuaribari Rd.(Meddile point)",
+        "addr:postcode": "799262",
+        "addr:state": "Tripura",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Sanicherra, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.2309337,
+          24.378497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7127657833",
+      "properties": {
+        "@id": "node/7127657833",
+        "addr:district": "Gomati",
+        "addr:full": "Near Assam Rifel Camp, Killa",
+        "addr:postcode": "799114",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Killa",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Killa, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.5139593,
+          23.6149232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7127657834",
+      "properties": {
+        "@id": "node/7127657834",
+        "addr:district": "Khowai",
+        "addr:full": "Chebri Hospital, Uttar Chebri",
+        "addr:postcode": "799207",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Khowai",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Chebri, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.6256422,
+          24.0222386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7127657835",
+      "properties": {
+        "@id": "node/7127657835",
+        "addr:district": "Unakoti",
+        "addr:full": "Near Radio Center, Bhagabannagar, Gournagar",
+        "addr:postcode": "799279",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Gournagar",
+        "amenity": "hospital",
+        "description": "District Hospital",
+        "name": "District Hospital, Unakoti",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.033346,
+          24.304628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7127657836",
+      "properties": {
+        "@id": "node/7127657836",
+        "addr:district": "Sepahijala",
+        "addr:full": "Bishramganj Taxapara Road., Sonamura Sub Division, Taxapara GP",
+        "addr:postcode": "799103",
+        "addr:state": "Tripura",
+        "amenity": "hospital",
+        "name": "Taksapara hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.291481,
+          23.5641251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7127657837",
+      "properties": {
+        "@id": "node/7127657837",
+        "addr:district": "Dhalai",
+        "addr:full": "Lalchara Sub Center, Lalcharra, Lalcharra PHC",
+        "addr:postcode": "799273",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Manu",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Lalcharra, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.0381268,
+          23.9311687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7127657838",
+      "properties": {
+        "@id": "node/7127657838",
+        "addr:district": "Sepahijala",
+        "addr:full": "Near Dhanpur Bazar",
+        "addr:postcode": "799131",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Kathalia",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Dhanpur, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.280186,
+          23.4219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7127657839",
+      "properties": {
+        "@id": "node/7127657839",
+        "addr:district": "South",
+        "addr:full": "Near Cold Storage, Joypur GP, Joypur",
+        "addr:postcode": "799156",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Hrishyamukh",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Nalua, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.5363,
+          23.077206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7127657840",
+      "properties": {
+        "@id": "node/7127657840",
+        "addr:district": "Dhalai",
+        "addr:full": "Near Jamthum Bazar, Jamthum Kamalpur Sub Division, Jamthum Bazar Road",
+        "addr:postcode": "799286",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Salema",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Jamthum, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8500791,
+          24.0595745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7127657841",
+      "properties": {
+        "@id": "node/7127657841",
+        "addr:district": "Sepahijala",
+        "addr:full": "Near Thalakung CRPF Camp., Thalakung ADC",
+        "addr:postcode": "799114",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Jampuijala",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Thelakung, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.5030952,
+          23.6685402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7127657842",
+      "properties": {
+        "@id": "node/7127657842",
+        "addr:district": "South",
+        "addr:full": "Near Muhuripur Bazar, Muhuripur RF GP, Muhuripur",
+        "addr:postcode": "799142",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Jolaibari",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Muhuripur, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.5701374,
+          23.227229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7127657843",
+      "properties": {
+        "@id": "node/7127657843",
+        "addr:district": "South",
+        "addr:full": "Near Hrishyamukh School, Haripur GP, Haripur",
+        "addr:postcode": "799156",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Hrishyamukh",
+        "description": "Community Health Center",
+        "healthcare": "centre",
+        "name": "Hrishyamukh, CHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.5296157,
+          23.118109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7127657844",
+      "properties": {
+        "@id": "node/7127657844",
+        "addr:district": "Sepahijala",
+        "addr:full": "Near Kamal Nagar Bazar, Boxanagar Sonamura Road",
+        "addr:postcode": "799102",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Boxanagar",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Kamalnagar, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.213275,
+          23.557377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7127657845",
+      "properties": {
+        "@id": "node/7127657845",
+        "addr:district": "South",
+        "addr:full": "Behind Baikhora Girls H.S School, East Charakbai GP, Baikhora Laxmichara Road",
+        "addr:postcode": "799142",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Bokafa",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Baikhora, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.5776803,
+          23.2707782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7127657846",
+      "properties": {
+        "@id": "node/7127657846",
+        "addr:district": "West",
+        "addr:full": "Near Borakha Panchayet Office, Jirania Sub-Division, Borakha Para",
+        "addr:postcode": "799008",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Mandai",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Borakha, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.4389824,
+          23.8863675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7127657847",
+      "properties": {
+        "@id": "node/7127657847",
+        "addr:district": "South",
+        "addr:full": "Near Forest Beat Office, Paikhola GP, Paikhola",
+        "addr:postcode": "799125",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Rajnagar",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Paikhola, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.4890474,
+          23.3367451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7127657848",
+      "properties": {
+        "@id": "node/7127657848",
+        "addr:district": "Khowai",
+        "addr:full": "Ampura Sub Centre, Ampura",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Padmabil",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Ampura, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.577049,
+          23.999808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7127657849",
+      "properties": {
+        "@id": "node/7127657849",
+        "addr:block": "Kanchanpur",
+        "addr:district": "North",
+        "addr:full": "near dasda bazar, Uttar Dasda ADC Village",
+        "addr:postcode": "799271",
+        "addr:state": "Tripura",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Dasda, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.204554,
+          23.947492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7127657850",
+      "properties": {
+        "@id": "node/7127657850",
+        "addr:district": "West",
+        "addr:full": "West Tripura, Ranir Bazar",
+        "addr:postcode": "799035",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Jirania",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Ranirbazar, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.3720436,
+          23.8357797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7127657851",
+      "properties": {
+        "@id": "node/7127657851",
+        "addr:district": "South",
+        "addr:full": "Near Samar Choudhury Smriti Milanyatan, Barpathari GP, Belonia - Bhabanipur Rd",
+        "addr:postcode": "799155",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Rajnagar",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Barpathari, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.404781,
+          23.297425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7127657852",
+      "properties": {
+        "@id": "node/7127657852",
+        "addr:district": "Sepahijala",
+        "addr:full": "Near Taibandal Bazar, Sonamura Sub Division, North Taibandal GP",
+        "addr:postcode": "799115",
+        "addr:state": "Tripura",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Taibandal, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.3718885,
+          23.4387543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7127657853",
+      "properties": {
+        "@id": "node/7127657853",
+        "addr:district": "South",
+        "addr:full": "Near Chottakhola HS School, Uttar Srirampur GP, Bhairabnagar",
+        "addr:postcode": "799015",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Rajnagar",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Chottakhola, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.3792359,
+          23.1144191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7127657854",
+      "properties": {
+        "@id": "node/7127657854",
+        "addr:district": "South",
+        "addr:full": "Near Maichara Bazar, Maichara, Belonia Sub division, Maichara",
+        "addr:postcode": "799155",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Rajnagar",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Maichara, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.5141774,
+          23.2696842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7127657855",
+      "properties": {
+        "@id": "node/7127657855",
+        "addr:district": "Unakoti",
+        "addr:full": "Near Fatikroy Class XII School, Fatikroy, Fatikroy - Kumarghat Road",
+        "addr:postcode": "799290",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Kumarghat",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Fatikroy, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.0213802,
+          24.1776219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7127657856",
+      "properties": {
+        "@id": "node/7127657856",
+        "addr:district": "Unakoti",
+        "addr:full": "Kailashahar, Kailashahar",
+        "addr:postcode": "799277",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Gournagar",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Shamrurpar, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.005314,
+          24.329704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7127657857",
+      "properties": {
+        "@id": "node/7127657857",
+        "addr:district": "Gomati",
+        "addr:full": "Near 10th BN BSF Camp, Maharani Bazar",
+        "addr:postcode": "799013",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Matarbari",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Maharani, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.563142,
+          23.512957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7127657858",
+      "properties": {
+        "@id": "node/7127657858",
+        "addr:district": "West",
+        "addr:full": "Gandhigram baazar, Gandhigram Baazar, Bamutia Road",
+        "addr:postcode": "799012",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Mohanpur",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Gandhigram, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.2804389,
+          23.891768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7127657859",
+      "properties": {
+        "@id": "node/7127657859",
+        "addr:district": "Dhalai",
+        "addr:full": "82 Mile Longtharai Valley Sub Division",
+        "addr:postcode": "799288",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Manu",
+        "amenity": "clinic",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "82-Mile, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9993696,
+          24.0823027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7127657860",
+      "properties": {
+        "@id": "node/7127657860",
+        "addr:district": "Gomati",
+        "addr:full": "Near Uttar Tulamura Gram Panchayat, Uttar Tulamura GP",
+        "addr:postcode": "799105",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Kakraban",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Tulamura, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.4471934,
+          23.4266408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7127657861",
+      "properties": {
+        "@id": "node/7127657861",
+        "addr:district": "West",
+        "addr:full": "Chandpur, Yacharai Market, Asrai",
+        "addr:postcode": "799211",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Hezamara",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Chachubazar, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.463139,
+          23.931401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7127657862",
+      "properties": {
+        "@id": "node/7127657862",
+        "addr:district": "Gomati",
+        "addr:full": "Near Ompinagar Motor Syndicate, Ompinagar",
+        "addr:postcode": "799101",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Amarpur",
+        "description": "Community Health Center",
+        "healthcare": "centre",
+        "name": "Ompi, CHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.6348024,
+          23.6764821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7127657863",
+      "properties": {
+        "@id": "node/7127657863",
+        "addr:district": "West",
+        "addr:full": "Jirania, Jirania GP",
+        "addr:postcode": "799035",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Jirania",
+        "description": "Community Health Center",
+        "healthcare": "centre",
+        "name": "Jirania, CHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.4491322,
+          23.8219734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7127657864",
+      "properties": {
+        "@id": "node/7127657864",
+        "addr:district": "Dhalai",
+        "addr:full": "Chandrai Chara Ambassa Sub Division, Railway Station Road",
+        "addr:postcode": "799289",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Ambassa",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Ambasa, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8556111,
+          23.9263272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7127657865",
+      "properties": {
+        "@id": "node/7127657865",
+        "addr:block": "Dharmanagar",
+        "addr:district": "North",
+        "addr:full": "Sripur Gram Panchayet",
+        "addr:postcode": "799254",
+        "addr:state": "Tripura",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Bungnung, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.1182608,
+          24.369776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7127657866",
+      "properties": {
+        "@id": "node/7127657866",
+        "addr:district": "South",
+        "addr:full": "Kowaifung Bazar, Kowaifung Turma ADC Village",
+        "addr:postcode": "799104",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Bokafa",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Kowaifung, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.6991821,
+          23.239399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7127657867",
+      "properties": {
+        "@id": "node/7127657867",
+        "addr:district": "Sepahijala",
+        "addr:full": "Near T. S. R. Camp, Dayarampara ADC Village.",
+        "addr:postcode": "799102",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Bishalgarh",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Dayarampara, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.369235,
+          23.679201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7127657868",
+      "properties": {
+        "@id": "node/7127657868",
+        "addr:district": "South",
+        "addr:full": "Near Ratanpur Bazar, Golachipa, Dakshin Sonaichhari",
+        "addr:postcode": "799155",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Hrishyamukh",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Ratanpur, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.527254,
+          23.226004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7127657869",
+      "properties": {
+        "@id": "node/7127657869",
+        "addr:district": "Sepahijala",
+        "addr:full": "Near Kathalia RD Block, Kathalia",
+        "addr:postcode": "799131",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Kathalia",
+        "description": "Community Health Center",
+        "healthcare": "centre",
+        "name": "Kathalia, CHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.320954,
+          23.3667701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7127657870",
+      "properties": {
+        "@id": "node/7127657870",
+        "addr:district": "North",
+        "addr:full": "Purba Bhandarima ADC Village",
+        "addr:postcode": "799271",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Dasda",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Bhandarima, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.227571,
+          23.768532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7127657872",
+      "properties": {
+        "@id": "node/7127657872",
+        "addr:district": "Dhalai",
+        "addr:full": "Near To DWS Water Tank, Hospital Para Longtharai Valley Sub Division, DWS Water Tank Road",
+        "addr:postcode": "799275",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Manu",
+        "description": "Community Health Center",
+        "healthcare": "centre",
+        "name": "Manu, CHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9929977,
+          23.991752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7127657873",
+      "properties": {
+        "@id": "node/7127657873",
+        "addr:district": "North",
+        "addr:postcode": "799251",
+        "addr:state": "Tripura",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Dharmanagar District Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.157739,
+          24.38992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7127657874",
+      "properties": {
+        "@id": "node/7127657874",
+        "addr:district": "Sepahijala",
+        "addr:full": "Hospital Road, Sonamura NP, Sonamura Town",
+        "addr:postcode": "799131",
+        "addr:state": "Tripura",
+        "amenity": "hospital",
+        "name": "Sonamura Gramin Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.263053,
+          23.48445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7127657875",
+      "properties": {
+        "@id": "node/7127657875",
+        "addr:district": "West",
+        "addr:full": "Near Narsinghar H S school, Narshingarh Gram Panchayet",
+        "addr:postcode": "799009",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Mohanpur",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Narsinghar, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.249742,
+          23.907302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7127657876",
+      "properties": {
+        "@id": "node/7127657876",
+        "addr:district": "West",
+        "addr:full": "Ushabazar Road, Paschim Bhubanban High School, Bhubanban",
+        "addr:postcode": "799009",
+        "addr:state": "Tripura",
+        "description": "Health Centre",
+        "healthcare": "centre",
+        "name": "Paschim Bhubanban Urban Primary Health Centre",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.254898,
+          23.867122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7127657877",
+      "properties": {
+        "@id": "node/7127657877",
+        "addr:district": "West",
+        "addr:full": "Near Laxmichara High Sencondary School, Kanchanmala, Shekerkot Kanchamala Road",
+        "addr:postcode": "799130",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Dukli",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Kanchanmala, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.3161041,
+          23.7359279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7127657878",
+      "properties": {
+        "@id": "node/7127657878",
+        "addr:district": "West",
+        "addr:full": "Near Anandanagar Ramkrishna Ashram and Panchayet Office",
+        "addr:postcode": "799004",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Dukli",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Anandanagar, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.3207342,
+          23.786974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7127657879",
+      "properties": {
+        "@id": "node/7127657879",
+        "addr:district": "North",
+        "addr:full": "Near Panisagar Block Office & Opposite of Panisagar PWD Office, Panisagar Nagar Panchayat",
+        "addr:postcode": "799260",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Panisagar",
+        "description": "Community Health Center",
+        "healthcare": "centre",
+        "name": "Panisagar, CHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.154381,
+          24.267145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7127657880",
+      "properties": {
+        "@id": "node/7127657880",
+        "addr:district": "North",
+        "addr:full": "Near Kadamtala HS School, Kadamtala Gram Panchayet",
+        "addr:postcode": "799261",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Kadamtala",
+        "description": "Community Health Center",
+        "healthcare": "centre",
+        "name": "Kadamtala, CHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.2116164,
+          24.4565271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7127657881",
+      "properties": {
+        "@id": "node/7127657881",
+        "addr:district": "North",
+        "addr:full": "Near Anandasagar ADC village committee office, Khakchang ADC Village",
+        "addr:postcode": "799271",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Dasda",
+        "description": "Community Health Center",
+        "healthcare": "centre",
+        "name": "Anandabazar, CHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.2064907,
+          23.8599482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7127657882",
+      "properties": {
+        "@id": "node/7127657882",
+        "addr:district": "Khowai",
+        "addr:full": "Ratanpura SC, Ratanpur",
+        "addr:postcode": "799201",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Padmabil",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Dasharat Deb Memorial, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.520825,
+          24.045013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7127657883",
+      "properties": {
+        "@id": "node/7127657883",
+        "addr:district": "Dhalai",
+        "addr:full": "Near Salema Bazar, Salema Kamalpur Sub Division, Kamalpur Ambassa Road",
+        "addr:postcode": "799278",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Salema",
+        "amenity": "clinic",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Salema, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8345091,
+          24.0128857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7127657884",
+      "properties": {
+        "@id": "node/7127657884",
+        "addr:district": "Unakoti",
+        "addr:full": "Near Singirbil Bazar, Fultali, Fultali",
+        "addr:postcode": "799280",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Gournagar",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Kanika Memorial, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9846475,
+          24.2440527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7127657885",
+      "properties": {
+        "@id": "node/7127657885",
+        "addr:district": "West",
+        "addr:full": "Near Mandwi Bazar, Mandwi ADC Village",
+        "addr:postcode": "799045",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Mandai",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Mandwi, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.480538,
+          23.862949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7127657886",
+      "properties": {
+        "@id": "node/7127657886",
+        "addr:district": "South",
+        "addr:full": "Opps Divisional PWD Office, Santirbazar, Santirbazar, Santirbazar Trijunction",
+        "addr:postcode": "799144",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Bokafa",
+        "amenity": "hospital",
+        "description": "District Hospital",
+        "name": "District Hospital South",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.555177,
+          23.316526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7127657887",
+      "properties": {
+        "@id": "node/7127657887",
+        "addr:district": "Gomati",
+        "addr:full": "Near Silachai Dak Bangla, Netaji Pally",
+        "addr:postcode": "799104",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Silachari",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Silachari, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7709759,
+          23.2310128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7127657888",
+      "properties": {
+        "@id": "node/7127657888",
+        "addr:district": "Dhalai",
+        "addr:full": "Near to Dhumachara Market, Basana Rouaja Para Longtharai Valley Sub Division, Dhumachara Market",
+        "addr:postcode": "799275",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Manu",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Dhumacherra, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9814849,
+          24.0101166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7127657889",
+      "properties": {
+        "@id": "node/7127657889",
+        "addr:district": "North",
+        "addr:full": "Near NH-44 (Bagbassa-Panisagar Road), Uptakhali Gram Panchayet",
+        "addr:postcode": "799260",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Jubarajnagar",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Uptakhali, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.1770952,
+          24.322003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7127657890",
+      "properties": {
+        "@id": "node/7127657890",
+        "addr:district": "Dhalai",
+        "addr:full": "Nepaltilla Longtharai Valley Sub Division, Nepaltilla",
+        "addr:postcode": "799275",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Manu",
+        "amenity": "clinic",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Nepaltilla, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9459111,
+          24.0838016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7127657891",
+      "properties": {
+        "@id": "node/7127657891",
+        "addr:district": "North",
+        "addr:full": "Near Jampui Hill R.D Block, vangmun ADC Village",
+        "addr:postcode": "799269",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Jampuii hills",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Jampui, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.278732,
+          24.002147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7127657892",
+      "properties": {
+        "@id": "node/7127657892",
+        "addr:district": "Khowai",
+        "addr:full": "Tulashikhar Bazar, Tulashikhar",
+        "addr:postcode": "799207",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Tulashikhar",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Tulashikar, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.6829854,
+          24.0116025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7127657893",
+      "properties": {
+        "@id": "node/7127657893",
+        "addr:district": "Sepahijala",
+        "addr:full": "Near Matinagar Bazar, Motinagar",
+        "addr:postcode": "799131",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Boxanagar",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Matinagar, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.2274473,
+          23.5180894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7127657894",
+      "properties": {
+        "@id": "node/7127657894",
+        "addr:district": "Dhalai",
+        "addr:full": "Near Raishyabari Police Station, Purba Potachhara, Rajbari Road",
+        "addr:postcode": "799104",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Dumburnagar",
+        "contact:phone": "3826217742",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Raishyabari, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9143,
+          23.45547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7127657895",
+      "properties": {
+        "@id": "node/7127657895",
+        "addr:district": "South",
+        "addr:full": "Near DWS Office, North Jolaibari GP, North Jolaibari",
+        "addr:postcode": "799141",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Jolaibari",
+        "description": "Community Health Center",
+        "healthcare": "centre",
+        "name": "Jolaibari, CHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.612184,
+          23.225287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7127657896",
+      "properties": {
+        "@id": "node/7127657896",
+        "addr:district": "Khowai",
+        "addr:full": "Baijalbari PHC, Baijalbari",
+        "addr:postcode": "799201",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Padmabil",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Baijalbari, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.552167,
+          24.014732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7127657897",
+      "properties": {
+        "@id": "node/7127657897",
+        "addr:district": "Sepahijala",
+        "addr:full": "Near Bishramganj Bazar, Shillong - Agartala - Sabrum Rd, Bishramganj GP",
+        "addr:postcode": "799103",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Bishalgarh",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Bishramganj, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.350772,
+          23.608801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7127657898",
+      "properties": {
+        "@id": "node/7127657898",
+        "addr:district": "North",
+        "addr:full": "Near Maheswar J.B School, Sabual ADC Village",
+        "addr:postcode": "799269",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Jampuii hills",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Sabual, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.2664274,
+          23.8669463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7127657899",
+      "properties": {
+        "@id": "node/7127657899",
+        "addr:district": "North",
+        "addr:full": "Near Khedacherra TGB, Khedacherra ADC Village",
+        "addr:postcode": "799256",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Damchhara",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Khedacherra, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.3253294,
+          24.0988655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7127657900",
+      "properties": {
+        "@id": "node/7127657900",
+        "addr:district": "South",
+        "addr:full": "Near BC Nagar Bazar, BC Nagar ADC Village, BC Nagar",
+        "addr:postcode": "799125",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Bokafa",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Birchandra Memorial Hospital, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.5047888,
+          23.3756537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7127657901",
+      "properties": {
+        "@id": "node/7127657901",
+        "addr:district": "Dhalai",
+        "addr:full": "Basudebpara GP, Kulai Basudebpara Ambasa Sub Division, Ambassa Kamalpur Road",
+        "addr:postcode": "799278",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Ambassa",
+        "amenity": "hospital",
+        "description": "District Hospital",
+        "name": "Dhalai District Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8252174,
+          23.9551603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7127657902",
+      "properties": {
+        "@id": "node/7127657902",
+        "addr:district": "South",
+        "addr:full": "Near Rajnagar RD Block Office, Rajnagar GP, Rajnagar",
+        "addr:postcode": "799150",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Rajnagar",
+        "description": "Community Health Center",
+        "healthcare": "centre",
+        "name": "Rajnagar, CHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.3956458,
+          23.2351652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7127657903",
+      "properties": {
+        "@id": "node/7127657903",
+        "addr:district": "West",
+        "addr:full": "Megliband part",
+        "addr:postcode": "799212",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Mohanpur",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Katlamara, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.39612,
+          24.067331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7127657904",
+      "properties": {
+        "@id": "node/7127657904",
+        "addr:district": "West",
+        "addr:full": "Taltala School & Sri Krishna Mission School, Taltala, Near Taltala Baazar",
+        "addr:postcode": "799211",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Mohanpur",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Bamutia, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.2854507,
+          23.9646761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7127657905",
+      "properties": {
+        "@id": "node/7127657905",
+        "addr:district": "Sepahijala",
+        "addr:full": "Near Nalchar Bazar., Paschim Nalchar, Nalchar.",
+        "addr:postcode": "799115",
+        "addr:state": "Tripura",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Sukumar Barman Memorial, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.355324,
+          23.551637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7127657906",
+      "properties": {
+        "@id": "node/7127657906",
+        "addr:district": "Gomati",
+        "addr:full": "Near Chellagang Bazar, Chellagang",
+        "addr:postcode": "799144",
+        "addr:state": "Tripura",
+        "addr:subdistrict": "Karbuk",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Chellagang, PHC",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.6800006,
+          23.4255735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7149251864",
+      "properties": {
+        "@id": "node/7149251864",
+        "addr:full": "telkajla",
+        "addr:state": "Tripura",
+        "description": "Health- Sub Centre",
+        "healthcare": "centre",
+        "name": "Sub Centre, telkajla",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.3301356,
+          23.4868754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7149251869",
+      "properties": {
+        "@id": "node/7149251869",
+        "addr:full": "Barabhaiya",
+        "addr:state": "Tripura",
+        "description": "Health- Sub Centre",
+        "healthcare": "centre",
+        "name": "Sub Health Center ,Barabhaiya",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.4336528,
+          23.5630824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7149251874",
+      "properties": {
+        "@id": "node/7149251874",
+        "addr:full": "Baraiya",
+        "addr:state": "Tripura",
+        "description": "Health- Sub Centre",
+        "healthcare": "centre",
+        "name": "Health Sub Centre ,Gouranga Bazar",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.3949364,
+          23.0749064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7149251879",
+      "properties": {
+        "@id": "node/7149251879",
+        "addr:full": "Bamutia",
+        "addr:state": "Tripura",
+        "description": "Health- Sub Centre",
+        "healthcare": "centre",
+        "name": "Health Sub-Centre ,Rangutia",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.2809513,
+          23.9419017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7149273586",
+      "properties": {
+        "@id": "node/7149273586",
+        "addr:full": "paschim Ludhua",
+        "addr:state": "Tripura",
+        "description": "Health- Sub Centre",
+        "healthcare": "centre",
+        "name": "Health Sub-Centre ,West Ludhua",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7311751,
+          23.0517508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7149273595",
+      "properties": {
+        "@id": "node/7149273595",
+        "addr:full": "Kaladhepa",
+        "addr:state": "Tripura",
+        "description": "Health- Sub Centre",
+        "healthcare": "centre",
+        "name": "Sub Centre, Kaladhepa",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.634799,
+          23.0570305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7149273600",
+      "properties": {
+        "@id": "node/7149273600",
+        "addr:full": "Kalam chowra",
+        "addr:state": "Tripura",
+        "description": "Health- Sub Centre",
+        "healthcare": "centre",
+        "name": "Health Sub-Centre ,North Kalamchowra",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.1941295,
+          23.5859727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7149273609",
+      "properties": {
+        "@id": "node/7149273609",
+        "addr:full": "Kalam Chowra",
+        "addr:state": "Tripura",
+        "description": "Health- Sub Centre",
+        "healthcare": "centre",
+        "name": "Health Sub-Centre ,South Kalamchowra",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.2020481,
+          23.57377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7149273618",
+      "properties": {
+        "@id": "node/7149273618",
+        "addr:full": "Ghruakappa",
+        "addr:state": "Tripura",
+        "description": "Health- Sub Centre",
+        "healthcare": "centre",
+        "name": "Sub Centre, Ghurakappa",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8027797,
+          23.1629165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7149273627",
+      "properties": {
+        "@id": "node/7149273627",
+        "addr:full": "Khayerpur",
+        "addr:state": "Tripura",
+        "amenity": "clinic",
+        "description": "Health- Sub Centre",
+        "healthcare": "centre",
+        "name": "Primary Health Sub-Centre ,Old Agartala",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.3440932,
+          23.8430292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7149273636",
+      "properties": {
+        "@id": "node/7149273636",
+        "addr:full": "Nehalchandranagar",
+        "addr:state": "Tripura",
+        "description": "Health- Sub Centre",
+        "healthcare": "centre",
+        "name": "Sub Centre, Pandabpur",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.2382284,
+          23.7435705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7149273641",
+      "properties": {
+        "@id": "node/7149273641",
+        "addr:full": "Ratanpur",
+        "addr:state": "Tripura",
+        "description": "Health- Sub Centre",
+        "healthcare": "centre",
+        "name": "Health Sub-Centre ,Ratanpur",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.3946142,
+          23.7354387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7149273646",
+      "properties": {
+        "@id": "node/7149273646",
+        "addr:full": "South, Dakshin Padmabil",
+        "addr:state": "Tripura",
+        "description": "Health- Sub Centre",
+        "healthcare": "centre",
+        "name": "Sub Health Center ,South Padmabil",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.1881749,
+          24.2887187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7149273651",
+      "properties": {
+        "@id": "node/7149273651",
+        "addr:full": "Uttar Ekchhari",
+        "addr:state": "Tripura",
+        "description": "Health- Sub Centre",
+        "healthcare": "centre",
+        "name": "health sub centre ,Bhanu Karbari Para",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7220828,
+          23.4223587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7149273656",
+      "properties": {
+        "@id": "node/7149273656",
+        "addr:full": "Mohanpur",
+        "addr:state": "Tripura",
+        "description": "Health- Sub Centre",
+        "healthcare": "centre",
+        "name": "Health Sub-Centre ,Harinakhola",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.3482667,
+          23.9674032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7149273665",
+      "properties": {
+        "@id": "node/7149273665",
+        "addr:full": "Meghliband",
+        "addr:state": "Tripura",
+        "description": "Health- Sub Centre",
+        "healthcare": "centre",
+        "name": "Health Sub Centre ,Meghliband",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.3944818,
+          24.0758361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7149273672",
+      "properties": {
+        "@id": "node/7149273672",
+        "addr:full": "Bampur",
+        "addr:state": "Tripura",
+        "description": "Health- Sub Centre",
+        "healthcare": "centre",
+        "name": "Health Sub Centre ,Bampur",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.634616,
+          23.5590417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7149273681",
+      "properties": {
+        "@id": "node/7149273681",
+        "addr:full": "Bagabil",
+        "addr:state": "Tripura",
+        "description": "Health- Sub Centre",
+        "healthcare": "centre",
+        "name": "Sub Centre, Bagabil",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.5150136,
+          24.0780866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7149273688",
+      "properties": {
+        "@id": "node/7149273688",
+        "addr:full": "Purba Dinabandhu Nagar Mandai",
+        "addr:state": "Tripura",
+        "description": "Health- Sub Centre",
+        "healthcare": "centre",
+        "name": "Sub Centre, Purba Dinabandhu Nagar",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.4435012,
+          23.8567062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7149273693",
+      "properties": {
+        "@id": "node/7149273693",
+        "addr:full": "Hezmara",
+        "addr:state": "Tripura",
+        "description": "Health- Sub Centre",
+        "healthcare": "centre",
+        "name": "Health Sub Centre ,Hezmara",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.4345151,
+          24.0004052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7149273698",
+      "properties": {
+        "@id": "node/7149273698",
+        "addr:full": "Purba Belchhara",
+        "addr:state": "Tripura",
+        "description": "Health- Sub Centre",
+        "healthcare": "centre",
+        "name": "Sub Centre, East Belchara",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.5473335,
+          24.0552186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7149273703",
+      "properties": {
+        "@id": "node/7149273703",
+        "addr:full": "Uttar Padmabil",
+        "addr:state": "Tripura",
+        "description": "Health- Sub Centre",
+        "healthcare": "centre",
+        "name": "Sub Centre, Uttar Padmabil",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.548395,
+          24.0471364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7149273708",
+      "properties": {
+        "@id": "node/7149273708",
+        "addr:full": "Khowrabill",
+        "addr:state": "Tripura",
+        "description": "Health- Sub Centre",
+        "healthcare": "centre",
+        "name": "Sub Centre, Khowrabill",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.0153341,
+          24.3808147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7149273713",
+      "properties": {
+        "@id": "node/7149273713",
+        "addr:full": "Uttar Padmabil",
+        "addr:state": "Tripura",
+        "description": "Health- Sub Centre",
+        "healthcare": "centre",
+        "name": "Health Sub Centre ,North Padmabill",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.1981333,
+          24.3039861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7149273718",
+      "properties": {
+        "@id": "node/7149273718",
+        "addr:full": "Ramdayalbari",
+        "addr:state": "Tripura",
+        "description": "Health- Sub Centre",
+        "healthcare": "centre",
+        "name": "Health Sub Centre ,Baramaidan",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.5612596,
+          23.9494396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7149273723",
+      "properties": {
+        "@id": "node/7149273723",
+        "addr:full": "Tuichakma",
+        "addr:state": "Tripura",
+        "description": "Health- Sub Centre",
+        "healthcare": "centre",
+        "name": "Sub Centre, Tuichakma",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.883761,
+          23.5356517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7149273728",
+      "properties": {
+        "@id": "node/7149273728",
+        "addr:full": "Uttar Padmabil",
+        "addr:state": "Tripura",
+        "description": "Health- Sub Centre",
+        "healthcare": "centre",
+        "name": "Health Sub Centre ,Mudibari",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.5419812,
+          24.0385815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7149273733",
+      "properties": {
+        "@id": "node/7149273733",
+        "addr:full": "Monacherra",
+        "addr:state": "Tripura",
+        "description": "Health- Sub Centre",
+        "healthcare": "centre",
+        "name": "Sub Centre, Monacherra",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.3211253,
+          24.1233391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7149273738",
+      "properties": {
+        "@id": "node/7149273738",
+        "addr:full": "Golabari",
+        "addr:state": "Tripura",
+        "description": "Health- Sub Centre",
+        "healthcare": "centre",
+        "name": "Sub Centre, Golabari",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.6389403,
+          23.852723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7149273743",
+      "properties": {
+        "@id": "node/7149273743",
+        "addr:full": "Ghilatali",
+        "addr:state": "Tripura",
+        "description": "Health- Sub Centre",
+        "healthcare": "centre",
+        "name": "Health Sub centre ,Ghilatali",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.6369642,
+          23.9089816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7149273748",
+      "properties": {
+        "@id": "node/7149273748",
+        "addr:full": "Jalai",
+        "addr:state": "Tripura",
+        "description": "Health- Sub Centre",
+        "healthcare": "centre",
+        "name": "Sub Centre, Jalai",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.0377915,
+          24.259618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7149273753",
+      "properties": {
+        "@id": "node/7149273753",
+        "addr:full": "Santirbazar",
+        "addr:state": "Tripura",
+        "amenity": "health_post",
+        "description": "Health- Sub Centre",
+        "healthcare": "centre",
+        "name": "Sub Centre, Avanga",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8253633,
+          24.0679817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7149273758",
+      "properties": {
+        "@id": "node/7149273758",
+        "addr:full": "Rabiraipara",
+        "addr:state": "Tripura",
+        "description": "Health- Sub Centre",
+        "healthcare": "centre",
+        "name": "Health Sub centre ,Joymoni para",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.1503417,
+          24.0706738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7149273763",
+      "properties": {
+        "@id": "node/7149273763",
+        "addr:full": "Mendi",
+        "addr:state": "Tripura",
+        "description": "Health- Sub Centre",
+        "healthcare": "centre",
+        "name": "Health Sub Centre ,Mendi",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8042187,
+          24.0180486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7149273768",
+      "properties": {
+        "@id": "node/7149273768",
+        "addr:full": "Betchhara",
+        "addr:state": "Tripura",
+        "amenity": "health_post",
+        "description": "Health- Sub Centre",
+        "healthcare": "centre",
+        "name": "Health Sub Centre ,Betchhara",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.006413,
+          24.1152636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7149273773",
+      "properties": {
+        "@id": "node/7149273773",
+        "addr:full": "Kachuchhara",
+        "addr:state": "Tripura",
+        "description": "Health- Sub Centre",
+        "healthcare": "centre",
+        "name": "Health Sub Centre ,East Daluchara",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8356214,
+          23.9885169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7149273780",
+      "properties": {
+        "@id": "node/7149273780",
+        "addr:full": "Kathalbari",
+        "addr:state": "Tripura",
+        "description": "Health- Sub Centre",
+        "healthcare": "centre",
+        "name": "Health Sub-Centre ,Kathalbari",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9005731,
+          23.9063475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7149273789",
+      "properties": {
+        "@id": "node/7149273789",
+        "addr:full": "Lontharai Valley",
+        "addr:state": "Tripura",
+        "description": "Health- Sub Centre",
+        "healthcare": "centre",
+        "name": "Health sub centre ,Mainama",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9995265,
+          23.9675999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7150796732",
+      "properties": {
+        "@id": "node/7150796732",
+        "addr:full": "Pratapgarh",
+        "addr:state": "Tripura",
+        "description": "Health- Sub Centre",
+        "healthcare": "centre",
+        "name": "Sub Health Center ,Subhash Nagar,Dharpara",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.2931144,
+          23.8081545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7153678943",
+      "properties": {
+        "@id": "node/7153678943",
+        "addr:full": "Uttar Hichachara",
+        "addr:state": "Tripura",
+        "description": "Health- Sub Centre",
+        "healthcare": "centre",
+        "name": "Sub Centre ,Kalashi",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.6319022,
+          23.240547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7210845085",
+      "properties": {
+        "@id": "node/7210845085",
+        "addr:district": "West Tripura",
+        "addr:full": "Mohanpur",
+        "addr:postcode": "799211",
+        "addr:state": "Tripura",
+        "healthcare": "centre",
+        "name": "Community Health Centre, Mohanpur",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.3724434,
+          23.9712836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7210866369",
+      "properties": {
+        "@id": "node/7210866369",
+        "addr:district": "West Tripura",
+        "addr:full": "Palace Compound, Kalibari Road, behind Laxmi Narayan Temple, Agartala",
+        "addr:postcode": "799001",
+        "addr:state": "Tripura",
+        "amenity": "clinic",
+        "name": "Laxmi Clinic",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.2843872,
+          23.8344295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7210907225",
+      "properties": {
+        "@id": "node/7210907225",
+        "addr:district": "South Tripura",
+        "addr:full": "Melaghar, Sonamura",
+        "addr:postcode": "799115",
+        "addr:state": "Tripura",
+        "amenity": "hospital",
+        "name": "Melaghar hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.3323109,
+          23.4931778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7210939765",
+      "properties": {
+        "@id": "node/7210939765",
+        "addr:district": "West Tripura",
+        "addr:full": "West Tripura",
+        "addr:postcode": "799001",
+        "addr:state": "Tripura",
+        "healthcare": "centre",
+        "name": "Urban Primary Health Centre",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.2827289,
+          23.8121814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7621605909",
+      "properties": {
+        "@id": "node/7621605909",
+        "addr:district": "Dhalai",
+        "addr:full": "Purba Daluchhara",
+        "addr:postcode": "799278",
+        "addr:state": "Tripura",
+        "amenity": "hospital",
+        "name": "Daluchara Ayorvedik Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8281359,
+          23.9965273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7621605910",
+      "properties": {
+        "@id": "node/7621605910",
+        "addr:district": "West Tripura",
+        "addr:full": "Dhaleswar",
+        "addr:postcode": "799001",
+        "addr:state": "Tripura",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "ASR Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.2819867,
+          23.8263332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7621605911",
+      "properties": {
+        "@id": "node/7621605911",
+        "addr:district": "West Tripura",
+        "addr:full": "CR Road, Santipara, Dhaleswar, Agartala",
+        "addr:postcode": "799001",
+        "addr:state": "Tripura",
+        "amenity": "hospital",
+        "name": "Venkataeswara Hospitals",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.2864718,
+          23.8303963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7621605912",
+      "properties": {
+        "@id": "node/7621605912",
+        "addr:district": "Unokoti",
+        "addr:full": "Dhaliarkandi",
+        "addr:postcode": "799281",
+        "addr:state": "Tripura",
+        "amenity": "hospital",
+        "name": "Irani Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.0209683,
+          24.3650387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7621605914",
+      "properties": {
+        "@id": "node/7621605914",
+        "addr:district": "Dhalai",
+        "addr:full": "Ambassa",
+        "addr:postcode": "799289",
+        "addr:state": "Tripura",
+        "amenity": "hospital",
+        "name": "Ambassa Government Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8535273,
+          23.9224905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7621605915",
+      "properties": {
+        "@id": "node/7621605915",
+        "addr:district": "Dhalai",
+        "addr:full": "Ambassa - Kamalpur Road",
+        "addr:postcode": "799278",
+        "addr:state": "Tripura",
+        "amenity": "clinic",
+        "name": "Bhanu Physiotherapy Clinic",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8289376,
+          24.0590304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7621605916",
+      "properties": {
+        "@id": "node/7621605916",
+        "addr:district": "West Tripura",
+        "addr:full": "Usha Bazar, Agartala",
+        "addr:postcode": "799009",
+        "addr:state": "Tripura",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "VHAT Eye Hospital",
+        "operator": "Voluntary Health Association of Tripura",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.254702,
+          23.878826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7621605917",
+      "properties": {
+        "@id": "node/7621605917",
+        "addr:district": "Unokoti",
+        "addr:full": "Ganganagar",
+        "addr:postcode": "799290",
+        "addr:state": "Tripura",
+        "amenity": "hospital",
+        "name": "Rajkandi Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.958401,
+          24.168476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7621605918",
+      "properties": {
+        "@id": "node/7621605918",
+        "addr:district": "North Tripura",
+        "addr:full": "Jalabasa, Pekuchhara",
+        "addr:postcode": "799260",
+        "addr:state": "Tripura",
+        "amenity": "hospital",
+        "name": "Jalabasa Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.181908,
+          24.259235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7621605919",
+      "properties": {
+        "@id": "node/7621605919",
+        "addr:district": "West Tripura",
+        "addr:full": "Agartala, Simna Road, Ishanpur",
+        "addr:postcode": "799212",
+        "addr:state": "Tripura",
+        "description": "Subcentre",
+        "healthcare": "centre",
+        "name": "Ishanpur Sub Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.4049069,
+          24.0541083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7621605920",
+      "properties": {
+        "@id": "node/7621605920",
+        "addr:district": "Dhalai",
+        "addr:full": "Manu Chhailengta",
+        "addr:postcode": "799273",
+        "addr:state": "Tripura",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Primary Health Centre, Manikpur",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.0440878,
+          23.8349397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7621605921",
+      "properties": {
+        "@id": "node/7621605921",
+        "addr:district": "Sepahijala",
+        "addr:full": "Purathal Rajnagar",
+        "addr:postcode": "799102",
+        "addr:state": "Tripura",
+        "amenity": "clinic",
+        "name": "Purathal Rajnagar Health Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.2241002,
+          23.6788308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7621605922",
+      "properties": {
+        "@id": "node/7621605922",
+        "addr:district": "North Tripura",
+        "addr:full": "Batarasi Road, Padmapur, Dharmanagar",
+        "addr:postcode": "799253",
+        "addr:state": "Tripura",
+        "amenity": "clinic",
+        "name": "Apollo Clinic",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.165601,
+          24.371949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7621605923",
+      "properties": {
+        "@id": "node/7621605923",
+        "addr:district": "Dhalai",
+        "addr:full": "Kamacherra, Ambassa",
+        "addr:postcode": "799289",
+        "addr:state": "Tripura",
+        "amenity": "hospital",
+        "name": "Makunda Christian Missionary Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8331377,
+          23.9149437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7621605924",
+      "properties": {
+        "@id": "node/7621605924",
+        "addr:district": "Unokoti",
+        "addr:full": "Kanchanchhara",
+        "addr:postcode": "799288",
+        "addr:state": "Tripura",
+        "amenity": "clinic",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Primary Health Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.0003175,
+          24.084382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7621605925",
+      "properties": {
+        "@id": "node/7621605925",
+        "addr:district": "West Tripura",
+        "addr:full": "Sadhu Tilla, Subhash Nagar, Jogendra Nagar, Agartala",
+        "addr:postcode": "799004",
+        "addr:state": "Tripura",
+        "addr:street": "Agartala Bypass",
+        "amenity": "hospital",
+        "name": "Homoeopathic Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.2981913,
+          23.8077381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7621605926",
+      "properties": {
+        "@id": "node/7621605926",
+        "addr:district": "North Tripura",
+        "addr:full": "Kanchanpur",
+        "addr:postcode": "799270",
+        "addr:state": "Tripura",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Primary Health Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.2014197,
+          24.0361317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7621605927",
+      "properties": {
+        "@id": "node/7621605927",
+        "addr:district": "Dhalai",
+        "addr:full": "Khowaipara",
+        "addr:postcode": "799289",
+        "addr:state": "Tripura",
+        "amenity": "hospital",
+        "name": "Ganganagar Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8458544,
+          23.7761829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7621605928",
+      "properties": {
+        "@id": "node/7621605928",
+        "addr:district": "South Tripura",
+        "addr:full": "Santir Bazar,Nnear Ramkrishna Seva Sangha, Agartala",
+        "addr:postcode": "799144",
+        "addr:state": "Tripura",
+        "amenity": "clinic",
+        "name": "Theia Eye Care Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.5620323,
+          23.3121204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7621605929",
+      "properties": {
+        "@id": "node/7621605929",
+        "addr:district": "West Tripura",
+        "addr:full": "Salbagan, Agartala",
+        "addr:postcode": "799012",
+        "addr:state": "Tripura",
+        "amenity": "clinic",
+        "name": "ECHS Polyclinic",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.2934195,
+          23.8808017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7621605930",
+      "properties": {
+        "@id": "node/7621605930",
+        "addr:district": "Gomati",
+        "addr:full": "Garji",
+        "addr:postcode": "799125",
+        "addr:state": "Tripura",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Primary Health Centre, Garji",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.508952,
+          23.428111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7621605931",
+      "properties": {
+        "@id": "node/7621605931",
+        "addr:district": "West Tripura",
+        "addr:full": "Master Para, Hapania, Agartala",
+        "addr:postcode": "799014",
+        "addr:state": "Tripura",
+        "amenity": "hospital",
+        "name": "Hapania Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.2591853,
+          23.7848589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7621605932",
+      "properties": {
+        "@id": "node/7621605932",
+        "addr:district": "North Tripura",
+        "addr:full": "Deochara",
+        "addr:postcode": "799260",
+        "addr:state": "Tripura",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Primary Health Care, Krishnatilla",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.1503897,
+          24.3005841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7621605933",
+      "properties": {
+        "@id": "node/7621605933",
+        "addr:district": "North Tripura",
+        "addr:full": "Algapur, Dharmanagar",
+        "addr:postcode": "799253",
+        "addr:state": "Tripura",
+        "amenity": "hospital",
+        "name": "Eye Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.1516952,
+          24.3717301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7621605934",
+      "properties": {
+        "@id": "node/7621605934",
+        "addr:district": "West Tripura",
+        "addr:full": "Radhapur",
+        "addr:postcode": "799035",
+        "addr:state": "Tripura",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Kherengbar Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.4424673,
+          23.7902884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7621605935",
+      "properties": {
+        "@id": "node/7621605935",
+        "addr:district": "Khowai",
+        "addr:full": "Nong Road",
+        "addr:postcode": "799207",
+        "addr:state": "Tripura",
+        "description": "Primary Health Centre",
+        "healthcare": "centre",
+        "name": "Primary Health Centre, Chebri",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.6265689,
+          24.0269077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7621605936",
+      "properties": {
+        "@id": "node/7621605936",
+        "addr:district": "Unokoti",
+        "addr:full": "Dakshin Machmara",
+        "addr:postcode": "799264",
+        "addr:state": "Tripura",
+        "amenity": "hospital",
+        "name": "Krishnatilla Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.11378,
+          24.087221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8185944183",
+      "properties": {
+        "@id": "node/8185944183",
+        "addr:district": "Dhalai District",
+        "addr:full": "Dumburnagar",
+        "addr:postcode": "799284",
+        "addr:state": "Tripura",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "Thakurachara Sub Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8701689,
+          23.5491661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8186015683",
+      "properties": {
+        "@id": "node/8186015683",
+        "addr:district": "Dhalai District",
+        "addr:full": "Durga Choumuhani",
+        "addr:postcode": "799287",
+        "addr:state": "Tripura",
+        "amenity": "health_post",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "Manikbhandar Sub Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8160821,
+          24.1388772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8186096697",
+      "properties": {
+        "@id": "node/8186096697",
+        "addr:district": "Dhalai District",
+        "addr:full": "Manu",
+        "addr:postcode": "799275",
+        "addr:state": "Tripura",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "Jamirchara Sub Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9633596,
+          23.989578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8186186816",
+      "properties": {
+        "@id": "node/8186186816",
+        "addr:district": "Dhalai District",
+        "addr:full": "Jaharnagar",
+        "addr:postcode": "799289",
+        "addr:state": "Tripura",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "Jaharnagar Sub Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8820068,
+          23.9338565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8186323959",
+      "properties": {
+        "@id": "node/8186323959",
+        "addr:district": "Dhalai District",
+        "addr:full": "CHAILENGTA",
+        "addr:postcode": "799273",
+        "addr:state": "Tripura",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "Lalchara Sub Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.0326102,
+          23.9310047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8186387824",
+      "properties": {
+        "@id": "node/8186387824",
+        "addr:district": "Dhalai District",
+        "addr:full": "Durga Choumuhani",
+        "addr:postcode": "799285",
+        "addr:state": "Tripura",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "Marachara Sub Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8527774,
+          24.1770674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8186413884",
+      "properties": {
+        "@id": "node/8186413884",
+        "addr:district": "Dhalai District",
+        "addr:full": "Durga Choumuhani",
+        "addr:postcode": "799285",
+        "addr:state": "Tripura",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "Mahabir Sub Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8561497,
+          24.1231316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8186454698",
+      "properties": {
+        "@id": "node/8186454698",
+        "addr:district": "Dhalai District",
+        "addr:full": "Manu",
+        "addr:postcode": "799275",
+        "addr:state": "Tripura",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "North Dhumacherra Sub Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9723892,
+          24.0291674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8186587310",
+      "properties": {
+        "@id": "node/8186587310",
+        "addr:district": "Dhalai District",
+        "addr:full": "Dumburnagar",
+        "addr:postcode": "799284",
+        "addr:state": "Tripura",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "Laxmipur Sub Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7978901,
+          23.6130015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8186627323",
+      "properties": {
+        "@id": "node/8186627323",
+        "addr:district": "Dhalai District",
+        "addr:full": "Manu",
+        "addr:postcode": "799275",
+        "addr:state": "Tripura",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "West Maslichara Sub Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.0103747,
+          24.0277661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8186729061",
+      "properties": {
+        "@id": "node/8186729061",
+        "addr:district": "Dhalai District",
+        "addr:full": "Manu",
+        "addr:postcode": "799275",
+        "addr:state": "Tripura",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "East Maslichara Sub Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.0281349,
+          24.0106311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8186895679",
+      "properties": {
+        "@id": "node/8186895679",
+        "addr:district": "Dhalai District",
+        "addr:full": "Manu",
+        "addr:postcode": "799275",
+        "addr:state": "Tripura",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "S K Para Sub centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9696198,
+          23.9737295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8186932604",
+      "properties": {
+        "@id": "node/8186932604",
+        "addr:district": "Dhalai District",
+        "addr:full": "Darlong Bosti",
+        "addr:postcode": "799275",
+        "addr:state": "Tripura",
+        "amenity": "health_post",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "Nalkata Sub Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9991375,
+          24.0668441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8186995797",
+      "properties": {
+        "@id": "node/8186995797",
+        "addr:district": "Dhalai District",
+        "addr:full": "Chawmanu",
+        "addr:postcode": "799273",
+        "addr:state": "Tripura",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "East Chawmanu Sub Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9951129,
+          23.8545843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8189512214",
+      "properties": {
+        "@id": "node/8189512214",
+        "addr:district": "Dhalai District",
+        "addr:full": "Mainama",
+        "addr:postcode": "799275",
+        "addr:state": "Tripura",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "Mainama Sub Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9949131,
+          23.9464937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8189569056",
+      "properties": {
+        "@id": "node/8189569056",
+        "addr:district": "Dhalai District",
+        "addr:full": "Kulai R.F.",
+        "addr:postcode": "799289",
+        "addr:state": "Tripura",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "Kulai R.F Extension Sub Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8579528,
+          23.8648599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8189613704",
+      "properties": {
+        "@id": "node/8189613704",
+        "addr:district": "Dhalai District",
+        "addr:full": "Ratannagar",
+        "addr:postcode": "799284",
+        "addr:state": "Tripura",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "Ratannagar Sub Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9020778,
+          23.5793436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8189642584",
+      "properties": {
+        "@id": "node/8189642584",
+        "addr:district": "Dhalai District",
+        "addr:full": "Mechuria",
+        "addr:postcode": "799278",
+        "addr:state": "Tripura",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "Machuria Sub Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8464756,
+          24.0473005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8192578326",
+      "properties": {
+        "@id": "node/8192578326",
+        "addr:district": "Dhalai District",
+        "addr:full": "Mohanpur",
+        "addr:postcode": "799285",
+        "addr:state": "Tripura",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "Mohanpur Sub Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8443231,
+          24.2064529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8192633095",
+      "properties": {
+        "@id": "node/8192633095",
+        "addr:district": "Dhalai District",
+        "addr:full": "Jayantibazar",
+        "addr:postcode": "799278",
+        "addr:state": "Tripura",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "Jayantibazar Sub Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8048765,
+          23.9916242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8192660172",
+      "properties": {
+        "@id": "node/8192660172",
+        "addr:district": "Dhalai District",
+        "addr:full": "Chulubari",
+        "addr:postcode": "799285",
+        "addr:state": "Tripura",
+        "amenity": "health_post",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "Chulubari Sub Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8296313,
+          24.141998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8192828387",
+      "properties": {
+        "@id": "node/8192828387",
+        "addr:district": "Dhalai District",
+        "addr:full": "Chottosurma",
+        "addr:postcode": "799285",
+        "addr:state": "Tripura",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "Chottosurma Sub Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8686883,
+          24.1395222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8192842373",
+      "properties": {
+        "@id": "node/8192842373",
+        "addr:district": "Dhalai District",
+        "addr:full": "West Chawmnau",
+        "addr:postcode": "799273",
+        "addr:state": "Tripura",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "West Chawmnau Sub Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9941728,
+          23.8497602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8192850095",
+      "properties": {
+        "@id": "node/8192850095",
+        "addr:district": "Dhalai District",
+        "addr:full": "Nakful",
+        "addr:postcode": "799278",
+        "addr:state": "Tripura",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "Nakful Sub Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8020421,
+          24.0965317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8192922176",
+      "properties": {
+        "@id": "node/8192922176",
+        "addr:district": "Dhalai District",
+        "addr:full": "Aparaskar",
+        "addr:postcode": "799286",
+        "addr:state": "Tripura",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "Aparaskar Sub Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7826042,
+          24.1004345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8193045910",
+      "properties": {
+        "@id": "node/8193045910",
+        "addr:district": "Dhalai District",
+        "addr:full": "Kachuchara",
+        "addr:postcode": "799278",
+        "addr:state": "Tripura",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "South Kachuchara Sub Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8541588,
+          23.9851609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8193065894",
+      "properties": {
+        "@id": "node/8193065894",
+        "addr:district": "Dhalai District",
+        "addr:full": "Baralutma",
+        "addr:postcode": "799286",
+        "addr:state": "Tripura",
+        "amenity": "health_post",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "Baralutma Sub Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8181233,
+          24.0832676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8193156229",
+      "properties": {
+        "@id": "node/8193156229",
+        "addr:district": "Dhalai District",
+        "addr:full": "Dabbari",
+        "addr:postcode": "799278",
+        "addr:state": "Tripura",
+        "amenity": "health_post",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "Dabbari Sub Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8457299,
+          24.0171054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8193435144",
+      "properties": {
+        "@id": "node/8193435144",
+        "addr:district": "Dhalai District",
+        "addr:full": "Nepaltilla",
+        "addr:postcode": "799288",
+        "addr:state": "Tripura",
+        "amenity": "health_post",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "Nepaltilla Sub Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9442113,
+          24.0572202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8193509738",
+      "properties": {
+        "@id": "node/8193509738",
+        "addr:district": "Dhalai District",
+        "addr:full": "Lalchari",
+        "addr:postcode": "799289",
+        "addr:state": "Tripura",
+        "amenity": "health_post",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "Lalchari Sub Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8399444,
+          23.9494421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8193705876",
+      "properties": {
+        "@id": "node/8193705876",
+        "addr:district": "Dhalai District",
+        "addr:full": "Baman Chara",
+        "addr:postcode": "799286",
+        "addr:state": "Tripura",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "Baman Chara Sub Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8415269,
+          24.1262919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8193730868",
+      "properties": {
+        "@id": "node/8193730868",
+        "addr:district": "Dhalai District",
+        "addr:full": "Kamalachara",
+        "addr:postcode": "799289",
+        "addr:state": "Tripura",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "Kamalachara Sub Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8170249,
+          23.9173361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8193852342",
+      "properties": {
+        "@id": "node/8193852342",
+        "addr:district": "Dhalai District",
+        "addr:full": "Jaganathpur",
+        "addr:postcode": "799289",
+        "addr:state": "Tripura",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "Jaganathpur Sub Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8558808,
+          23.9120951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8193865676",
+      "properties": {
+        "@id": "node/8193865676",
+        "addr:district": "Dhalai District",
+        "addr:full": "Manikpur",
+        "addr:postcode": "799273",
+        "addr:state": "Tripura",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "Manikpur Sub Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.0390126,
+          23.8391192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8193923442",
+      "properties": {
+        "@id": "node/8193923442",
+        "addr:district": "Dhalai District",
+        "addr:full": "Halhali",
+        "addr:postcode": "799286",
+        "addr:state": "Tripura",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "Halhali Sub Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8397218,
+          24.194738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8195630361",
+      "properties": {
+        "@id": "node/8195630361",
+        "addr:district": "Dhalai District",
+        "addr:full": "Siddhapara",
+        "addr:postcode": "799289",
+        "addr:state": "Tripura",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "Siddhapara Sub Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8774042,
+          23.7291345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8195641228",
+      "properties": {
+        "@id": "node/8195641228",
+        "addr:district": "Dhalai District",
+        "addr:full": "Kalachari",
+        "addr:postcode": "799287",
+        "addr:state": "Tripura",
+        "amenity": "health_post",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "Kalachari Sub Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.811049,
+          24.1665929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8195688395",
+      "properties": {
+        "@id": "node/8195688395",
+        "addr:district": "Dhalai District",
+        "addr:full": "Karnamanipara",
+        "addr:postcode": "799289",
+        "addr:state": "Tripura",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "Karnamanipara Sub Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8700804,
+          23.8124029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8195692946",
+      "properties": {
+        "@id": "node/8195692946",
+        "addr:district": "Dhalai District",
+        "addr:full": "North Kachuchara",
+        "addr:postcode": "799278",
+        "addr:state": "Tripura",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "North Kachuchara Sub Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.856786,
+          23.9922833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8195700493",
+      "properties": {
+        "@id": "node/8195700493",
+        "addr:district": "Dhalai District",
+        "addr:full": "Karatichara",
+        "addr:postcode": "799275",
+        "addr:state": "Tripura",
+        "amenity": "health_post",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "Karatichara Sub Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9659694,
+          24.054564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8195755642",
+      "properties": {
+        "@id": "node/8195755642",
+        "addr:district": "Dhalai District",
+        "addr:full": "Sarma",
+        "addr:postcode": "799284",
+        "addr:state": "Tripura",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "Sarma Sub Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8253157,
+          23.5919698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8195780536",
+      "properties": {
+        "@id": "node/8195780536",
+        "addr:district": "Gomati District",
+        "addr:full": "Birganj",
+        "addr:postcode": "799101",
+        "addr:state": "Tripura",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "Birganj Sub centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.6690314,
+          23.5417304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8195823524",
+      "properties": {
+        "@id": "node/8195823524",
+        "addr:district": "Gomati District",
+        "addr:full": "Baishyamani",
+        "addr:postcode": "799101",
+        "addr:state": "Tripura",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "Baishyamani Sub centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.6224575,
+          23.6696917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8195841074",
+      "properties": {
+        "@id": "node/8195841074",
+        "addr:district": "Gomati District",
+        "addr:full": "Dhuptali",
+        "addr:postcode": "799105",
+        "addr:state": "Tripura",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "Dhuptali Sub centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.4407928,
+          23.3940667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8195931012",
+      "properties": {
+        "@id": "node/8195931012",
+        "addr:district": "Gomati District",
+        "addr:full": "West Malbasa",
+        "addr:postcode": "799101",
+        "addr:state": "Tripura",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "West Malbasa Sub centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.6818202,
+          23.5154021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8195962906",
+      "properties": {
+        "@id": "node/8195962906",
+        "addr:district": "Gomati District",
+        "addr:full": "Tepania",
+        "addr:postcode": "799114",
+        "addr:state": "Tripura",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "Tepania Sub centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.4532684,
+          23.5506216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8195977099",
+      "properties": {
+        "@id": "node/8195977099",
+        "addr:district": "Gomati District",
+        "addr:full": "Purba Tulamura",
+        "addr:postcode": "799105",
+        "addr:state": "Tripura",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "Purba Tulamura Sub centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.4436802,
+          23.4259261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8195986256",
+      "properties": {
+        "@id": "node/8195986256",
+        "addr:district": "Gomati District",
+        "addr:full": "Pachim Khupilong",
+        "addr:postcode": "799114",
+        "addr:state": "Tripura",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "Pachim Khupilong Sub centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.4627695,
+          23.5856194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8195998855",
+      "properties": {
+        "@id": "node/8195998855",
+        "addr:district": "Gomati District",
+        "addr:full": "Hadra",
+        "addr:postcode": "799105",
+        "addr:state": "Tripura",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "Hadra Sub centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.4452118,
+          23.5304617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8196060225",
+      "properties": {
+        "@id": "node/8196060225",
+        "addr:district": "Gomati District",
+        "addr:full": "Kaptali",
+        "addr:postcode": "799104",
+        "addr:state": "Tripura",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "Kaptali Sub centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8154612,
+          23.1049648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8196071471",
+      "properties": {
+        "@id": "node/8196071471",
+        "addr:district": "Gomati District",
+        "addr:full": "Jatan Bari",
+        "addr:postcode": "799104",
+        "addr:state": "Tripura",
+        "description": "SubCentre",
+        "healthcare": "centre",
+        "name": "Jatan Bari Sub centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7668556,
+          23.4006553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10304474429",
+      "properties": {
+        "@id": "node/10304474429",
+        "healthcare": "clinic",
+        "name": "Ganganagar Primary Health Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8452463,
+          23.7771463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11369371470",
+      "properties": {
+        "@id": "node/11369371470",
+        "addr:postcode": "799285",
+        "addr:street": "Noagaon Chowmuhani",
+        "amenity": "pharmacy",
+        "name": "Khan Medi Shop",
+        "opening_hours": "Mo-Su 10:00-20:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8296291,
+          24.1920687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14320748198",
+      "properties": {
+        "@id": "node/14320748198",
+        "addr:city": "Agartala",
+        "addr:district": "Agartala",
+        "addr:housenumber": "R7XR+6C Agartala, Tripura",
+        "addr:postcode": "799005",
+        "addr:street": "ujan Abhoynagar",
+        "amenity": "doctors",
+        "healthcare": "doctor",
+        "healthcare:speciality": "internal",
+        "name": "Technical Sourav",
+        "opening_hours": "mo-fr",
+        "operator": "Sourav Bhattacharjee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.2910733,
+          23.8481242
+        ]
+      }
+    }
+  ]
+}
