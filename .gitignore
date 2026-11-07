@@ -1,0 +1,12 @@
+# HealthTwin datasets
+HealthTwin/Data/
+HealthTwin/Cleaned_Data/
+HealthTwin/Preprocessed_Data/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env
